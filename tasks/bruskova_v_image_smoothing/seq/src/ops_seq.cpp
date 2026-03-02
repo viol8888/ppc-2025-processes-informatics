@@ -7,7 +7,9 @@ BruskovaVImageSmoothingSEQ::BruskovaVImageSmoothingSEQ(const InType &in) {
   GetInput() = in;
 }
 
-bool BruskovaVImageSmoothingSEQ::ValidationImpl() { return true; }
+bool BruskovaVImageSmoothingSEQ::ValidationImpl() {
+  return true;
+}
 
 bool BruskovaVImageSmoothingSEQ::PreProcessingImpl() {
   const auto &in = this->GetInput();
@@ -38,4 +40,4 @@ bool BruskovaVImageSmoothingSEQ::PostProcessingImpl() {
   return true;
 }
 
-} // namespace bruskova_v_image_smoothing
+}  // namespace bruskova_v_image_smoothing

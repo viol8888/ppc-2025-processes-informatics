@@ -66,8 +66,7 @@ bool BruskovaVGlobalOptimizationMPI::RunImpl() {
     result_ = {local_min[0], local_min[1], local_min[2]};
     for (int p = 1; p < size; ++p) {
       double recv_min[3];
-      MPI_Recv(recv_min, 3, MPI_DOUBLE, p, 0, MPI_COMM_WORLD,
-               MPI_STATUS_IGNORE);
+      MPI_Recv(recv_min, 3, MPI_DOUBLE, p, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
       if (recv_min[0] < result_[0]) {
         result_[0] = recv_min[0];
         result_[1] = recv_min[1];
@@ -91,4 +90,4 @@ bool BruskovaVGlobalOptimizationMPI::PostProcessingImpl() {
   }
   return true;
 }
-} // namespace bruskova_v_global_optimization
+}  // namespace bruskova_v_global_optimization

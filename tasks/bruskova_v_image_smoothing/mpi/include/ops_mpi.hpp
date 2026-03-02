@@ -10,7 +10,7 @@ namespace bruskova_v_image_smoothing {
 class BruskovaVImageSmoothingMPI : public BaseTask {
   using BaseTask = ppc::task::Task<InType, OutType>;
 
-public:
+ public:
   static constexpr ppc::task::TypeOfTask GetStaticTypeOfTask() {
     return ppc::task::TypeOfTask::kMPI;
   }
@@ -21,11 +21,11 @@ public:
   bool RunImpl() override;
   bool PostProcessingImpl() override;
 
-private:
+ private:
   std::vector<int> input_img_;
   std::vector<int> result_img_;
   int width_ = 0;
   int height_ = 0;
 };
 
-} // namespace bruskova_v_image_smoothing
+}  // namespace bruskova_v_image_smoothing

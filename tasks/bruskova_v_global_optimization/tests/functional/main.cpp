@@ -14,20 +14,17 @@
 
 namespace bruskova_v_global_optimization {
 
-class BruskovaVGlobalOptimizationFuncTests
-    : public ppc::util::BaseRunFuncTests<InType, OutType, TestType> {
-public:
+class BruskovaVGlobalOptimizationFuncTests : public ppc::util::BaseRunFuncTests<InType, OutType, TestType> {
+ public:
   BruskovaVGlobalOptimizationFuncTests() = default;
 
-  static std::string
-  PrintTestParam(const testing::TestParamInfo<ParamType> &info) {
+  static std::string PrintTestParam(const testing::TestParamInfo<ParamType> &info) {
     return "GlobalOptimizationTest";
   }
 
-protected:
+ protected:
   void SetUp() override {
-    TestType params = std::get<static_cast<std::size_t>(
-        ppc::util::GTestParamIndex::kTestParams)>(GetParam());
+    TestType params = std::get<static_cast<std::size_t>(ppc::util::GTestParamIndex::kTestParams)>(GetParam());
     input_data_ = std::get<0>(params);
     expected_output_ = std::get<1>(params);
   }
@@ -50,9 +47,11 @@ protected:
     return true;
   }
 
-  InType GetTestInputData() final { return input_data_; }
+  InType GetTestInputData() final {
+    return input_data_;
+  }
 
-private:
+ private:
   InType input_data_;
   OutType expected_output_;
 };
@@ -62,22 +61,16 @@ TEST_P(BruskovaVGlobalOptimizationFuncTests, TestOptimization) {
 }
 
 const std::array<TestType, 2> kTestParam = {
-    TestType{std::vector<double>{-1.0, 1.0, -1.0, 1.0, 0.1},
-             std::vector<double>{0.0, 0.0, 0.0}},
-    TestType{std::vector<double>{1.0, 2.0, 1.0, 2.0, 0.1},
-             std::vector<double>{2.0, 1.0, 1.0}}};
+    TestType{std::vector<double>{-1.0, 1.0, -1.0, 1.0, 0.1}, std::vector<double>{0.0, 0.0, 0.0}},
+    TestType{std::vector<double>{1.0, 2.0, 1.0, 2.0, 0.1}, std::vector<double>{2.0, 1.0, 1.0}}};
 
 const auto kTestTasksList = std::tuple_cat(
-    ppc::util::AddFuncTask<BruskovaVGlobalOptimizationMPI, InType>(
-        kTestParam, "bruskova_v_global_optimization_mpi"),
-    ppc::util::AddFuncTask<BruskovaVGlobalOptimizationSEQ, InType>(
-        kTestParam, "bruskova_v_global_optimization_seq"));
+    ppc::util::AddFuncTask<BruskovaVGlobalOptimizationMPI, InType>(kTestParam, "bruskova_v_global_optimization_mpi"),
+    ppc::util::AddFuncTask<BruskovaVGlobalOptimizationSEQ, InType>(kTestParam, "bruskova_v_global_optimization_seq"));
 
 const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
 
-INSTANTIATE_TEST_SUITE_P(
-    OptimizationTests, BruskovaVGlobalOptimizationFuncTests, kGtestValues,
-    BruskovaVGlobalOptimizationFuncTests::PrintFuncTestName<
-        BruskovaVGlobalOptimizationFuncTests>);
+INSTANTIATE_TEST_SUITE_P(OptimizationTests, BruskovaVGlobalOptimizationFuncTests, kGtestValues,
+                         BruskovaVGlobalOptimizationFuncTests::PrintFuncTestName<BruskovaVGlobalOptimizationFuncTests>);
 
-} // namespace bruskova_v_global_optimization
+}  // namespace bruskova_v_global_optimization

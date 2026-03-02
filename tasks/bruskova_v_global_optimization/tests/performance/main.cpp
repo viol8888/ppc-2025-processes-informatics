@@ -25,8 +25,7 @@ TEST(BruskovaVGlobalOptimizationPerfTests, RunManualMPI) {
   double end = MPI_Wtime();
 
   if (rank == 0) {
-    std::cout << "[ PERF ] Global Optimization MPI Time: " << (end - start)
-              << " seconds\n";
+    std::cout << "[ PERF ] Global Optimization MPI Time: " << (end - start) << " seconds\n";
   }
 }
-} // namespace bruskova_v_global_optimization
+}  // namespace bruskova_v_global_optimization

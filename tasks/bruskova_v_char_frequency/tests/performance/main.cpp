@@ -30,8 +30,7 @@ TEST(BruskovaVCharFrequencyPerfTests, RunManualMPIPerf) {
   auto end_time = MPI_Wtime();
 
   if (rank == 0) {
-    std::cout << "[ PERF ] MPI Execution Time: " << (end_time - start_time)
-              << " seconds\n";
+    std::cout << "[ PERF ] MPI Execution Time: " << (end_time - start_time) << " seconds\n";
   }
 }
 
@@ -55,9 +54,8 @@ TEST(BruskovaVCharFrequencyPerfTests, RunManualSEQPerf) {
     auto end_time = std::chrono::high_resolution_clock::now();
     std::chrono::duration<double> diff = end_time - start_time;
 
-    std::cout << "[ PERF ] SEQ Execution Time: " << diff.count()
-              << " seconds\n";
+    std::cout << "[ PERF ] SEQ Execution Time: " << diff.count() << " seconds\n";
   }
 }
 
-} // namespace bruskova_v_char_frequency
+}  // namespace bruskova_v_char_frequency
