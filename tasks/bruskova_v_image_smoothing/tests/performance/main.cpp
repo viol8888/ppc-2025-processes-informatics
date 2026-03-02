@@ -1,5 +1,7 @@
 #include <gtest/gtest.h>
+
 #include <vector>
+
 #include "bruskova_v_image_smoothing/common/include/common.hpp"
 #include "bruskova_v_image_smoothing/mpi/include/ops_mpi.hpp"
 #include "bruskova_v_image_smoothing/seq/include/ops_seq.hpp"
@@ -14,14 +16,20 @@ class ImageSmoothingPerfTests : public ppc::util::BaseRunPerfTests<InType, OutTy
   bool CheckTestOutputData(OutType &output_data) final {
     return output_data.size() == input_data_.size();
   }
-  InType GetTestInputData() final { return input_data_; }
+  InType GetTestInputData() final {
+    return input_data_;
+  }
+
  private:
   InType input_data_;
 };
 
-TEST_P(ImageSmoothingPerfTests, RunPerf) { ExecuteTest(GetParam()); }
+TEST_P(ImageSmoothingPerfTests, RunPerf) {
+  ExecuteTest(GetParam());
+}
 
-const auto kAllPerfTasks = ppc::util::MakeAllPerfTasks<InType, BruskovaVImageSmoothingMPI, BruskovaVImageSmoothingSEQ>(PPC_SETTINGS_bruskova_v_image_smoothing);
+const auto kAllPerfTasks = ppc::util::MakeAllPerfTasks<InType, BruskovaVImageSmoothingMPI, BruskovaVImageSmoothingSEQ>(
+    PPC_SETTINGS_bruskova_v_image_smoothing);
 const auto kGtestValues = ppc::util::TupleToGTestValues(kAllPerfTasks);
 INSTANTIATE_TEST_SUITE_P(PerfTests, ImageSmoothingPerfTests, kGtestValues, ImageSmoothingPerfTests::CustomPerfTestName);
-}
+}  // namespace bruskova_v_image_smoothing

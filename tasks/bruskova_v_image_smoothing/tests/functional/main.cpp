@@ -1,6 +1,8 @@
 #include <gtest/gtest.h>
+
 #include <tuple>
 #include <vector>
+
 #include "bruskova_v_image_smoothing/common/include/common.hpp"
 #include "bruskova_v_image_smoothing/mpi/include/ops_mpi.hpp"
 #include "bruskova_v_image_smoothing/seq/include/ops_seq.hpp"
@@ -17,17 +19,23 @@ class ImageSmoothingFuncTests : public ppc::util::BaseRunFuncTests<InType, OutTy
   bool CheckTestOutputData(OutType &output_data) final {
     return output_data.size() == input_data_.size();
   }
-  InType GetTestInputData() final { return input_data_; }
+  InType GetTestInputData() final {
+    return input_data_;
+  }
+
  private:
   InType input_data_;
 };
 
-TEST_P(ImageSmoothingFuncTests, SmoothingTest) { ExecuteTest(GetParam()); }
+TEST_P(ImageSmoothingFuncTests, SmoothingTest) {
+  ExecuteTest(GetParam());
+}
 
 const std::vector<TestType> kTestParam = {std::make_tuple(10), std::make_tuple(50)};
 const auto kTestTasksList = std::tuple_cat(
     ppc::util::AddFuncTask<BruskovaVImageSmoothingMPI, InType>(kTestParam, PPC_SETTINGS_bruskova_v_image_smoothing),
     ppc::util::AddFuncTask<BruskovaVImageSmoothingSEQ, InType>(kTestParam, PPC_SETTINGS_bruskova_v_image_smoothing));
 const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
-INSTANTIATE_TEST_SUITE_P(FuncTests, ImageSmoothingFuncTests, kGtestValues, ImageSmoothingFuncTests::PrintFuncTestName<ImageSmoothingFuncTests>);
-}
+INSTANTIATE_TEST_SUITE_P(FuncTests, ImageSmoothingFuncTests, kGtestValues,
+                         ImageSmoothingFuncTests::PrintFuncTestName<ImageSmoothingFuncTests>);
+}  // namespace bruskova_v_image_smoothing
