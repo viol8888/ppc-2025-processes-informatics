@@ -1,5 +1,6 @@
 #include <gtest/gtest.h>
 #include <mpi.h>
+
 #include <array>
 #include <string>
 #include <tuple>
@@ -17,7 +18,7 @@ class BruskovaVCharFrequencyFuncTests : public ppc::util::BaseRunFuncTests<InTyp
  public:
   BruskovaVCharFrequencyFuncTests() = default;
 
-  static std::string PrintTestParam(const TestType& test_param) {
+  static std::string PrintTestParam(const TestType &test_param) {
     return "CharFreqTest";
   }
 
@@ -50,12 +51,11 @@ TEST_P(BruskovaVCharFrequencyFuncTests, TestCharFrequency) {
   ExecuteTest(GetParam());
 }
 
-const std::array<TestType, 5> kTestParam = {
-    TestType{std::make_pair(std::string("abracadabra"), 'a'), 5},
-    TestType{std::make_pair(std::string("hello world"), 'o'), 2},
-    TestType{std::make_pair(std::string("aaaaa"), 'b'), 0},
-    TestType{std::make_pair(std::string(""), 'x'), 0},
-    TestType{std::make_pair(std::string("z"), 'z'), 1}};
+const std::array<TestType, 5> kTestParam = {TestType{std::make_pair(std::string("abracadabra"), 'a'), 5},
+                                            TestType{std::make_pair(std::string("hello world"), 'o'), 2},
+                                            TestType{std::make_pair(std::string("aaaaa"), 'b'), 0},
+                                            TestType{std::make_pair(std::string(""), 'x'), 0},
+                                            TestType{std::make_pair(std::string("z"), 'z'), 1}};
 
 const auto kTestTasksList = std::tuple_cat(
     ppc::util::AddFuncTask<BruskovaVCharFrequencyMPI, InType>(kTestParam, "bruskova_v_char_frequency_mpi"),

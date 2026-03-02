@@ -1,10 +1,11 @@
 #include <gtest/gtest.h>
 #include <mpi.h>
+
 #include <array>
 #include <cmath>
+#include <string>
 #include <tuple>
 #include <vector>
-#include <string>
 
 #include "bruskova_v_global_optimization/common/include/common.hpp"
 #include "bruskova_v_global_optimization/mpi/include/ops_mpi.hpp"
@@ -17,7 +18,7 @@ class BruskovaVGlobalOptimizationFuncTests : public ppc::util::BaseRunFuncTests<
  public:
   BruskovaVGlobalOptimizationFuncTests() = default;
 
-  static std::string PrintTestParam(const TestType& test_param) {
+  static std::string PrintTestParam(const TestType &test_param) {
     return "OptimizationTest";
   }
 
