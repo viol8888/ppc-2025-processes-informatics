@@ -123,3 +123,4 @@ INSTANTIATE_TEST_SUITE_P(SizovDStringMismatchCount, SizovDRunFuncTestsStringMism
 
 }  // namespace
 }  // namespace sizov_d_string_mismatch_count
+

@@ -105,3 +105,4 @@ INSTANTIATE_TEST_SUITE_P(FileTests, LiulinYVertStripDiagMatrixVectMultFuncTestsF
 
 }  // namespace
 }  // namespace liulin_y_vert_strip_diag_matrix_vect_mult
+

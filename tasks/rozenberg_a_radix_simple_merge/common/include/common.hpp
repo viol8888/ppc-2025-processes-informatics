@@ -13,3 +13,4 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace rozenberg_a_radix_simple_merge
+

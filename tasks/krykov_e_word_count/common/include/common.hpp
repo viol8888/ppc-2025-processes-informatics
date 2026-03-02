@@ -13,3 +13,4 @@ using TestType = std::tuple<std::string, int>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace krykov_e_word_count
+

@@ -20,3 +20,4 @@ class YurkinGShellBetcherMPI : public BaseTask {
 };
 
 }  // namespace  yurkin_g_shellbetcher
+

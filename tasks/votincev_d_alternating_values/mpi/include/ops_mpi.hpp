@@ -28,3 +28,4 @@ class VotincevDAlternatingValuesMPI : public BaseTask {
 };
 
 }  // namespace votincev_d_alternating_values
+

@@ -14,3 +14,4 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace nikitin_a_vec_sign_rotation
+

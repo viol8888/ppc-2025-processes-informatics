@@ -13,3 +13,4 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace agafonov_i_sentence_count
+

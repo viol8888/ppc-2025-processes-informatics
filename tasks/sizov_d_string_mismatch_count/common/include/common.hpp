@@ -13,3 +13,4 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace sizov_d_string_mismatch_count
+

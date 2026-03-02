@@ -43,3 +43,4 @@ bool VotincevDAlternatingValuesSEQ::PostProcessingImpl() {
 }
 
 }  // namespace votincev_d_alternating_values
+

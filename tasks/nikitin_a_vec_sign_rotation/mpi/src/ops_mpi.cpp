@@ -157,3 +157,4 @@ void NikitinAVecSignRotationMPI::WorkerProcess() {
 }
 
 }  // namespace nikitin_a_vec_sign_rotation
+

@@ -169,3 +169,4 @@ bool KrykovESimpleIterationsMPI::PostProcessingImpl() {
 }
 
 }  // namespace krykov_e_simple_iterations
+

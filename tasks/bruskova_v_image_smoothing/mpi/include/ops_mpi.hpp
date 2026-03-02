@@ -31,3 +31,4 @@ class BruskovaVImageSmoothingMPI : public BaseTask {
 };
 
 }  // namespace bruskova_v_image_smoothing
+

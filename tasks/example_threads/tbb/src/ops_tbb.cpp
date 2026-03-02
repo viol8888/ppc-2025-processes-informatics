@@ -54,3 +54,4 @@ bool NesterovATestTaskTBB::PostProcessingImpl() {
 }
 
 }  // namespace nesterov_a_test_task_threads
+

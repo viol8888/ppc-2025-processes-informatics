@@ -20,3 +20,4 @@ class MorozovaSMatrixMaxValueSEQ : public BaseTask {
 };
 
 }  // namespace morozova_s_matrix_max_value
+

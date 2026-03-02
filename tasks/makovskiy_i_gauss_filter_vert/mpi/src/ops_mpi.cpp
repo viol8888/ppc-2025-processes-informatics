@@ -241,3 +241,4 @@ bool GaussFilterMPI::PostProcessingImpl() {
 }
 
 }  // namespace makovskiy_i_gauss_filter_vert
+

@@ -66,3 +66,4 @@ const auto kPerfTestName = ChyokotovASeidelMethodPerfTest::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ChyokotovASeidelMethodPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace chyokotov_a_seidel_method
+

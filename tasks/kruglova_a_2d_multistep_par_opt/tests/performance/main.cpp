@@ -42,3 +42,4 @@ const auto kPerfTestName = KruglovaA2DMultRunPerfTest::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KruglovaA2DMultRunPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace kruglova_a_2d_multistep_par_opt
+

@@ -891,3 +891,4 @@ bool LeonovaAStarMPI::PostProcessingImpl() {
 }
 
 }  // namespace leonova_a_star
+

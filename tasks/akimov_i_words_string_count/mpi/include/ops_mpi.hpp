@@ -25,3 +25,4 @@ class AkimovIWordsStringCountMPI : public BaseTask {
   int word_count_ = 0;
 };
 }  // namespace akimov_i_words_string_count
+

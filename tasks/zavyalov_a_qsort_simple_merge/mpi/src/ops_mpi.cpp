@@ -78,3 +78,4 @@ bool ZavyalovAQsortMPI::PostProcessingImpl() {
 }
 
 }  // namespace zavyalov_a_qsort_simple_merge
+

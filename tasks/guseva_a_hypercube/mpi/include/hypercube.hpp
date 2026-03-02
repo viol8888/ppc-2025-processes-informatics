@@ -121,3 +121,4 @@ class Hypercube {
   }
 };
 }  // namespace guseva_a_hypercube
+

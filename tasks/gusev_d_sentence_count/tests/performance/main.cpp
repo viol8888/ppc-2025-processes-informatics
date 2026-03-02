@@ -150,3 +150,4 @@ INSTANTIATE_TEST_SUITE_P(RunModeTestsSmallInput, GusevDSentenceCountSmallInputPe
                          kPerfTestNameSmallInput);
 
 }  // namespace gusev_d_sentence_count
+

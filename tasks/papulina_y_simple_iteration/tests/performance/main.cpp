@@ -90,3 +90,4 @@ const auto kPerfTestName = PapulinaYSimpleIterationRunPerfTestProcesses::CustomP
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PapulinaYSimpleIterationRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace papulina_y_simple_iteration
+

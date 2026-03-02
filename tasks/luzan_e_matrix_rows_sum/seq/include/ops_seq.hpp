@@ -20,3 +20,4 @@ class LuzanEMatrixRowsSumSEQ : public BaseTask {
 };
 
 }  // namespace luzan_e_matrix_rows_sum
+

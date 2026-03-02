@@ -63,3 +63,4 @@ const auto kPerfTestName = GonozovLRunIterationMethodPerfTest::CustomPerfTestNam
 INSTANTIATE_TEST_SUITE_P(RunModeTests, GonozovLRunIterationMethodPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace gonozov_l_simple_iteration_method
+

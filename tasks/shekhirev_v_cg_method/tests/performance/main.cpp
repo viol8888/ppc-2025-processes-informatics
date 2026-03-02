@@ -70,3 +70,4 @@ INSTANTIATE_TEST_SUITE_P(CGPerf, ShekhirevVCGPerfTests, kGtestValues, kPerfTestN
 
 }  // namespace
 }  // namespace shekhirev_v_cg_method
+

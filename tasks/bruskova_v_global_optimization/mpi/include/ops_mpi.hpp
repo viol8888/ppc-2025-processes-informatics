@@ -24,3 +24,4 @@ class BruskovaVGlobalOptimizationMPI : public ppc::task::BaseTask<InType, OutTyp
   OutType result_;
 };
 }  // namespace bruskova_v_global_optimization
+

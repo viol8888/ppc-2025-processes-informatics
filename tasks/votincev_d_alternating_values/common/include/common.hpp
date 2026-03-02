@@ -13,3 +13,4 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace votincev_d_alternating_values
+

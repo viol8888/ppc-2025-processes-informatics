@@ -79,3 +79,4 @@ const auto kPerfTestName = GutyanskyAMatrixColumnSumPerfTest::CustomPerfTestName
 INSTANTIATE_TEST_SUITE_P(RunModeTests, GutyanskyAMatrixColumnSumPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace gutyansky_a_matrix_column_sum
+

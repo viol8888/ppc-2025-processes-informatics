@@ -190,3 +190,4 @@ INSTANTIATE_TEST_SUITE_P(DotProductTests, SpichekDDotProductOfVectorsRunFuncTest
 }  // namespace
 
 }  // namespace spichek_d_dot_product_of_vectors
+

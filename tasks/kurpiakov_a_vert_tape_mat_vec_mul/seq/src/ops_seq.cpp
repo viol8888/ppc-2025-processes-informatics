@@ -68,3 +68,4 @@ bool KurpiakovAVretTapeMulSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kurpiakov_a_vert_tape_mat_vec_mul
+

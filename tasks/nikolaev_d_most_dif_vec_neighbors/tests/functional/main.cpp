@@ -90,3 +90,4 @@ INSTANTIATE_TEST_SUITE_P(MostDifVecNeighbors, NikolaevDMostDifVecNeighborsFuncTe
 }  // namespace
 
 }  // namespace nikolaev_d_most_dif_vec_neighbors
+

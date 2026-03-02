@@ -25,3 +25,4 @@ class TrapezoidIntegrationMPI
 };
 
 }  // namespace kutergin_v_trapezoid_mpi
+

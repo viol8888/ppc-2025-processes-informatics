@@ -25,3 +25,4 @@ class GusevaAHypercubeMine : public BaseTask {
 };
 
 }  // namespace guseva_a_hypercube
+

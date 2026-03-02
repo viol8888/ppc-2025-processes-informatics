@@ -20,3 +20,4 @@ class TestTaskSEQ : public BaseTask {
 };
 
 }  // namespace nikitina_v_trans_all_one_distrib
+

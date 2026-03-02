@@ -106,3 +106,4 @@ INSTANTIATE_TEST_SUITE_P(QuickSortTests, RunFuncTests, kGtestValues, kPerfTestNa
 }  // namespace
 
 }  // namespace nikitina_v_quick_sort_merge
+

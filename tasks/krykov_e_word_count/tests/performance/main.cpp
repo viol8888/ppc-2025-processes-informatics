@@ -51,3 +51,4 @@ const auto kPerfTestName = KrykovEWordCountPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KrykovEWordCountPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace krykov_e_word_count
+

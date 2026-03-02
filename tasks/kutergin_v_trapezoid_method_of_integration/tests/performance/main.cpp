@@ -73,3 +73,4 @@ INSTANTIATE_TEST_SUITE_P(TrapezoidPerf, KuterginVRunPerfTests, ppc::util::TupleT
 }  // namespace
 
 }  // namespace kutergin_v_trapezoid_seq
+

@@ -87,3 +87,4 @@ bool KutuzovIElemVecAverageMPI::PostProcessingImpl() {
 }
 
 }  // namespace kutuzov_i_elem_vec_average
+

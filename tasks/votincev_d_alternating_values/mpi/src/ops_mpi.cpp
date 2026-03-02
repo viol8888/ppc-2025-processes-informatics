@@ -160,3 +160,4 @@ void VotincevDAlternatingValuesMPI::ProcessWorker() {
 }
 
 }  // namespace votincev_d_alternating_values
+

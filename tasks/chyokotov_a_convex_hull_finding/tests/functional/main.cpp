@@ -123,3 +123,4 @@ INSTANTIATE_TEST_SUITE_P(ConvexHullInBinaryImageTests, ChyokotovConvexHullFuncTe
 }  // namespace
 
 }  // namespace chyokotov_a_convex_hull_finding
+

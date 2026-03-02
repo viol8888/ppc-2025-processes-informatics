@@ -40,3 +40,4 @@ class VotincevDQsortBatcherMPI : public BaseTask {
 };
 
 }  // namespace votincev_d_qsort_batcher
+

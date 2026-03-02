@@ -32,3 +32,4 @@ class EreminVStronginAlgorithmMPI : public BaseTask {
 };
 
 }  // namespace eremin_v_strongin_algorithm
+

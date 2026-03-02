@@ -20,3 +20,4 @@ class OvsyannikovNStarSEQ : public BaseTask {
 };
 
 }  // namespace ovsyannikov_n_star
+

@@ -58,3 +58,4 @@ inline double ObjectiveFunction(double x, double y) {
 }
 
 }  // namespace kruglova_a_2d_multistep_par_opt
+

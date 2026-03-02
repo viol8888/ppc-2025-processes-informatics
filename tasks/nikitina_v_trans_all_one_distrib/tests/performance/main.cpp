@@ -53,3 +53,4 @@ INSTANTIATE_TEST_SUITE_P(RunModeTests, NikitinaVRunPerfTest, kGtestValues, kPerf
 }  // namespace
 
 }  // namespace nikitina_v_trans_all_one_distrib
+

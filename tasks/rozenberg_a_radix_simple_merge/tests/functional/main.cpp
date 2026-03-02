@@ -98,3 +98,4 @@ INSTANTIATE_TEST_SUITE_P(RadixSimpleMergeTests, RozenbergARadixSimpleMergeFuncTe
 }  // namespace
 
 }  // namespace rozenberg_a_radix_simple_merge
+

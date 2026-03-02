@@ -151,3 +151,4 @@ bool KonstantinovSElemVecSignChangeMPI::PostProcessingImpl() {
 }
 
 }  // namespace konstantinov_s_elem_vec_sign_change_count
+

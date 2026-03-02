@@ -54,3 +54,4 @@ const auto kPerfTestName = EreminVRunPerfTestsRectangleMethod::CustomPerfTestNam
 INSTANTIATE_TEST_SUITE_P(RunModeTestsRectangleMethod, EreminVRunPerfTestsRectangleMethod, kGtestValues, kPerfTestName);
 
 }  // namespace eremin_v_rectangle_method
+

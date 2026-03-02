@@ -20,3 +20,4 @@ class EreminVRectangleMethodMPI : public BaseTask {
 };
 
 }  // namespace eremin_v_rectangle_method
+

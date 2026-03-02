@@ -111,3 +111,4 @@ INSTANTIATE_TEST_SUITE_P(Tests, RomanovaVJacobiMethodFuncTestsProcesses, kGtestV
 }  // namespace
 
 }  // namespace romanova_v_jacobi_method
+

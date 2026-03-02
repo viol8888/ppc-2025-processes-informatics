@@ -73,3 +73,4 @@ INSTANTIATE_TEST_SUITE_P(Average, KutuzovAverageTests, kGtestValues, kPerfTestNa
 }  // namespace
 
 }  // namespace kutuzov_i_elem_vec_average
+

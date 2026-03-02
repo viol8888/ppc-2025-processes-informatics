@@ -51,3 +51,4 @@ bool GutyanskyAMatrixBandMultiplicationSEQ::PostProcessingImpl() {
 }
 
 }  // namespace gutyansky_a_matrix_band_multiplication
+

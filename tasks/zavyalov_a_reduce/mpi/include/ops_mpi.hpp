@@ -34,3 +34,4 @@ class ZavyalovAReduceMPI : public BaseTask {
 };
 
 }  // namespace zavyalov_a_reduce
+

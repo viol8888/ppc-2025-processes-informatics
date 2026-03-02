@@ -20,3 +20,4 @@ class ZavyalovAQsortMPI : public BaseTask {
 };
 
 }  // namespace zavyalov_a_qsort_simple_merge
+

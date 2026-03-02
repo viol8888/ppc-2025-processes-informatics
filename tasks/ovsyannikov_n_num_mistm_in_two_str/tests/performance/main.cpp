@@ -59,3 +59,4 @@ const auto kPerfTestName = OvsyannikovNRunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, OvsyannikovNRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace ovsyannikov_n_num_mistm_in_two_str
+

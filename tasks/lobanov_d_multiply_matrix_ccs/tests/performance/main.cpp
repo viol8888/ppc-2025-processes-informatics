@@ -207,3 +207,4 @@ INSTANTIATE_TEST_SUITE_P(LargeMatrixTests, LargeMatrixPerfTest, kGtestPerformanc
                          LobanovDMultiplyMatrixPerfTest::CustomPerfTestName);
 
 }  // namespace lobanov_d_multiply_matrix_ccs
+

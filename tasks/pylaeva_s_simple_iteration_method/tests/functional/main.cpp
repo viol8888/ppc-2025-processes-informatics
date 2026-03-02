@@ -124,3 +124,4 @@ INSTANTIATE_TEST_SUITE_P(SimpleIterationMethodTests, PylaevaSSimpleIterationMeth
                          kPerfTestName);
 
 }  // namespace pylaeva_s_simple_iteration_method
+

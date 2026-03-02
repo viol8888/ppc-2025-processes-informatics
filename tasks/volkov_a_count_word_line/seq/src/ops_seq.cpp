@@ -66,3 +66,4 @@ bool VolkovACountWordLineSEQ::PostProcessingImpl() {
 }
 
 }  // namespace volkov_a_count_word_line
+

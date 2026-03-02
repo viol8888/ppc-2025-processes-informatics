@@ -108,3 +108,4 @@ const auto kPerfTestName = NikitinAFoxAlgorithmPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, NikitinAFoxAlgorithmPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace nikitin_a_fox_algorithm
+

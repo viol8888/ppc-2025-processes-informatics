@@ -165,3 +165,4 @@ bool BaldinAMyScatterMPI::PostProcessingImpl() {
 }
 
 }  // namespace baldin_a_my_scatter
+

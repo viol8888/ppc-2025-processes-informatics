@@ -217,3 +217,4 @@ bool ShvetsovaKGaussVertStripMPI::PostProcessingImpl() {
 }
 
 }  // namespace shvetsova_k_gausse_vert_strip
+

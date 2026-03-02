@@ -47,3 +47,4 @@ bool TelnovCountingTheFrequencySEQ::PostProcessingImpl() {
 }
 
 }  // namespace telnov_counting_the_frequency
+

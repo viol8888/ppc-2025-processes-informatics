@@ -70,3 +70,4 @@ INSTANTIATE_TEST_SUITE_P(EgashinKLexCheckFunc, EgashinKLexCheckFuncTest, ppc::ut
 }  // namespace
 
 }  // namespace egashin_k_lexicographical_check
+

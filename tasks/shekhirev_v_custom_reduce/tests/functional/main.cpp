@@ -70,3 +70,4 @@ INSTANTIATE_TEST_SUITE_P(CustomReduceTests, ShekhirevVCustomReduceFuncTests, kGt
 
 }  // namespace
 }  // namespace shekhirev_v_custom_reduce
+

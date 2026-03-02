@@ -65,3 +65,4 @@ const auto kPerfTestName = ShkrebkoMHypercubeFuncTests::PrintFuncTestName<Shkreb
 INSTANTIATE_TEST_SUITE_P(ShkrebkoMHypercube, ShkrebkoMHypercubeFuncTests, kGtestValues, kPerfTestName);
 
 }  // namespace shkrebko_m_hypercube
+

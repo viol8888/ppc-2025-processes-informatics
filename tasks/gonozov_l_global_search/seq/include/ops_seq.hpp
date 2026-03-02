@@ -19,3 +19,4 @@ class GonozovLGlobalSearchSEQ : public BaseTask {
   bool PostProcessingImpl() override;
 };
 }  // namespace gonozov_l_global_search
+

@@ -45,3 +45,4 @@ const auto kPerfTestName = PapulinaYRunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PapulinaYRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace papulina_y_count_of_letters
+

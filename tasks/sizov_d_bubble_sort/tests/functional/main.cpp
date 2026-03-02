@@ -135,3 +135,4 @@ INSTANTIATE_TEST_SUITE_P(SizovDBubbleSort, SizovDRunFuncTestsBubbleSort, kGtestV
 }  // namespace
 
 }  // namespace sizov_d_bubble_sort
+

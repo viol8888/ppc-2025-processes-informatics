@@ -114,3 +114,4 @@ bool ContrastEnhancementSEQ::PostProcessingImpl() {
 }
 
 }  // namespace mityaeva_d_contrast_enhancement_histogram_stretching
+

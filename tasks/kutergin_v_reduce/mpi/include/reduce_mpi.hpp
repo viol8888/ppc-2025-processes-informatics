@@ -26,3 +26,4 @@ class ReduceMPI : public BaseTask  // класс-обертка для тест�
 };
 
 }  // namespace kutergin_v_reduce
+

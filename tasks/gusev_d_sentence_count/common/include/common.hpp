@@ -14,3 +14,4 @@ using TestType = std::tuple<std::string, int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace gusev_d_sentence_count
+

@@ -13,3 +13,4 @@ using TestType = std::tuple<InType, OutType>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace leonova_a_radix_merge_sort
+

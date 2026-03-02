@@ -14,3 +14,4 @@ using TestType = std::tuple<std::vector<std::vector<int>>, std::vector<std::vect
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace chyokotov_a_convex_hull_finding
+

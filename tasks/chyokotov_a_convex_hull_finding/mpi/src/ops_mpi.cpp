@@ -461,3 +461,4 @@ bool ChyokotovConvexHullFindingMPI::PostProcessingImpl() {
 }
 
 }  // namespace chyokotov_a_convex_hull_finding
+

@@ -129,3 +129,4 @@ INSTANTIATE_TEST_SUITE_P(VolkovOddEvenFunc, OddEvenSortFuncTest, ppc::util::Expa
                          OddEvenSortFuncTest::PrintFuncTestName<OddEvenSortFuncTest>);
 
 }  // namespace volkov_a_odd_even_transposition
+

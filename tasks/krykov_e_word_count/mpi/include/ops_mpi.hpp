@@ -20,3 +20,4 @@ class KrykovEWordCountMPI : public BaseTask {
 };
 
 }  // namespace krykov_e_word_count
+

@@ -20,3 +20,4 @@ class GaussJordanSEQ : public BaseTask {
 };
 
 }  // namespace gauss_jordan
+

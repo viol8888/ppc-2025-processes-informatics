@@ -97,3 +97,4 @@ bool KiselevITestTaskSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kiselev_i_gauss_method_horizontal_tape_scheme
+

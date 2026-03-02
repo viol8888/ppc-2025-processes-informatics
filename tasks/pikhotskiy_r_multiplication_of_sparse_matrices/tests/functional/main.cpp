@@ -146,3 +146,4 @@ INSTANTIATE_TEST_SUITE_P(SparseMatrixMultTests, SparseMatrixMultFuncTests, kGtes
 }  // namespace
 
 }  // namespace pikhotskiy_r_multiplication_of_sparse_matrices
+

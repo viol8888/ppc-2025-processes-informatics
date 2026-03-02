@@ -20,3 +20,4 @@ class SmyshlaevAGaussFiltSEQ : public BaseTask {
 };
 
 }  // namespace smyshlaev_a_gauss_filt
+

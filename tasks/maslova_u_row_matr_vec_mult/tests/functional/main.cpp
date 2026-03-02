@@ -96,3 +96,4 @@ INSTANTIATE_TEST_SUITE_P(matrVecMultTests, MaslovaURowMatrVecMultFuncTests, kGte
 
 }  // namespace
 }  // namespace maslova_u_row_matr_vec_mult
+

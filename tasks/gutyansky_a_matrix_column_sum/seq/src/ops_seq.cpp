@@ -41,3 +41,4 @@ bool GutyanskyAMatrixColumnSumSEQ::PostProcessingImpl() {
 }
 
 }  // namespace gutyansky_a_matrix_column_sum
+

@@ -54,3 +54,4 @@ class MatrixBandMultiplicationMpi : public BaseTask {
 };
 
 }  // namespace matrix_band_multiplication
+

@@ -282,3 +282,4 @@ bool GaussJordanSEQ::PostProcessingImpl() {
   return true;
 }
 }  // namespace gauss_jordan
+

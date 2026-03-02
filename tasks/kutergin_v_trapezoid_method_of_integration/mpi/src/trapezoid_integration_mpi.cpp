@@ -88,3 +88,4 @@ bool TrapezoidIntegrationMPI::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_v_trapezoid_mpi
+

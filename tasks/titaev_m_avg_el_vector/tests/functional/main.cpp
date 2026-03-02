@@ -56,3 +56,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, TitaevMElemVecAvgFuncTest, kGtestValues
 
 }  // namespace
 }  // namespace titaev_m_avg_el_vector
+

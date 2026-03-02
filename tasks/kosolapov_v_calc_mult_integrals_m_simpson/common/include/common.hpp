@@ -15,3 +15,4 @@ using TestType = std::tuple<int, int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kosolapov_v_calc_mult_integrals_m_simpson
+

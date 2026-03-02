@@ -61,3 +61,4 @@ const auto kPerfTestName = MostDiffNeighVecElemsRunPerfTestsProcesses::CustomPer
 INSTANTIATE_TEST_SUITE_P(RunVecPerf, MostDiffNeighVecElemsRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace leonova_a_most_diff_neigh_vec_elems
+

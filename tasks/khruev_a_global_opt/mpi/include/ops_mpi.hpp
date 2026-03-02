@@ -47,3 +47,4 @@ class KhruevAGlobalOptMPI : public BaseTask {
 };
 
 }  // namespace khruev_a_global_opt
+

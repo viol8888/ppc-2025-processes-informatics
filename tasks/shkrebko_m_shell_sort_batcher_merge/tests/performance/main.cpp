@@ -51,3 +51,4 @@ const auto kPerfTestName = ShkrebkoMRunPerfTestShellSortBatcherMerge::CustomPerf
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ShkrebkoMRunPerfTestShellSortBatcherMerge, kGtestValues, kPerfTestName);
 
 }  // namespace shkrebko_m_shell_sort_batcher_merge
+

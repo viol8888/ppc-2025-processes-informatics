@@ -29,3 +29,4 @@ class ScalarProductMPI : public BaseTask {
 };
 
 }  // namespace scalar_product
+

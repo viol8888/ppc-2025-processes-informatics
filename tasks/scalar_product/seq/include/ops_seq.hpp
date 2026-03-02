@@ -20,3 +20,4 @@ class ScalarProductSEQ : public BaseTask {
 };
 
 }  // namespace scalar_product
+

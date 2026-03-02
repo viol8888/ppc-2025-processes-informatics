@@ -84,3 +84,4 @@ const auto kPerfTestName = LeonovaARunPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunPerfRadixTests, LeonovaARunPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace leonova_a_radix_merge_sort
+

@@ -182,3 +182,4 @@ bool ChaschinVMaxForEachRow::PostProcessingImpl() {
   return true;
 }
 }  // namespace chaschin_v_max_for_each_row
+

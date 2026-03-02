@@ -88,3 +88,4 @@ const auto kPerfTestName = GutyanskyAMonteCarloMultiDimensionPerfTest::CustomPer
 INSTANTIATE_TEST_SUITE_P(RunModeTests, GutyanskyAMonteCarloMultiDimensionPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace gutyansky_a_monte_carlo_multi_dimension
+

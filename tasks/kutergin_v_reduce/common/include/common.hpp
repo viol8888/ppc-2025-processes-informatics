@@ -19,3 +19,4 @@ using BaseTask = ppc::task::Task<InType, OutType>;
 using TestType = std::tuple<int, int, std::string>;
 
 }  // namespace kutergin_v_reduce
+

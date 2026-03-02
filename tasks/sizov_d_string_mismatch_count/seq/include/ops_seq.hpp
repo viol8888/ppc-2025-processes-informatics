@@ -27,3 +27,4 @@ class SizovDStringMismatchCountSEQ : public BaseTask {
 };
 
 }  // namespace sizov_d_string_mismatch_count
+

@@ -67,3 +67,4 @@ INSTANTIATE_TEST_SUITE_P(SimpsonIntegralFuncTests, SpichekDSimpsonIntegralRunFun
 }  // namespace
 
 }  // namespace spichek_d_simpson_integral
+

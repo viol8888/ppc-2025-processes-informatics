@@ -20,3 +20,4 @@ class ZavyalovAScalarProductMPI : public BaseTask {
 };
 
 }  // namespace zavyalov_a_scalar_product
+

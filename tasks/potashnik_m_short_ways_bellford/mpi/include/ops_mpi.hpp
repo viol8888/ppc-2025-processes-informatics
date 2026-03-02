@@ -61,3 +61,4 @@ inline void BellmanFordAlgoMpi(const Graph &g, int source, std::vector<int> &dis
 }
 
 }  // namespace potashnik_m_short_ways_bellford
+

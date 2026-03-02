@@ -20,3 +20,4 @@ class KurpiakovAVretTapeMulSEQ : public BaseTask {
 };
 
 }  // namespace kurpiakov_a_vert_tape_mat_vec_mul
+

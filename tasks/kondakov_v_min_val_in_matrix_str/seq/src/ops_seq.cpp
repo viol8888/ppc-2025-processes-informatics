@@ -50,3 +50,4 @@ bool KondakovVMinValMatrixSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kondakov_v_min_val_in_matrix_str
+

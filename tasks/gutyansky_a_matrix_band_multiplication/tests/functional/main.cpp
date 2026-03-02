@@ -135,3 +135,4 @@ INSTANTIATE_TEST_SUITE_P(ColumnSumTests, GutyanskyAMatrixBandMultiplicationFuncT
 }  // namespace
 
 }  // namespace gutyansky_a_matrix_band_multiplication
+

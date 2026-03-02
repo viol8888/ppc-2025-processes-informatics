@@ -50,3 +50,4 @@ const auto kPerfTestName = SannikovIColumnSumPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SannikovIColumnSumPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace sannikov_i_column_sum
+

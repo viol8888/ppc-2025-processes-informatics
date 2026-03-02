@@ -20,3 +20,4 @@ class MinValuesInRowsSEQ : public BaseTask {
 };
 
 }  // namespace mityaeva_d_min_v_rows_matrix
+

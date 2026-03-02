@@ -61,3 +61,4 @@ INSTANTIATE_TEST_SUITE_P(GoriachevaKReducePerfomanceTests, GoriachevaKReducePerf
 
 }  // namespace
 }  // namespace goriacheva_k_reduce
+

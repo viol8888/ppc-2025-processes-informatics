@@ -99,3 +99,4 @@ INSTANTIATE_TEST_SUITE_P(MinElemVec, KhruevAMinElemVecFuncTests, kGtestValues, k
 }  // namespace
 
 }  // namespace khruev_a_min_elem_vec
+

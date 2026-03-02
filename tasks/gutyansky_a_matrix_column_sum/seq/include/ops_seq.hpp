@@ -20,3 +20,4 @@ class GutyanskyAMatrixColumnSumSEQ : public BaseTask {
 };
 
 }  // namespace gutyansky_a_matrix_column_sum
+

@@ -58,3 +58,4 @@ bool NesterovATestTaskSEQ::PostProcessingImpl() {
 }
 
 }  // namespace nesterov_a_test_task_processes_2
+

@@ -53,3 +53,4 @@ const auto kPerfTestName = LevonychevIMinValRowsMatrixPerfTests::CustomPerfTestN
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LevonychevIMinValRowsMatrixPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace levonychev_i_min_val_rows_matrix
+

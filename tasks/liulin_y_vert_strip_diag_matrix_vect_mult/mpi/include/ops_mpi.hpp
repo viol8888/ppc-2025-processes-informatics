@@ -20,3 +20,4 @@ class LiulinYVertStripDiagMatrixVectMultMPI : public BaseTask {
 };
 
 }  // namespace liulin_y_vert_strip_diag_matrix_vect_mult
+

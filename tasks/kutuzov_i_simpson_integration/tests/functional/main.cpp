@@ -132,3 +132,4 @@ INSTANTIATE_TEST_SUITE_P(Simpson, KutuzovSimpsonTests, kGtestValues, kPerfTestNa
 }  // namespace
 
 }  // namespace kutuzov_i_simpson_integration
+

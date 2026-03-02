@@ -15,3 +15,4 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace gonozov_l_elem_vec_sum
+

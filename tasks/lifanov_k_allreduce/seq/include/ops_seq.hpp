@@ -20,3 +20,4 @@ class LifanovKAllreduceSEQ : public BaseTask {
 };
 
 }  // namespace lifanov_k_allreduce
+

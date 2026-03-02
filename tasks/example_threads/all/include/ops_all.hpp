@@ -20,3 +20,4 @@ class NesterovATestTaskALL : public BaseTask {
 };
 
 }  // namespace nesterov_a_test_task_threads
+

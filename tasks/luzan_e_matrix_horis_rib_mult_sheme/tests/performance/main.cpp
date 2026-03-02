@@ -73,3 +73,4 @@ const auto kPerfTestName = LuzanEMatrixHorisRibMultShemepERFTests::CustomPerfTes
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LuzanEMatrixHorisRibMultShemepERFTests, kGtestValues, kPerfTestName);
 
 }  // namespace luzan_e_matrix_horis_rib_mult_sheme
+

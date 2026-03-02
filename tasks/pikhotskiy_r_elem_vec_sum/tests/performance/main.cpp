@@ -72,3 +72,4 @@ INSTANTIATE_TEST_SUITE_P(VectorSumBenchmarks, PerformanceBenchmark, kTestValues,
 }  // namespace
 
 }  // namespace pikhotskiy_r_elem_vec_sum
+

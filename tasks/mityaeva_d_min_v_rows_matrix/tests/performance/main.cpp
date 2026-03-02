@@ -68,3 +68,4 @@ const auto kPerfTestName = MinValuesInRowsRunPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, MinValuesInRowsRunPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace mityaeva_d_min_v_rows_matrix
+

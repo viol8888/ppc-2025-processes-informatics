@@ -156,3 +156,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, SannikovIHorizontalBandGaussFuncTests, 
 }  // namespace
 
 }  // namespace sannikov_i_horizontal_band_gauss
+

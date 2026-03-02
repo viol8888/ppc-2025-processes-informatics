@@ -20,3 +20,4 @@ class RomanovACRSProductSEQ : public BaseTask {
 };
 
 }  // namespace romanov_a_crs_product
+

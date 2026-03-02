@@ -59,3 +59,4 @@ const auto kName = KhruevGaussJordanPerfBase::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(KhruevPerf, KhruevGaussJordanPerfBase, kValues, kName);
 
 }  // namespace khruev_a_gauss_jordan
+

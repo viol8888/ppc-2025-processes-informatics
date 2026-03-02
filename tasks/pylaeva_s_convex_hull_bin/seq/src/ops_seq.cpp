@@ -151,3 +151,4 @@ std::vector<Point> PylaevaSConvexHullBinSEQ::GrahamScan(const std::vector<Point>
   return hull;
 }
 }  // namespace pylaeva_s_convex_hull_bin
+

@@ -93,3 +93,4 @@ INSTANTIATE_TEST_SUITE_P(TrapezoidalIntegrationTests, FrolovaRunFuncTestsProcess
 }  // namespace
 
 }  // namespace frolova_s_mult_int_trapez
+

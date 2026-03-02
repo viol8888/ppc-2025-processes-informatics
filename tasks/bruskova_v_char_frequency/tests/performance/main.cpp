@@ -59,3 +59,4 @@ TEST(BruskovaVCharFrequencyPerfTests, RunManualSEQPerf) {
 }
 
 }  // namespace bruskova_v_char_frequency
+

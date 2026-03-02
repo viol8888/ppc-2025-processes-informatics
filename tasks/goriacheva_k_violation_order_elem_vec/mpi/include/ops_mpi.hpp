@@ -30,3 +30,4 @@ class GoriachevaKViolationOrderElemVecMPI : public BaseTask {
 };
 
 }  // namespace goriacheva_k_violation_order_elem_vec
+

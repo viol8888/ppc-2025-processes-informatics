@@ -21,3 +21,4 @@ class OddEvenSortSeq : public BaseTask {
 };
 
 }  // namespace volkov_a_odd_even_transposition
+

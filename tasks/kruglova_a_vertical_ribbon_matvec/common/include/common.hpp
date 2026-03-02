@@ -13,3 +13,4 @@ using TestType = std::tuple<int, int>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kruglova_a_vertical_ribbon_matvec
+

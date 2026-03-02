@@ -79,3 +79,4 @@ const auto kPerfTestName = LevonychevIMultistep2dOptimizationPerfTests::CustomPe
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LevonychevIMultistep2dOptimizationPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace levonychev_i_multistep_2d_optimization
+

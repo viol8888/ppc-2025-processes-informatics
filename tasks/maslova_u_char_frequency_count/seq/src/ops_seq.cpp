@@ -42,3 +42,4 @@ bool MaslovaUCharFrequencyCountSEQ::PostProcessingImpl() {
 }
 
 }  // namespace maslova_u_char_frequency_count
+

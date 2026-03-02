@@ -25,3 +25,4 @@ class FrolovaSStarTopologyMPI : public BaseTask {
   int dest_ = 0;
 };
 }  // namespace frolova_s_star_topology
+

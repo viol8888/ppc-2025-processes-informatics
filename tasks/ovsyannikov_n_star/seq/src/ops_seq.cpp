@@ -29,3 +29,4 @@ bool OvsyannikovNStarSEQ::PostProcessingImpl() {
 }
 
 }  // namespace ovsyannikov_n_star
+

@@ -23,3 +23,4 @@ class KhruevAMinElemVecSEQ : public BaseTask {
 };
 
 }  // namespace khruev_a_min_elem_vec
+

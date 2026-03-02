@@ -110,3 +110,4 @@ INSTANTIATE_TEST_SUITE_P(Allreduce, AllreduceFuncTests, kGtestValues, kTestName)
 
 }  // namespace
 }  // namespace kutergin_a_allreduce
+

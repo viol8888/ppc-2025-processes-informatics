@@ -116,3 +116,4 @@ void KosolapovVGaussMethodTapeHorSchemeSEQ::RowSub(int i, int n, std::vector<std
   }
 }
 }  // namespace kosolapov_v_gauss_method_tape_hor_scheme
+

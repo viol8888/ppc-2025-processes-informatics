@@ -20,3 +20,4 @@ class PotashnikMStarTopolSEQ : public BaseTask {
 };
 
 }  // namespace potashnik_m_star_topol
+

@@ -20,3 +20,4 @@ class ChyokotovMinValByColumnsMPI : public BaseTask {
 };
 
 }  // namespace chyokotov_min_val_by_columns
+

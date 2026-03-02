@@ -45,3 +45,4 @@ INSTANTIATE_TEST_SUITE_P(GusevaAHypercubePerf, GusevaAHypercubePerfTestProcesses
 }  // namespace
 
 }  // namespace guseva_a_hypercube
+

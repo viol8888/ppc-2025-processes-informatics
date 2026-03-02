@@ -20,3 +20,4 @@ class MaslovaURowMatrVecMultMPI : public BaseTask {
 };
 
 }  // namespace maslova_u_row_matr_vec_mult
+

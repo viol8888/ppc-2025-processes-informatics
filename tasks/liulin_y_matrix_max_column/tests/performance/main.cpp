@@ -136,3 +136,4 @@ const auto kPerfTestName = LiulinYMatrixMaxColumnPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LiulinYMatrixMaxColumnPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace liulin_y_matrix_max_column
+

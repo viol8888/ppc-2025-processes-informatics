@@ -82,3 +82,4 @@ const auto kPerfTestName = SavvaDMinElemVecPerfTest::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SavvaDMinElemVecPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace savva_d_min_elem_vec
+

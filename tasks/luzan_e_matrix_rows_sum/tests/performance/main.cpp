@@ -57,3 +57,4 @@ const auto kPerfTestName = LuzanEMatrixRowsSumpERFTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LuzanEMatrixRowsSumpERFTests, kGtestValues, kPerfTestName);
 
 }  // namespace luzan_e_matrix_rows_sum
+

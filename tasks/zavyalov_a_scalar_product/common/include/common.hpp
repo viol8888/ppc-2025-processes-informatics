@@ -13,3 +13,4 @@ using TestType = unsigned int;  // size of vectors
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace zavyalov_a_scalar_product
+

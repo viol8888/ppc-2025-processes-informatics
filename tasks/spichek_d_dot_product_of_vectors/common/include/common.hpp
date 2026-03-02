@@ -17,3 +17,4 @@ using TestType = std::tuple<std::pair<std::vector<int>, std::vector<int>>, std::
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace spichek_d_dot_product_of_vectors
+

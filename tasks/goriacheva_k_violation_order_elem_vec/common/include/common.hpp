@@ -14,3 +14,4 @@ using TestType = std::tuple<InType, OutType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace goriacheva_k_violation_order_elem_vec
+

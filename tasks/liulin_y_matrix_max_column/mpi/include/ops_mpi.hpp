@@ -23,3 +23,4 @@ class LiulinYMatrixMaxColumnMPI : public BaseTask {
 };
 
 }  // namespace liulin_y_matrix_max_column
+

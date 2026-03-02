@@ -15,3 +15,4 @@ using TestType = std::tuple<std::pair<std::vector<int>, std::vector<int>>, std::
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace scalar_product
+

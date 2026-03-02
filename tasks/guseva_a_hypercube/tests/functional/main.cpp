@@ -101,3 +101,4 @@ INSTANTIATE_TEST_SUITE_P(GusevaAHypercubeFunc, GusevaAHypercubeRunFuncTestsProce
 }  // namespace
 
 }  // namespace guseva_a_hypercube
+

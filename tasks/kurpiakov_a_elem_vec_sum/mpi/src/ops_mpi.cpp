@@ -86,3 +86,4 @@ bool KurpiakovAElemVecSumMPI::PostProcessingImpl() {
 }
 
 }  // namespace kurpiakov_a_elem_vec_sum
+

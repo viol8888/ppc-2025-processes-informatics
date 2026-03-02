@@ -56,3 +56,4 @@ INSTANTIATE_TEST_SUITE_P(RunModeTestsStronginAlgorithm, EreminVRunPerfTestsStron
                          kPerfTestName);
 
 }  // namespace eremin_v_strongin_algorithm
+

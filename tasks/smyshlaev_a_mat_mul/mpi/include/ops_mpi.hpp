@@ -32,3 +32,4 @@ class SmyshlaevAMatMulMPI : public BaseTask {
 };
 
 }  // namespace smyshlaev_a_mat_mul
+

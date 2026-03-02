@@ -123,3 +123,4 @@ INSTANTIATE_TEST_SUITE_P(ColumnSumTests, GutyanskyAMatrixColumnSumFuncTests, kGt
 }  // namespace
 
 }  // namespace gutyansky_a_matrix_column_sum
+

@@ -35,3 +35,4 @@ bool ShkrebkoMCountCharFreqSEQ::PostProcessingImpl() {
 }
 
 }  // namespace shkrebko_m_count_char_freq
+

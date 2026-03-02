@@ -98,3 +98,4 @@ INSTANTIATE_TEST_SUITE_P(GaussMethodTapeHorScheme, KosolapovVGaussMethodTapeHorS
 }  // namespace
 
 }  // namespace kosolapov_v_gauss_method_tape_hor_scheme
+

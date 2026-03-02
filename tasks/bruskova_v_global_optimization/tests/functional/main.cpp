@@ -69,3 +69,4 @@ const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
 INSTANTIATE_TEST_SUITE_P(OptimizationTests, BruskovaVGlobalOptimizationFuncTests, kGtestValues);
 
 }  // namespace bruskova_v_global_optimization
+

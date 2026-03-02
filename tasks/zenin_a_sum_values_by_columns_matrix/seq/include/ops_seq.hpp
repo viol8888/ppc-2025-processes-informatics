@@ -20,3 +20,4 @@ class ZeninASumValuesByColumnsMatrixSEQ : public BaseTask {
 };
 
 }  // namespace zenin_a_sum_values_by_columns_matrix
+

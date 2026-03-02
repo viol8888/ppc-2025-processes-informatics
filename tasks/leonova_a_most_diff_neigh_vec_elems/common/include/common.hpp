@@ -13,3 +13,4 @@ using TestType = std::tuple<std::tuple<int, int>, std::vector<int>>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace leonova_a_most_diff_neigh_vec_elems
+

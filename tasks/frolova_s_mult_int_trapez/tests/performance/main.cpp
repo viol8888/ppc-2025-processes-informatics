@@ -80,3 +80,4 @@ const auto kPerfTestName = FrolovaRunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(TrapezoidalIntegrationPerfTests, FrolovaRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace frolova_s_mult_int_trapez
+

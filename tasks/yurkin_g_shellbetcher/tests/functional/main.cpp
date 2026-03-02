@@ -121,3 +121,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, YurkinGShellBetcherFuncTests, kGtestVal
                          YurkinGShellBetcherFuncTests::PrintFuncTestName<YurkinGShellBetcherFuncTests>);
 
 }  // namespace yurkin_g_shellbetcher
+

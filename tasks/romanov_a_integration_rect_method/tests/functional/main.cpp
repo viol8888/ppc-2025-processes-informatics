@@ -84,3 +84,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, RomanovAIntegrationRectMethodFuncTests,
 }  // namespace
 
 }  // namespace romanov_a_integration_rect_method
+

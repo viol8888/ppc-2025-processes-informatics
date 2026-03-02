@@ -14,3 +14,4 @@ using TestType = std::tuple<std::string, std::vector<std::vector<double>>, std::
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace gauss_jordan
+

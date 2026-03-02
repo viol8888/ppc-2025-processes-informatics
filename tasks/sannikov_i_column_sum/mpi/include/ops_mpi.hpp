@@ -26,3 +26,4 @@ class SannikovIColumnSumMPI : public BaseTask {
 };
 
 }  // namespace sannikov_i_column_sum
+

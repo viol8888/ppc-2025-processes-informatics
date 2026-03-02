@@ -107,3 +107,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, RomanovACRSProductFuncTests, kGtestValu
 }  // namespace
 
 }  // namespace romanov_a_crs_product
+

@@ -61,3 +61,4 @@ bool KiselevITestTaskSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kiselev_i_linear_histogram_stretch
+

@@ -54,3 +54,4 @@ bool KosolapovVMaxValuesInColMatrixSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kosolapov_v_max_values_in_col_matrix
+

@@ -75,3 +75,4 @@ std::vector<unsigned char> PapulinaYGaussFilterSEQ::NewPixel(const int &row, con
   return result;
 }
 }  // namespace papulina_y_gauss_filter_block
+

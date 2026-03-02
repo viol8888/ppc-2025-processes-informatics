@@ -71,3 +71,4 @@ const auto kPerfTestName = KutuzovSimpsonPerf::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunMode, KutuzovSimpsonPerf, kGtestValues, kPerfTestName);
 
 }  // namespace kutuzov_i_simpson_integration
+

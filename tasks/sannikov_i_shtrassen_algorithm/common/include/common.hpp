@@ -14,3 +14,4 @@ using TestType = std::tuple<InType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace sannikov_i_shtrassen_algorithm
+

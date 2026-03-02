@@ -61,3 +61,4 @@ bool NikitinABubleSortSEQ::PostProcessingImpl() {
 }
 
 }  // namespace nikitin_a_buble_sort
+

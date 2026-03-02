@@ -58,3 +58,4 @@ const auto kPerfTestName = ZavyalovAScalarProductPerfTestProcesses::CustomPerfTe
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ZavyalovAScalarProductPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace zavyalov_a_scalar_product
+

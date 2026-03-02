@@ -114,3 +114,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, KruglovaAVerticalRibMatFuncTests, kGtes
 }  // namespace
 
 }  // namespace kruglova_a_vertical_ribbon_matvec
+

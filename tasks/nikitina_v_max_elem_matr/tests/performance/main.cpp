@@ -63,3 +63,4 @@ INSTANTIATE_TEST_SUITE_P(NikitinaV_MaxElementMatr_Perf, NikitinaVMaxElemMatrPerf
                          NikitinaVMaxElemMatrPerfTests::CustomPerfTestName);
 
 }  // namespace nikitina_v_max_elem_matr
+

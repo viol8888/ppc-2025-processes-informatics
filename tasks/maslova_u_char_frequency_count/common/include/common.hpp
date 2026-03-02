@@ -15,3 +15,4 @@ using TestType = std::tuple<InType, OutType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace maslova_u_char_frequency_count
+

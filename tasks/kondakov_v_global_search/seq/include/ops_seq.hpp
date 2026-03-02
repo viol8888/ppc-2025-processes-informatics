@@ -38,3 +38,4 @@ class KondakovVGlobalSearchSEQ : public ppc::task::Task<InType, OutType> {
 };
 
 }  // namespace kondakov_v_global_search
+

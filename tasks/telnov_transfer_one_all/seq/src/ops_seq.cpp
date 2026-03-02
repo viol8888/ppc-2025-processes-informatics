@@ -35,3 +35,4 @@ template class TelnovTransferOneAllSEQ<float>;
 template class TelnovTransferOneAllSEQ<double>;
 
 }  // namespace telnov_transfer_one_all
+

@@ -14,3 +14,4 @@ using TestType = std::tuple<InType, std::vector<double>>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace chyokotov_a_seidel_method
+

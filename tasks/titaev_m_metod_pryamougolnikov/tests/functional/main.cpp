@@ -63,3 +63,4 @@ INSTANTIATE_TEST_SUITE_P(Correctness, TitaevMMetodPryamougolnikovFuncTests, kGte
 }  // namespace
 
 }  // namespace titaev_m_metod_pryamougolnikov
+

@@ -27,3 +27,4 @@ class PikhotskiyRScatterSEQ : public BaseTask {
 };
 
 }  // namespace pikhotskiy_r_scatter
+

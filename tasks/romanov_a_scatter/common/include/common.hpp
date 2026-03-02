@@ -17,3 +17,4 @@ using TestType = std::tuple<std::vector<int>, int, int>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace romanov_a_scatter
+

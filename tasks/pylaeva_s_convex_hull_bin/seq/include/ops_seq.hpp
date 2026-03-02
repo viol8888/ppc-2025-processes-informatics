@@ -27,3 +27,4 @@ class PylaevaSConvexHullBinSEQ : public BaseTask {
 };
 
 }  // namespace pylaeva_s_convex_hull_bin
+

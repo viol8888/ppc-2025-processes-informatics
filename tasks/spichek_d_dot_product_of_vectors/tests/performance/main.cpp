@@ -52,3 +52,4 @@ const auto kPerfTestName = SpichekDDotProductOfVectorsRunPerfTestProcesses::Cust
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SpichekDDotProductOfVectorsRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace spichek_d_dot_product_of_vectors
+

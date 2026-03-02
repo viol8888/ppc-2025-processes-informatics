@@ -23,3 +23,4 @@ class FatehovKReshetkaTorSEQ : public BaseTask {
 };
 
 }  // namespace fatehov_k_reshetka_tor
+

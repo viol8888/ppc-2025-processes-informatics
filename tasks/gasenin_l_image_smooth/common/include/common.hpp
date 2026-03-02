@@ -40,3 +40,4 @@ inline int Clamp(int val, int min_val, int max_val) {
 }
 
 }  // namespace gasenin_l_image_smooth
+

@@ -20,3 +20,4 @@ class YurkinGRulerSEQ : public BaseTask {
 };
 
 }  // namespace yurkin_g_ruler
+

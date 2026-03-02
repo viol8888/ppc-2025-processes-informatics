@@ -20,3 +20,4 @@ class GonozovLElemVecSumSEQ : public BaseTask {
 };
 
 }  // namespace gonozov_l_elem_vec_sum
+

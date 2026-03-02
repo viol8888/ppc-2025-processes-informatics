@@ -14,3 +14,4 @@ using TestType =
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace leonova_a_star
+

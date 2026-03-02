@@ -95,3 +95,4 @@ bool ZavyalovAScalarProductMPI::PostProcessingImpl() {
 }
 
 }  // namespace zavyalov_a_scalar_product
+

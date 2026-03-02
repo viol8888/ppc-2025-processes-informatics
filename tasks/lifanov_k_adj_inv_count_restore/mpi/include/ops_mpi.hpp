@@ -21,3 +21,4 @@ class LifanovKAdjacentInversionCountMPI : public BaseTask {
 };
 
 }  // namespace lifanov_k_adj_inv_count_restore
+

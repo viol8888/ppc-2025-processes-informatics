@@ -274,3 +274,4 @@ bool KondakovVGlobalSearchMPI::PostProcessingImpl() {
 }
 
 }  // namespace kondakov_v_global_search
+

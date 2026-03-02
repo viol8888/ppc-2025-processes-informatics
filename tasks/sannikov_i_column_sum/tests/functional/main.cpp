@@ -86,3 +86,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, SannikovIColumnSumFuncTests, kGtestValu
 }  // namespace
 
 }  // namespace sannikov_i_column_sum
+

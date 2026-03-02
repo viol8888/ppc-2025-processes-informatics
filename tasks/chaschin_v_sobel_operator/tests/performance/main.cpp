@@ -120,3 +120,4 @@ const auto kPerfTestName = ChaschinVRunPerfTestProcessesSO::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ChaschinVRunPerfTestProcessesSO, kGtestValues, kPerfTestName);
 
 }  // namespace chaschin_v_sobel_operator
+

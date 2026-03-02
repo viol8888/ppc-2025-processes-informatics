@@ -20,3 +20,4 @@ class GusevDSentenceCountSEQ : public BaseTask {
 };
 
 }  // namespace gusev_d_sentence_count
+

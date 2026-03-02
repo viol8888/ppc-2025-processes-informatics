@@ -47,3 +47,4 @@ const auto kPerfTestName = TitaevMElemVecAvgPerfTest::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, TitaevMElemVecAvgPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace titaev_m_avg_el_vector
+

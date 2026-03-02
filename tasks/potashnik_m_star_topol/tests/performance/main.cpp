@@ -57,3 +57,4 @@ const auto kPerfTestName = PotashnikMStarTopolPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PotashnikMStarTopolPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace potashnik_m_star_topol
+

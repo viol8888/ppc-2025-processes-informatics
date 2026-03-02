@@ -20,3 +20,4 @@ class BaldinAWordCountMPI : public BaseTask {
 };
 
 }  // namespace baldin_a_word_count
+

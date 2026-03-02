@@ -46,3 +46,4 @@ bool GoriachevaKViolationOrderElemVecSEQ::PostProcessingImpl() {
 }
 
 }  // namespace goriacheva_k_violation_order_elem_vec
+

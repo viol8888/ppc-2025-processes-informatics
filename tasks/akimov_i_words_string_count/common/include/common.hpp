@@ -14,3 +14,4 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace akimov_i_words_string_count
+

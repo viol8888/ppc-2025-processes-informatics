@@ -20,3 +20,4 @@ class BaldinAWordCountSEQ : public BaseTask {
 };
 
 }  // namespace baldin_a_word_count
+

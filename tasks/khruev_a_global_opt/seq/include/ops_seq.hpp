@@ -32,3 +32,4 @@ class KhruevAGlobalOptSEQ : public BaseTask {
 };
 
 }  // namespace khruev_a_global_opt
+

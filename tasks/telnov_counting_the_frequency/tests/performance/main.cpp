@@ -46,3 +46,4 @@ const auto kPerfTestName = TelnovCountingTheFrequencyPerfTests::CustomPerfTestNa
 INSTANTIATE_TEST_SUITE_P(RunModeTests, TelnovCountingTheFrequencyPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace telnov_counting_the_frequency
+

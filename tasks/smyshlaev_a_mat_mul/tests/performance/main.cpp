@@ -80,3 +80,4 @@ const auto kPerfTestName = SmyshlaevAMatMulRunPerfTestsProcesses::CustomPerfTest
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SmyshlaevAMatMulRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace smyshlaev_a_mat_mul
+

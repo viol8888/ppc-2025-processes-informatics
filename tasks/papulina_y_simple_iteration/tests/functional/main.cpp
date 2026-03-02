@@ -274,3 +274,4 @@ TEST(PapulinaYSimpleIterationValidation_mpi_, ExplicitZeroOnDiagonal) {  // NOLI
   ppc::util::DestructorFailureFlag::Unset();
 }
 }  // namespace papulina_y_simple_iteration
+

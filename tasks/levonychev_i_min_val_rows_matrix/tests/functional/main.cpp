@@ -94,3 +94,4 @@ INSTANTIATE_TEST_SUITE_P(MinValRowsMatrixTests, LevonychevIMinValRowsMatrixFuncT
 }  // namespace
 
 }  // namespace levonychev_i_min_val_rows_matrix
+

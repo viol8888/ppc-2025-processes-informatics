@@ -93,3 +93,4 @@ INSTANTIATE_TEST_SUITE_P(CGTests, ShekhirevVCGFuncTests, kGtestValues, kTestName
 
 }  // namespace
 }  // namespace shekhirev_v_cg_method
+

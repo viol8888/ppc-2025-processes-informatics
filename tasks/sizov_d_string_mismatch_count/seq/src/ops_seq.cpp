@@ -42,3 +42,4 @@ bool SizovDStringMismatchCountSEQ::PostProcessingImpl() {
 }
 
 }  // namespace sizov_d_string_mismatch_count
+

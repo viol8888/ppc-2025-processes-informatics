@@ -20,3 +20,4 @@ class KrykovEMultistepSADMPI : public BaseTask {
 };
 
 }  // namespace krykov_e_multistep_sad
+

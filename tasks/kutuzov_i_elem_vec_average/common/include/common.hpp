@@ -13,3 +13,4 @@ using TestType = size_t;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kutuzov_i_elem_vec_average
+

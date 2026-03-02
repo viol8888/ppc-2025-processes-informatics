@@ -63,3 +63,4 @@ class LeonovaARadixMergeSortMPI : public BaseTask {
 };
 
 }  // namespace leonova_a_radix_merge_sort
+

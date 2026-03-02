@@ -41,3 +41,4 @@ class DolovVTorusTopologyMPI : public BaseTask {
 };
 
 }  // namespace dolov_v_torus_topology
+

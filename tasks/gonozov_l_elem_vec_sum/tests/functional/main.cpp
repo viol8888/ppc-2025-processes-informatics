@@ -66,3 +66,4 @@ INSTANTIATE_TEST_SUITE_P(ElemVecTests, GonozovLRunElemVecSumFuncTests, kGtestVal
 }  // namespace
 
 }  // namespace gonozov_l_elem_vec_sum
+

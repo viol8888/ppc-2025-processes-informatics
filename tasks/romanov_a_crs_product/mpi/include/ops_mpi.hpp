@@ -20,3 +20,4 @@ class RomanovACRSProductMPI : public BaseTask {
 };
 
 }  // namespace romanov_a_crs_product
+

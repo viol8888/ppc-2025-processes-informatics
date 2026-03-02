@@ -766,3 +766,4 @@ const bool kRegisteredFunctionalTests = []() {
 }  // namespace
 
 }  // namespace sizov_d_global_search
+

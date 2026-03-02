@@ -38,3 +38,4 @@ inline bool IsValidInput(const MatrixInput &input) {
 }
 
 }  // namespace sakharov_a_cannon_algorithm
+

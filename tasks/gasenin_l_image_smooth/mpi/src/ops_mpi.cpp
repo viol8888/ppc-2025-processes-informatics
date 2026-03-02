@@ -234,3 +234,4 @@ bool GaseninLImageSmoothMPI::PostProcessingImpl() {
 }
 
 }  // namespace gasenin_l_image_smooth
+

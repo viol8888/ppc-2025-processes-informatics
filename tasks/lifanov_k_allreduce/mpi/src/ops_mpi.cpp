@@ -91,3 +91,4 @@ bool LifanovKAllReduceMPI::PostProcessingImpl() {
 }
 
 }  // namespace lifanov_k_allreduce
+

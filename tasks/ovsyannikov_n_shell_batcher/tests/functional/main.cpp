@@ -64,3 +64,4 @@ const auto kTestName = OvsyannikovNShellBatcherFuncTest::PrintFuncTestName<Ovsya
 INSTANTIATE_TEST_SUITE_P(ShellBatcherMergeTests, OvsyannikovNShellBatcherFuncTest, kGtestValues, kTestName);
 
 }  // namespace ovsyannikov_n_shell_batcher
+

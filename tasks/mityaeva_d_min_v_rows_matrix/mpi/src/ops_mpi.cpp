@@ -157,3 +157,4 @@ bool MinValuesInRowsMPI::PostProcessingImpl() {
 }
 
 }  // namespace mityaeva_d_min_v_rows_matrix
+

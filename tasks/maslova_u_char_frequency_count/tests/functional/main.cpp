@@ -72,3 +72,4 @@ INSTANTIATE_TEST_SUITE_P(charFreqTests, MaslovaURunFuncTestsProcesses, kGtestVal
 
 }  // namespace
 }  // namespace maslova_u_char_frequency_count
+

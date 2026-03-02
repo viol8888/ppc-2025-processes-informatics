@@ -33,3 +33,4 @@ SparseMatrixCRS TransposeCRS(const SparseMatrixCRS &matrix);
 bool CompareSparseMatrices(const SparseMatrixCRS &a, const SparseMatrixCRS &b, double eps = 1e-9);
 
 }  // namespace pikhotskiy_r_multiplication_of_sparse_matrices
+

@@ -98,3 +98,4 @@ INSTANTIATE_TEST_SUITE_P(LinearHistogramStretchingTests, KiselevIRunFuncTestsPro
 }  // namespace
 
 }  // namespace kiselev_i_linear_histogram_stretch
+

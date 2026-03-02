@@ -49,3 +49,4 @@ const auto kPerfTestName = OvsyannikovNShellBatcherPerfTest::CustomPerfTestName;
 
 INSTANTIATE_TEST_SUITE_P(RunModeTests, OvsyannikovNShellBatcherPerfTest, kGtestValues, kPerfTestName);
 }  // namespace ovsyannikov_n_shell_batcher
+

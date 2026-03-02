@@ -20,3 +20,4 @@ class GaseninLMultIntMstepTrapezSEQ : public BaseTask {
 };
 
 }  // namespace gasenin_l_mult_int_mstep_trapez
+

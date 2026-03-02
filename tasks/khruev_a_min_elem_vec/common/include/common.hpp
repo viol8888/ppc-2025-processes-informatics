@@ -14,3 +14,4 @@ using TestType = std::tuple<std::tuple<std::vector<int>, int>, std::string>;  //
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace khruev_a_min_elem_vec
+

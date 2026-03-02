@@ -39,3 +39,4 @@ const auto kPerfTestName = OvsyannikovNRunPerfTestStar::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(StarPerfTests, OvsyannikovNRunPerfTestStar, kGtestValues, kPerfTestName);
 
 }  // namespace ovsyannikov_n_star
+

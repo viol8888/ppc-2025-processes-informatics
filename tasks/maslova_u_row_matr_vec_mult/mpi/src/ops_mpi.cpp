@@ -99,3 +99,4 @@ bool MaslovaURowMatrVecMultMPI::PostProcessingImpl() {
 }
 
 }  // namespace maslova_u_row_matr_vec_mult
+

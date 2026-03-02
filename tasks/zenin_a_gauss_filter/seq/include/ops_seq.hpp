@@ -20,3 +20,4 @@ class ZeninAGaussFilterSEQ : public BaseTask {
 };
 
 }  // namespace zenin_a_gauss_filter
+

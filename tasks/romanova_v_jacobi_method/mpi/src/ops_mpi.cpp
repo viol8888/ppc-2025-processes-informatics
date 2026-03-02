@@ -166,3 +166,4 @@ bool RomanovaVJacobiMethodMPI::IsDiagonallyDominant(const std::vector<OutType> &
 }
 
 }  // namespace romanova_v_jacobi_method
+

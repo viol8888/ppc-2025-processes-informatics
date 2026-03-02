@@ -30,3 +30,4 @@ class VectorScalarProductMpi : public BaseTask {
 };
 
 }  // namespace vector_scalar_product
+

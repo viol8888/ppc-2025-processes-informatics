@@ -84,3 +84,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, NesterovARunFuncTestsProcesses2, kGtest
 }  // namespace
 
 }  // namespace nesterov_a_test_task_processes_2
+

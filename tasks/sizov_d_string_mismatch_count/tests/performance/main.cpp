@@ -55,3 +55,4 @@ const auto kPerfTestName = SizovDRunPerfTestsStringMismatchCount::CustomPerfTest
 INSTANTIATE_TEST_SUITE_P(RunPerf, SizovDRunPerfTestsStringMismatchCount, kGtestValues, kPerfTestName);
 
 }  // namespace sizov_d_string_mismatch_count
+

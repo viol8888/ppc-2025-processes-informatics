@@ -89,3 +89,4 @@ bool LiulinYIntegMnogFuncMonteCarloMPI::PostProcessingImpl() {
 }
 
 }  // namespace liulin_y_integ_mnog_func_monte_carlo
+

@@ -33,3 +33,4 @@ class GusevaAJarvisMPI : public BaseTask {
 };
 
 }  // namespace guseva_a_jarvis
+

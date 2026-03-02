@@ -68,3 +68,4 @@ bool SmyshlaevAMatMulSEQ::PostProcessingImpl() {
 }
 
 }  // namespace smyshlaev_a_mat_mul
+

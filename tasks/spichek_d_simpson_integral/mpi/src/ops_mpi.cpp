@@ -82,3 +82,4 @@ bool SpichekDSimpsonIntegralMPI::PostProcessingImpl() {
 }
 
 }  // namespace spichek_d_simpson_integral
+

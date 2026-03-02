@@ -14,3 +14,4 @@ using TestType = std::tuple<int, int, MPI_Datatype>;  // count, root, type
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace baldin_a_my_scatter
+

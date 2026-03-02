@@ -14,3 +14,4 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace gasenin_l_lex_dif
+

@@ -77,3 +77,4 @@ INSTANTIATE_TEST_SUITE_P(SEQ, SentenceCountFuncTests, kSeqValues, kPerfTestName)
 }  // namespace
 
 }  // namespace agafonov_i_sentence_count
+

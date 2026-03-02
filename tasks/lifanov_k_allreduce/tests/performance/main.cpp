@@ -46,3 +46,4 @@ const auto kPerfTestName = LifanovKAllReducePerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(MyAllReduceTests, LifanovKAllReducePerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace lifanov_k_allreduce
+

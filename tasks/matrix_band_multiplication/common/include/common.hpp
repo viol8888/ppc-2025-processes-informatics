@@ -28,3 +28,4 @@ inline std::size_t FlattenIndex(std::size_t row, std::size_t col, std::size_t co
 }
 
 }  // namespace matrix_band_multiplication
+

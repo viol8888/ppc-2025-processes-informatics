@@ -24,3 +24,4 @@ class AshihminDCalculateIntegralsBySimpsonMPI : public BaseTask {
 };
 
 }  // namespace ashihmin_d_calculate_integrals_by_simpson
+

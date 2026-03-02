@@ -32,3 +32,4 @@ class EreminVStronginAlgorithmSEQ : public BaseTask {
 };
 
 }  // namespace eremin_v_strongin_algorithm
+

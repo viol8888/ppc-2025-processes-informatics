@@ -238,3 +238,4 @@ INSTANTIATE_TEST_SUITE_P(ScatterTests, PikhotskiyRScatterRunFuncTestsProcesses, 
 }  // namespace
 
 }  // namespace pikhotskiy_r_scatter
+

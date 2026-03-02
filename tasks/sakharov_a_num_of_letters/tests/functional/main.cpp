@@ -75,3 +75,4 @@ INSTANTIATE_TEST_SUITE_P(CountLettersTests, SakharovARunFuncTestsProcesses, kGte
 }  // namespace
 
 }  // namespace sakharov_a_num_of_letters
+

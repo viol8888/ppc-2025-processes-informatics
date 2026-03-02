@@ -21,3 +21,4 @@ class KondakovVReduceTaskSEQ : public BaseTask {
 };
 
 }  // namespace kondakov_v_reduce
+

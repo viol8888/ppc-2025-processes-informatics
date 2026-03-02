@@ -143,3 +143,4 @@ bool KurpiakovAShellsortMPI::PostProcessingImpl() {
 }
 
 }  // namespace kurpiakov_a_shellsort
+

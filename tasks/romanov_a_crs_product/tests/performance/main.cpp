@@ -51,3 +51,4 @@ const auto kPerfTestName = RomanovACRSProductPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RomanovACRSProductPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace romanov_a_crs_product
+

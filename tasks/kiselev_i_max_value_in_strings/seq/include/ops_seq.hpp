@@ -20,3 +20,4 @@ class KiselevITestTaskSEQ : public BaseTask {
 };
 
 }  // namespace kiselev_i_max_value_in_strings
+

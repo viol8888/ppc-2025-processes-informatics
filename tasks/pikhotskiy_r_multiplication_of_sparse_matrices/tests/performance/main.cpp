@@ -79,3 +79,4 @@ const auto kPerfTestName = SparseMatrixMultPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SparseMatrixMultPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace pikhotskiy_r_multiplication_of_sparse_matrices
+

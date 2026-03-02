@@ -26,3 +26,4 @@ void GatherResults(int rank, int size, int rows, int rows_per_process, int remai
                    const std::vector<int> &local_result, std::vector<int> &output);
 
 }  // namespace mityaeva_d_min_v_rows_matrix
+

@@ -62,3 +62,4 @@ INSTANTIATE_TEST_SUITE_P(AllreducePerfMPI, AllreduceRunFuncTests, kMpiGtestValue
 }  // namespace
 
 }  // namespace makovskiy_i_allreduce
+

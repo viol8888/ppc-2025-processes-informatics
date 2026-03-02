@@ -140,3 +140,4 @@ bool AkimovIWordsStringCountMPI::PostProcessingImpl() {
 }
 
 }  // namespace akimov_i_words_string_count
+

@@ -58,3 +58,4 @@ inline void MyQsort(double *mem, int left, int right) {
 }
 
 }  // namespace zavyalov_a_qsort_simple_merge
+

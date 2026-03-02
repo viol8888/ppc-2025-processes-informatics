@@ -41,3 +41,4 @@ bool SavvaDMinElemVecSEQ::PostProcessingImpl() {
 }
 
 }  // namespace savva_d_min_elem_vec
+

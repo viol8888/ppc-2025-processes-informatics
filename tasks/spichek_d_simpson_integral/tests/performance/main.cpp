@@ -39,3 +39,4 @@ const auto kPerfTestName = SpichekDSimpsonIntegralRunPerfTests::CustomPerfTestNa
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SpichekDSimpsonIntegralRunPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace spichek_d_simpson_integral
+

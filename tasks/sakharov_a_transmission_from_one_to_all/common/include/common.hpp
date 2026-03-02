@@ -14,3 +14,4 @@ using TestType = std::tuple<InType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace sakharov_a_transmission_from_one_to_all
+

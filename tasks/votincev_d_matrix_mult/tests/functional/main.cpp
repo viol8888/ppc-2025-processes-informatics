@@ -101,3 +101,4 @@ INSTANTIATE_TEST_SUITE_P(MatrixMultTests, VotincevDMatrixMultRunFuncTestsProcess
 }  // namespace
 
 }  // namespace votincev_d_matrix_mult
+

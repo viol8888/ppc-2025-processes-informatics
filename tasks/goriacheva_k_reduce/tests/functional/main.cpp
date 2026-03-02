@@ -91,3 +91,4 @@ INSTANTIATE_TEST_SUITE_P(GoriachevaKReduceFunctionalTests, GoriachevaKReduceFunc
 }  // namespace
 
 }  // namespace goriacheva_k_reduce
+

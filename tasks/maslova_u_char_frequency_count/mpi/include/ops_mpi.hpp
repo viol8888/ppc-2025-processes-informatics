@@ -20,3 +20,4 @@ class MaslovaUCharFrequencyCountMPI : public BaseTask {
 };
 
 }  // namespace maslova_u_char_frequency_count
+

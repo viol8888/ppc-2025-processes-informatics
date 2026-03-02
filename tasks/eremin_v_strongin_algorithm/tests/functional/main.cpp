@@ -87,3 +87,4 @@ INSTANTIATE_TEST_SUITE_P(StronginAlgorithmTests, EreminVRunFuncTestsStronginAlgo
 }  // namespace
 
 }  // namespace eremin_v_strongin_algorithm
+

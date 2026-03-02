@@ -80,3 +80,4 @@ const auto kPerfTestName = RozenbergAMatrixColumnSumPerfTests::CustomPerfTestNam
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RozenbergAMatrixColumnSumPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace rozenberg_a_matrix_column_sum
+

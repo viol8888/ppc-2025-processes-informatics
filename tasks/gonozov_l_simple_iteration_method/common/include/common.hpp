@@ -16,3 +16,4 @@ using TestType = std::tuple<int, std::vector<double>, std::vector<double>, std::
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace gonozov_l_simple_iteration_method
+

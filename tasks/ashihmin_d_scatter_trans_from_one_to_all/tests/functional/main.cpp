@@ -121,3 +121,4 @@ INSTANTIATE_TEST_SUITE_P(ScatterTests, AshihminDRunFuncTestsProcesses, kGtestVal
 }  // namespace
 
 }  // namespace ashihmin_d_scatter_trans_from_one_to_all
+

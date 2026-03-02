@@ -195,3 +195,4 @@ INSTANTIATE_TEST_SUITE_P(TorusGrid, KutuzovTorusTests, kGtestValues, kPerfTestNa
 }  // namespace
 
 }  // namespace kutuzov_i_torus_grid
+

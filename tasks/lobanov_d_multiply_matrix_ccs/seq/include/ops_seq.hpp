@@ -25,3 +25,4 @@ class LobanovDMultiplyMatrixSEQ : public BaseTask {
 };
 
 }  // namespace lobanov_d_multiply_matrix_ccs
+

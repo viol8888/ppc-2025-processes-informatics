@@ -47,3 +47,4 @@ bool RozenbergAMatrixColumnSumSEQ::PostProcessingImpl() {
 }
 
 }  // namespace rozenberg_a_matrix_column_sum
+

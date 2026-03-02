@@ -22,3 +22,4 @@ using TestType = std::tuple<InType, OutType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kiselev_i_linear_histogram_stretch
+

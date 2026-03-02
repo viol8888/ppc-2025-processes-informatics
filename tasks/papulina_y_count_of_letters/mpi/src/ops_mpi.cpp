@@ -93,3 +93,4 @@ bool PapulinaYCountOfLettersMPI::PostProcessingImpl() {
 }
 
 }  // namespace papulina_y_count_of_letters
+

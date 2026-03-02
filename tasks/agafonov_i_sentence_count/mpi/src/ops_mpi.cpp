@@ -90,3 +90,4 @@ bool SentenceCountMPI::PostProcessingImpl() {
 }
 
 }  // namespace agafonov_i_sentence_count
+

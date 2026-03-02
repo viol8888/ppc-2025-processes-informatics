@@ -74,3 +74,4 @@ const auto kPerfTestName = KrykovESimpleIterationsPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KrykovESimpleIterationsPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace krykov_e_simple_iterations
+

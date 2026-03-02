@@ -61,3 +61,4 @@ const auto kPerfTestName = PotashnikMShortWaysBellfordPerfTests::CustomPerfTestN
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PotashnikMShortWaysBellfordPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace potashnik_m_short_ways_bellford
+

@@ -107,3 +107,4 @@ INSTANTIATE_TEST_SUITE_P(MatrixMinValuesTests, MinValuesInRowsRunFuncTests, kGte
 }  // namespace
 
 }  // namespace mityaeva_d_min_v_rows_matrix
+

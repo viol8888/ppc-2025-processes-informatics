@@ -79,3 +79,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, ZavyalovAScalarProductFuncTests, kGtest
 }  // namespace
 
 }  // namespace zavyalov_a_scalar_product
+

@@ -20,3 +20,4 @@ class MaslovaUFastSortSimpleSEQ : public BaseTask {
 };
 
 }  // namespace maslova_u_fast_sort_simple
+

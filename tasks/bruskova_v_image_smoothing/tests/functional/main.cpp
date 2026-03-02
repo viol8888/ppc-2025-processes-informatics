@@ -39,3 +39,4 @@ const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
 INSTANTIATE_TEST_SUITE_P(FuncTests, ImageSmoothingFuncTests, kGtestValues,
                          ImageSmoothingFuncTests::PrintFuncTestName<ImageSmoothingFuncTests>);
 }  // namespace bruskova_v_image_smoothing
+

@@ -266,3 +266,4 @@ bool VotincevDQsortBatcherMPI::PostProcessingImpl() {
 }
 
 }  // namespace votincev_d_qsort_batcher
+

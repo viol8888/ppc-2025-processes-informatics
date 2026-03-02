@@ -21,3 +21,4 @@ inline bool IsEqual(double a, double b) {
 }
 
 }  // namespace romanov_a_integration_rect_method
+

@@ -124,3 +124,4 @@ void FrolovaSSumElemMatrixMPI::ProcessWorker() {
 }
 
 }  // namespace frolova_s_sum_elem_matrix
+

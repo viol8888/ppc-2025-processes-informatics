@@ -41,3 +41,4 @@ bool BruskovaVImageSmoothingSEQ::PostProcessingImpl() {
 }
 
 }  // namespace bruskova_v_image_smoothing
+

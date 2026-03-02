@@ -116,3 +116,4 @@ const auto kPerfTestName = PikhotskiyRScatterPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PikhotskiyRScatterPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace pikhotskiy_r_scatter
+

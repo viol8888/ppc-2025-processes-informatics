@@ -26,3 +26,4 @@ class ConjugateGradientSeq : public shekhirev_v_cg_method::BaseTask {
 };
 
 }  // namespace shekhirev_v_cg_method_seq
+

@@ -157,3 +157,4 @@ INSTANTIATE_TEST_SUITE_P(GaussTapeTests, KiselevIRunFuncTestsProcesses2, kGTestV
 
 }  // namespace
 }  // namespace kiselev_i_gauss_method_horizontal_tape_scheme
+

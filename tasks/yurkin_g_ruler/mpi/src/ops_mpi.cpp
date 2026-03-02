@@ -85,3 +85,4 @@ bool YurkinGRulerMPI::PostProcessingImpl() {
 }
 
 }  // namespace yurkin_g_ruler
+

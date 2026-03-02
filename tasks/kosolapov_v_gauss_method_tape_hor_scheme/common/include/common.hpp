@@ -27,3 +27,4 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kosolapov_v_gauss_method_tape_hor_scheme
+

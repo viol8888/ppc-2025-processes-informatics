@@ -39,3 +39,4 @@ bool ZavyalovAScalarProductSEQ::PostProcessingImpl() {
 }
 
 }  // namespace zavyalov_a_scalar_product
+

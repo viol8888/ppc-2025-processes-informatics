@@ -19,3 +19,4 @@ class PikhotskiyRElemVecSumSEQ : public BaseTask {
 };
 
 }  // namespace pikhotskiy_r_elem_vec_sum
+

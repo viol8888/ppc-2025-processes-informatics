@@ -76,3 +76,4 @@ bool SpichekDJacobiMPI::PostProcessingImpl() {
 }
 
 }  // namespace spichek_d_jacobi
+

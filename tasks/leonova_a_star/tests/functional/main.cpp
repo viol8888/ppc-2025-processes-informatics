@@ -127,3 +127,4 @@ INSTANTIATE_TEST_SUITE_P(RunMatrixFunc, LeonovaAStarRunFuncTestsProcesses, kGtes
 }  // namespace
 
 }  // namespace leonova_a_star
+

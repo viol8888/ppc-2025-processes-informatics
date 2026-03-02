@@ -13,3 +13,4 @@ using TestType = std::tuple<InType, OutType>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace volkov_a_count_word_line
+

@@ -74,3 +74,4 @@ const auto kPerfTestName = RomanovaVJacobiMethodPerfTestProcesses::CustomPerfTes
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RomanovaVJacobiMethodPerfTestProcesses, kGtestValues, kPerfTestName);
 // NOLINTEND(cppcoreguidelines-avoid-non-const-global-variables, modernize-type-traits, misc-use-anonymous-namespace)
 }  // namespace romanova_v_jacobi_method
+

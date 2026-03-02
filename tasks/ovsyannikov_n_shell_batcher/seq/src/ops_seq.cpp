@@ -32,3 +32,4 @@ bool OvsyannikovNShellBatcherSEQ::PostProcessingImpl() {
 }
 
 }  // namespace ovsyannikov_n_shell_batcher
+

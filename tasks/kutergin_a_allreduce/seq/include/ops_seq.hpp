@@ -21,3 +21,4 @@ class AllreduceSequential : public BaseTask {
 };
 
 }  // namespace kutergin_a_allreduce
+

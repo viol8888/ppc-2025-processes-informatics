@@ -89,3 +89,4 @@ INSTANTIATE_TEST_SUITE_P(StarTopologyTests, GusevDStarFuncTests, kGtestValues, k
 }  // namespace
 
 }  // namespace gusev_d_star
+

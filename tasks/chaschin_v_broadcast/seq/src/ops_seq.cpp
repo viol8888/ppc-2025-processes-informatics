@@ -35,3 +35,4 @@ template class ChaschinVBroadcastSEQ<float>;
 template class ChaschinVBroadcastSEQ<double>;
 
 }  // namespace chaschin_v_broadcast
+

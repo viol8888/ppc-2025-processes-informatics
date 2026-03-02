@@ -29,3 +29,4 @@ class KondakovVMinValMatrixMPI : public BaseTask {
   static std::vector<int> GatherMinima(const std::vector<int> &local_minima, size_t total_rows, int n, int rank);
 };
 }  // namespace kondakov_v_min_val_in_matrix_str
+

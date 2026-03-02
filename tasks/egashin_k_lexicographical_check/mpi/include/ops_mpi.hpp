@@ -27,3 +27,4 @@ class TestTaskMPI : public BaseTask {
 };
 
 }  // namespace egashin_k_lexicographical_check
+

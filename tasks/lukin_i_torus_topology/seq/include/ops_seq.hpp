@@ -23,3 +23,4 @@ class LukinIThorTopologySEQ : public BaseTask {
   std::vector<int> dummy_route_ = {2, 0, 2, 6};
 };
 }  // namespace lukin_i_torus_topology
+

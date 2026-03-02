@@ -320,3 +320,4 @@ bool AkimovIStarMPI::PostProcessingImpl() {
 }
 
 }  // namespace akimov_i_star
+

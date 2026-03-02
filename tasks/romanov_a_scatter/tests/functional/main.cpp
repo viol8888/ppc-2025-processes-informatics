@@ -121,3 +121,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, RomanovAScatterFuncTests, kGtestValues,
 }  // namespace
 
 }  // namespace romanov_a_scatter
+

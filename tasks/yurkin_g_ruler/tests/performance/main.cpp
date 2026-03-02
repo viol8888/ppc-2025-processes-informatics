@@ -39,3 +39,4 @@ const auto kPerfTestName = YurkinGRulerPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, YurkinGRulerPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace yurkin_g_ruler
+

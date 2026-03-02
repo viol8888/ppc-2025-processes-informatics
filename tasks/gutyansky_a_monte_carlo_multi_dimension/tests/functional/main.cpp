@@ -133,3 +133,4 @@ INSTANTIATE_TEST_SUITE_P(MonteCarloTests, GutyanskyAMonteCarloMultiDimensionFunc
 }  // namespace
 
 }  // namespace gutyansky_a_monte_carlo_multi_dimension
+

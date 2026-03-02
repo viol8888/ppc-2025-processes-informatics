@@ -97,3 +97,4 @@ bool AllreduceMPI::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_a_allreduce
+

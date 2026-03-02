@@ -51,3 +51,4 @@ const auto kTestNameGen = VolkovACountWordLinePerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(VolkovPerfTests, VolkovACountWordLinePerfTests, kTestParams, kTestNameGen);
 
 }  // namespace volkov_a_count_word_line
+

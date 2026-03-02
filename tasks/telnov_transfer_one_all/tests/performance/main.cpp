@@ -41,3 +41,4 @@ const auto kPerfTestName = TelnovTransferOneAllPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, TelnovTransferOneAllPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace telnov_transfer_one_all
+

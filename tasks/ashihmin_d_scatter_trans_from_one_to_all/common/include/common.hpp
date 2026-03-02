@@ -25,3 +25,4 @@ template <typename T>
 using BaseTask = ppc::task::Task<ScatterParams, std::vector<T>>;
 
 }  // namespace ashihmin_d_scatter_trans_from_one_to_all
+

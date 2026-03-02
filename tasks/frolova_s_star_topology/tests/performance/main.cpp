@@ -97,3 +97,4 @@ TEST(frolovaSStar, taskRun) {
     task.PostProcessingImpl();
   }
 }
+

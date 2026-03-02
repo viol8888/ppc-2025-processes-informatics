@@ -55,3 +55,4 @@ const auto kPerfTestName = KondakovVMinValMatrixPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(MinValMatrixPerf, KondakovVMinValMatrixPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace kondakov_v_min_val_in_matrix_str
+

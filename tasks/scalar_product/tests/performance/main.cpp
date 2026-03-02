@@ -51,3 +51,4 @@ const auto kPerfTestName = ScalarProductRunPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ScalarProductRunPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace scalar_product
+

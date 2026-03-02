@@ -73,3 +73,4 @@ bool TitaevMElemVecsAvgMPI::PostProcessingImpl() {
 }
 
 }  // namespace titaev_m_avg_el_vector
+

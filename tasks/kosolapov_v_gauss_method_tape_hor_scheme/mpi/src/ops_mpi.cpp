@@ -276,3 +276,4 @@ void KosolapovVGaussMethodTapeHorSchemeMPI::PriparePivot(int rank, int owner_pro
   }
 }
 }  // namespace kosolapov_v_gauss_method_tape_hor_scheme
+

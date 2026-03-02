@@ -22,3 +22,4 @@ class GonozovLSimpleIterationMethodSEQ : public BaseTask {
 };
 
 }  // namespace gonozov_l_simple_iteration_method
+

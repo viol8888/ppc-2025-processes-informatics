@@ -88,3 +88,4 @@ class FunctionRegistry final {
 };
 
 }  // namespace gutyansky_a_monte_carlo_multi_dimension
+

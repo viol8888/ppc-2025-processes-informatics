@@ -36,3 +36,4 @@ class LeonovaAStarMPI : public BaseTask {
 };
 
 }  // namespace leonova_a_star
+

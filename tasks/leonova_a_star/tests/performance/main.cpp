@@ -91,3 +91,4 @@ const auto kPerfTestName = LeonovaAStarRunPerfTestsProcesses::CustomPerfTestName
 INSTANTIATE_TEST_SUITE_P(RunMatrixPerf, LeonovaAStarRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace leonova_a_star
+

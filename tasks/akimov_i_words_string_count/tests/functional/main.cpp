@@ -116,3 +116,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, AkimovIWordsStringCountFromFileFuncTest
 }  // namespace
 
 }  // namespace akimov_i_words_string_count
+

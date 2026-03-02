@@ -95,3 +95,4 @@ INSTANTIATE_TEST_SUITE_P(MaxElemMatrixTests, PylaevaSMaxElemMatrixFuncTests, kGt
 }  // namespace
 
 }  // namespace pylaeva_s_max_elem_matrix
+

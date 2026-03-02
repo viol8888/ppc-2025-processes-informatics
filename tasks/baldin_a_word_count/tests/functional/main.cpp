@@ -116,3 +116,4 @@ INSTANTIATE_TEST_SUITE_P(WordCountTests, BaldinAWordCountFuncTests, kGtestValues
 }  // namespace
 
 }  // namespace baldin_a_word_count
+

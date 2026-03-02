@@ -57,3 +57,4 @@ const auto kPerfTestName = ZeninAGaussFilterPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(ZeninAPerfTestGaussFilter, ZeninAGaussFilterPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace zenin_a_gauss_filter
+

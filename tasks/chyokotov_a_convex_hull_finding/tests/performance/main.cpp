@@ -151,3 +151,4 @@ const auto kPerfTestName = ChyokotovConvexHullPerfTest::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ChyokotovConvexHullPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace chyokotov_a_convex_hull_finding
+

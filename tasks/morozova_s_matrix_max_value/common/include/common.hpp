@@ -14,3 +14,4 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace morozova_s_matrix_max_value
+

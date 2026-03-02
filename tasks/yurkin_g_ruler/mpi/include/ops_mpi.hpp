@@ -20,3 +20,4 @@ class YurkinGRulerMPI : public BaseTask {
 };
 
 }  // namespace yurkin_g_ruler
+

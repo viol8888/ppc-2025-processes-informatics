@@ -15,3 +15,4 @@ using TestType = std::tuple<InType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kiselev_i_gauss_method_horizontal_tape_scheme
+

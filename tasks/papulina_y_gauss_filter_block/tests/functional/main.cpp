@@ -105,3 +105,4 @@ INSTANTIATE_TEST_SUITE_P(GaussFilterFuncTests, PapulinaYFuncTestsGaussFilter, kG
 }  // namespace
 
 }  // namespace papulina_y_gauss_filter_block
+

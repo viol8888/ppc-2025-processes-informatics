@@ -42,3 +42,4 @@ bool PotashnikMCharFreqSEQ::PostProcessingImpl() {
 }
 
 }  // namespace potashnik_m_char_freq
+

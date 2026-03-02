@@ -20,3 +20,4 @@ class DorofeevIMonteCarloIntegrationMPI : public BaseTask {
 };
 
 }  // namespace dorofeev_i_monte_carlo_integration_processes
+

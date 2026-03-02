@@ -266,3 +266,4 @@ bool SmyshlaevAMatMulMPI::PostProcessingImpl() {
 }
 
 }  // namespace smyshlaev_a_mat_mul
+

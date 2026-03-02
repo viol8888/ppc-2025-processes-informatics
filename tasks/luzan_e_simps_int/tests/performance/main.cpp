@@ -83,3 +83,4 @@ const auto kPerfTestName = LuzanESimpsIntpERFTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LuzanESimpsIntpERFTests, kGtestValues, kPerfTestName);
 
 }  // namespace luzan_e_simps_int
+

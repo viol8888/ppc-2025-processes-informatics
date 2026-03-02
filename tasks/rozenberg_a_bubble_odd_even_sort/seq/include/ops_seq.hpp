@@ -20,3 +20,4 @@ class RozenbergABubbleOddEvenSortSEQ : public BaseTask {
 };
 
 }  // namespace rozenberg_a_bubble_odd_even_sort
+

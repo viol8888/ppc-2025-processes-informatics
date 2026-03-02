@@ -20,3 +20,4 @@ class PylaevaSSimpleIterationMethodSEQ : public BaseTask {
 };
 
 }  // namespace pylaeva_s_simple_iteration_method
+

@@ -26,3 +26,4 @@ class MatrixBandMultiplicationSeq : public BaseTask {
 };
 
 }  // namespace matrix_band_multiplication
+

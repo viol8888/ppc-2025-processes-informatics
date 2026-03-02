@@ -76,3 +76,4 @@ bool GonozovLElemVecSumMPI::PostProcessingImpl() {
 }
 
 }  // namespace gonozov_l_elem_vec_sum
+

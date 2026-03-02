@@ -150,3 +150,4 @@ bool RozenbergARadixSimpleMergeMPI::PostProcessingImpl() {
 }
 
 }  // namespace rozenberg_a_radix_simple_merge
+

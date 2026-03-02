@@ -23,3 +23,4 @@ class VectorScalarProductSeq : public BaseTask {
 };
 
 }  // namespace vector_scalar_product
+

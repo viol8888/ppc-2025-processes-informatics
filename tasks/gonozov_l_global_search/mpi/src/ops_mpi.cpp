@@ -192,3 +192,4 @@ bool GonozovLGlobalSearchMPI::PostProcessingImpl() {
 }
 
 }  // namespace gonozov_l_global_search
+

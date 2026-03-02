@@ -76,3 +76,4 @@ const auto kPerfTestName = RozenbergARadixSimpleMergePerfTests::CustomPerfTestNa
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RozenbergARadixSimpleMergePerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace rozenberg_a_radix_simple_merge
+

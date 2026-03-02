@@ -84,3 +84,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, PotashnikMCharFreqFuncTests, kGtestValu
 }  // namespace
 
 }  // namespace potashnik_m_char_freq
+

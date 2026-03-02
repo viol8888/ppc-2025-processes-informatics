@@ -271,3 +271,4 @@ TEST(NikolaevDGatherMPITest, LargeDataGather) {
 }  // namespace
 
 }  // namespace nikolaev_d_gather
+

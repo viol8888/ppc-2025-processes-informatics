@@ -20,3 +20,4 @@ class SpichekDSimpsonIntegralMPI : public BaseTask {
 };
 
 }  // namespace spichek_d_simpson_integral
+

@@ -35,3 +35,4 @@ bool ReduceSequential::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_v_reduce
+

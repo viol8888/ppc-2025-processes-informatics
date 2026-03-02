@@ -23,3 +23,4 @@ class KurpiakovAShellsortSEQ : public BaseTask {
 };
 
 }  // namespace kurpiakov_a_shellsort
+

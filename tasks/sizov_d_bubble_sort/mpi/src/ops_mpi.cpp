@@ -173,3 +173,4 @@ bool SizovDBubbleSortMPI::PostProcessingImpl() {
 }
 
 }  // namespace sizov_d_bubble_sort
+

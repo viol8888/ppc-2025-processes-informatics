@@ -20,3 +20,4 @@ class KutuzovIElemVecAverageMPI : public BaseTask {
 };
 
 }  // namespace kutuzov_i_elem_vec_average
+

@@ -14,3 +14,4 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace frolova_s_sum_elem_matrix
+

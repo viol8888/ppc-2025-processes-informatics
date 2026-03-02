@@ -33,3 +33,4 @@ class AkimovIStarSEQ : public BaseTask {
 };
 
 }  // namespace akimov_i_star
+

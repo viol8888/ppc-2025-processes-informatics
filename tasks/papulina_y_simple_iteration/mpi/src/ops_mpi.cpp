@@ -252,3 +252,4 @@ void PapulinaYSimpleIterationMPI::PrepareLocalMatrices(std::vector<double> &loca
   }
 }
 }  // namespace papulina_y_simple_iteration
+

@@ -206,3 +206,4 @@ INSTANTIATE_TEST_SUITE_P(ThorTopologyTests, LukinIRunFuncTestsProceses3, kGtestV
 }  // namespace
 
 }  // namespace lukin_i_torus_topology
+

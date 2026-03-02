@@ -73,3 +73,4 @@ const auto kPerfTestName = RomanovAScatterPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RomanovAScatterPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace romanov_a_scatter
+

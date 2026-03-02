@@ -51,3 +51,4 @@ bool TestTaskSEQ::PostProcessingImpl() {
 }
 
 }  // namespace egashin_k_lexicographical_check
+

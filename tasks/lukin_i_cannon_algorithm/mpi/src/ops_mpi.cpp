@@ -224,3 +224,4 @@ void LukinICannonAlgorithmMPI::MatrixUnpack(double *c, const double *c_blocks, i
 }
 
 }  // namespace lukin_i_cannon_algorithm
+

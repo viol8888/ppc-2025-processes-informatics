@@ -35,3 +35,4 @@ class LukinICannonAlgorithmMPI : public BaseTask {
 };
 
 }  // namespace lukin_i_cannon_algorithm
+

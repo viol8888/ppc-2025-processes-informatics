@@ -50,3 +50,4 @@ const auto kPerfTestName = KonstantinovSElemVecSignChangeTests::CustomPerfTestNa
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KonstantinovSElemVecSignChangeTests, kGtestValues, kPerfTestName);
 
 }  // namespace konstantinov_s_elem_vec_sign_change_count
+

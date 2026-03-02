@@ -78,3 +78,4 @@ INSTANTIATE_TEST_SUITE_P(RunVecFunc, MostDiffNeighVecElemsRunFuncTestsProcesses,
 }  // namespace
 
 }  // namespace leonova_a_most_diff_neigh_vec_elems
+

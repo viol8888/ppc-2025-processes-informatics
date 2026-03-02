@@ -54,3 +54,4 @@ bool KurpiakovAShellsortSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kurpiakov_a_shellsort
+

@@ -23,3 +23,4 @@ using TestType = std::tuple<int, std::string>;  // for testing purposes
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace dorofeev_i_monte_carlo_integration_processes
+

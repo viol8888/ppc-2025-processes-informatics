@@ -44,3 +44,4 @@ const auto kPerfTestName = SakharovATransmissionPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SakharovATransmissionPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace sakharov_a_transmission_from_one_to_all
+

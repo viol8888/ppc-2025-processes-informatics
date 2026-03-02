@@ -20,3 +20,4 @@ class ZavyalovAQsortSEQ : public BaseTask {
 };
 
 }  // namespace zavyalov_a_qsort_simple_merge
+

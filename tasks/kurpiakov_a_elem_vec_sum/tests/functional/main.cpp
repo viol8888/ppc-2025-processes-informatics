@@ -73,3 +73,4 @@ INSTANTIATE_TEST_SUITE_P(KurpiakovAVec, KurpiakovAElemVecSumFuncTest, kGtestValu
 }  // namespace
 
 }  // namespace kurpiakov_a_elem_vec_sum
+

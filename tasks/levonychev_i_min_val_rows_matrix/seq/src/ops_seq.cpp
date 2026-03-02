@@ -49,3 +49,4 @@ bool LevonychevIMinValRowsMatrixSEQ::PostProcessingImpl() {
 }
 
 }  // namespace levonychev_i_min_val_rows_matrix
+

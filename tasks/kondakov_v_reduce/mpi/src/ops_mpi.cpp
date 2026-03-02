@@ -83,3 +83,4 @@ bool KondakovVReduceTaskMPI::PostProcessingImpl() {
 }
 
 }  // namespace kondakov_v_reduce
+

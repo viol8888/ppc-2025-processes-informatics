@@ -202,3 +202,4 @@ bool LeonovaAMostDiffNeighVecElemsMPI::PostProcessingImpl() {
 }
 
 }  // namespace leonova_a_most_diff_neigh_vec_elems
+

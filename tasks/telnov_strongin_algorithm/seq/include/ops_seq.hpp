@@ -20,3 +20,4 @@ class TelnovStronginAlgorithmSEQ : public BaseTask {
 };
 
 }  // namespace telnov_strongin_algorithm
+

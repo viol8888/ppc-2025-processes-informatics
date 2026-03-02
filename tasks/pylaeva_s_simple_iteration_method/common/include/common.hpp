@@ -15,3 +15,4 @@ using TestType = std::string;                                                 //
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace pylaeva_s_simple_iteration_method
+

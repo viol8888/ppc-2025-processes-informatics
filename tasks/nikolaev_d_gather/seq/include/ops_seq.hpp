@@ -20,3 +20,4 @@ class NikolaevDGatherSEQ : public BaseTask {
 };
 
 }  // namespace nikolaev_d_gather
+

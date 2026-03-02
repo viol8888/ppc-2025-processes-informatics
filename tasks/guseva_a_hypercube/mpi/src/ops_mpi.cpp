@@ -61,3 +61,4 @@ bool GusevaAHypercubeMine::PostProcessingImpl() {
 }
 
 }  // namespace guseva_a_hypercube
+

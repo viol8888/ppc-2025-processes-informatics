@@ -74,3 +74,4 @@ const auto kPerfTestName = RomanovaVMinByMatrixRowsPerfTestProcesses::CustomPerf
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RomanovaVMinByMatrixRowsPerfTestProcesses, kGtestValues, kPerfTestName);
 // NOLINTEND(cppcoreguidelines-avoid-non-const-global-variables, modernize-type-traits, misc-use-anonymous-namespace)
 }  // namespace romanova_v_min_by_matrix_rows_processes
+

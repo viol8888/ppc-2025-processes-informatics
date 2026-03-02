@@ -46,3 +46,4 @@ const auto kPerfTestName = YurkinCountingNumberPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, YurkinCountingNumberPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace yurkin_counting_number
+

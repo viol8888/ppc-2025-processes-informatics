@@ -107,3 +107,4 @@ bool SakharovACannonAlgorithmMPI::PostProcessingImpl() {
 }
 
 }  // namespace sakharov_a_cannon_algorithm
+

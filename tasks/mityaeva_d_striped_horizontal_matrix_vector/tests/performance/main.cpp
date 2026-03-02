@@ -72,3 +72,4 @@ const auto kPerfTestName = StripedHorizontalMatrixVectorRunPerfTests::CustomPerf
 INSTANTIATE_TEST_SUITE_P(RunModeTests, StripedHorizontalMatrixVectorRunPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace mityaeva_d_striped_horizontal_matrix_vector
+

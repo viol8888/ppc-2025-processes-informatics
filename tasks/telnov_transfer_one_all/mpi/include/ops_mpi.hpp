@@ -24,3 +24,4 @@ class TelnovTransferOneAllMPI : public BaseTask<T> {
 };
 
 }  // namespace telnov_transfer_one_all
+

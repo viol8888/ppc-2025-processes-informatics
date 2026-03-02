@@ -169,3 +169,4 @@ bool ShvetsovaKMaxDiffNeigVecMPI::PostProcessingImpl() {
 }
 
 }  // namespace shvetsova_k_max_diff_neig_vec
+

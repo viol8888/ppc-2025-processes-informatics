@@ -20,3 +20,4 @@ class ShkrebkoMHypercubeSEQ : public BaseTask {
 };
 
 }  // namespace shkrebko_m_hypercube
+

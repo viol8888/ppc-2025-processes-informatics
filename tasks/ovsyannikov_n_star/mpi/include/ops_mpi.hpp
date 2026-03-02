@@ -26,3 +26,4 @@ class OvsyannikovNStarMPI : public BaseTask {
 };
 
 }  // namespace ovsyannikov_n_star
+

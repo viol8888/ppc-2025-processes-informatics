@@ -20,3 +20,4 @@ class CharFreqSequential : public BaseTask {
 };
 
 }  // namespace shekhirev_v_char_freq_seq
+

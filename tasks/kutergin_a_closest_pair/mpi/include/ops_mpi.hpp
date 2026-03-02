@@ -20,3 +20,4 @@ class KuterginAClosestPairMPI : public BaseTask {
 };
 
 }  // namespace kutergin_a_closest_pair
+

@@ -22,3 +22,4 @@ class NikitinAVecSignRotationSEQ : public BaseTask {
 };
 
 }  // namespace nikitin_a_vec_sign_rotation
+

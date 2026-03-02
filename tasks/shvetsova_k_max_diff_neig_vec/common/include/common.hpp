@@ -14,3 +14,4 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace shvetsova_k_max_diff_neig_vec
+

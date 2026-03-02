@@ -41,3 +41,4 @@ bool PikhotskiyRElemVecSumSEQ::PostProcessingImpl() {
 }
 
 }  // namespace pikhotskiy_r_elem_vec_sum
+

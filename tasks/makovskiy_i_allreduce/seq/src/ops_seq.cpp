@@ -38,3 +38,4 @@ bool TestTaskSEQ::PostProcessingImpl() {
 }
 
 }  // namespace makovskiy_i_allreduce
+

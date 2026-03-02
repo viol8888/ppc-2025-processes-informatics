@@ -18,3 +18,4 @@ using TestType = std::tuple<InType, OutType>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace krykov_e_simple_iterations
+

@@ -31,3 +31,4 @@ class BruskovaVImageSmoothingSEQ : public BaseTask {
 };
 
 }  // namespace bruskova_v_image_smoothing
+

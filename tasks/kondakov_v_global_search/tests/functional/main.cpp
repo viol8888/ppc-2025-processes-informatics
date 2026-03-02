@@ -129,3 +129,4 @@ INSTANTIATE_TEST_SUITE_P(KondakovVGlobalSearchTests, KondakovVGlobalSearchRunFun
 
 }  // namespace
 }  // namespace kondakov_v_global_search
+

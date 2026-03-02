@@ -105,3 +105,4 @@ bool GusevDSentenceCountMPI::PostProcessingImpl() {
 }
 
 }  // namespace gusev_d_sentence_count
+

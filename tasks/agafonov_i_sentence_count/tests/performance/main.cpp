@@ -76,3 +76,4 @@ INSTANTIATE_TEST_SUITE_P(SentenceCountPerfTests, SentenceCountPerfTest, kGtestVa
 }  // namespace
 
 }  // namespace agafonov_i_sentence_count
+

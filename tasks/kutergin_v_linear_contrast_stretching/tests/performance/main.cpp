@@ -97,3 +97,4 @@ INSTANTIATE_TEST_SUITE_P(LinearContrastStretching, LinearContrastStretchingPerfT
 }  // namespace
 
 }  // namespace kutergin_v_linear_contrast_stretching
+

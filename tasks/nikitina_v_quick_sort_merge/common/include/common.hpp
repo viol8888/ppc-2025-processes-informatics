@@ -58,3 +58,4 @@ inline void QuickSortImpl(std::vector<int> &vec, int left, int right) {
 }
 
 }  // namespace nikitina_v_quick_sort_merge
+

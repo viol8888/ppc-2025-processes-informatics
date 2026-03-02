@@ -14,3 +14,4 @@ using TestType = std::tuple<std::string, size_t>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace baldin_a_word_count
+

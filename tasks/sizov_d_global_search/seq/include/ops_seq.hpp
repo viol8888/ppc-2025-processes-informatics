@@ -41,3 +41,4 @@ class SizovDGlobalSearchSEQ : public BaseTask {
 };
 
 }  // namespace sizov_d_global_search
+

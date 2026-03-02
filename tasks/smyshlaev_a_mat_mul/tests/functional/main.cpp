@@ -121,3 +121,4 @@ INSTANTIATE_TEST_SUITE_P(MatMulTests, SmyshlaevAMatMulRunFuncTestsProcesses, kGt
 }  // namespace
 
 }  // namespace smyshlaev_a_mat_mul
+

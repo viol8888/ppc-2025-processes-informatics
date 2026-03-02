@@ -13,3 +13,4 @@ using TestType = std::tuple<std::tuple<std::string, int>, std::string>;  // па
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace papulina_y_count_of_letters
+

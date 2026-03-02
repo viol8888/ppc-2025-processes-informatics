@@ -39,3 +39,4 @@ bool KondakovVReduceTaskSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kondakov_v_reduce
+

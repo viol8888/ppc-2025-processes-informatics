@@ -20,3 +20,4 @@ class PotashnikMCharFreqSEQ : public BaseTask {
 };
 
 }  // namespace potashnik_m_char_freq
+

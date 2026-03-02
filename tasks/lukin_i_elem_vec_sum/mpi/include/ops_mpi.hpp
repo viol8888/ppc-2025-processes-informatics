@@ -22,3 +22,4 @@ class LukinIElemVecSumMPI : public BaseTask {
 };
 
 }  // namespace lukin_i_elem_vec_sum
+

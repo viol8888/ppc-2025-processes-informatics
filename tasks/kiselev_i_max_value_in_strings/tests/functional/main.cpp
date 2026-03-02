@@ -122,3 +122,4 @@ INSTANTIATE_TEST_SUITE_P(MatrixRowMaxTests, KiselevIRunFuncTestsProcesses, kGtes
 }  // namespace
 
 }  // namespace kiselev_i_max_value_in_strings
+

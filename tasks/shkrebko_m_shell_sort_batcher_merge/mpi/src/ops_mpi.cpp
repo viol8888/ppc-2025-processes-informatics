@@ -92,3 +92,4 @@ bool ShkrebkoMShellSortBatcherMergeMPI::PostProcessingImpl() {
 }
 
 }  // namespace shkrebko_m_shell_sort_batcher_merge
+

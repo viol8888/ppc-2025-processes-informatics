@@ -14,3 +14,4 @@ using TestType = std::tuple<std::pair<int, int>, std::vector<int>>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace nikolaev_d_most_dif_vec_neighbors
+

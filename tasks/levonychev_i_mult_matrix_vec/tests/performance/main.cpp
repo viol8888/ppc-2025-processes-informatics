@@ -62,3 +62,4 @@ const auto kPerfTestName = LevonychevIMultMatrixVecPerfTests::CustomPerfTestName
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LevonychevIMultMatrixVecPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace levonychev_i_mult_matrix_vec
+

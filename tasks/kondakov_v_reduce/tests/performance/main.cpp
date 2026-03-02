@@ -62,3 +62,4 @@ const auto kPerfTestName = KondakovVReduceRunPerfTests::CustomPerfTestName;
 
 INSTANTIATE_TEST_SUITE_P(KondakovVReduceTests, KondakovVReduceRunPerfTests, kGtestValues, kPerfTestName);
 }  // namespace kondakov_v_reduce
+

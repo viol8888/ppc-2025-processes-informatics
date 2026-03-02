@@ -49,3 +49,4 @@ const auto kPerfTestName = KuterginAClosestPairPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KuterginAClosestPairPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace kutergin_a_closest_pair
+

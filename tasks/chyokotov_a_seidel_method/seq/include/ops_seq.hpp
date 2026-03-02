@@ -22,3 +22,4 @@ class ChyokotovASeidelMethodSEQ : public BaseTask {
 };
 
 }  // namespace chyokotov_a_seidel_method
+

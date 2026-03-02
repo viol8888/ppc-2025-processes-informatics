@@ -82,3 +82,4 @@ TEST_P(VotincevDMatrixMultRunPerfTestsProcesses, RunPerfModes) {
 INSTANTIATE_TEST_SUITE_P(RunPerf, VotincevDMatrixMultRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace votincev_d_matrix_mult
+

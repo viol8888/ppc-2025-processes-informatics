@@ -98,3 +98,4 @@ INSTANTIATE_TEST_SUITE_P(MatrixMaxValueTests, MorozovaSRunFuncTestsProcesses, kG
 }  // namespace
 
 }  // namespace morozova_s_matrix_max_value
+

@@ -76,3 +76,4 @@ const auto kPerfTestName = ZavyalovAReducePerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ZavyalovAReducePerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace zavyalov_a_reduce
+

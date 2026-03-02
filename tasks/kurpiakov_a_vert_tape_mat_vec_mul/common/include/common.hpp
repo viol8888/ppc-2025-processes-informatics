@@ -14,3 +14,4 @@ using TestType = std::tuple<InType, std::string, OutType>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kurpiakov_a_vert_tape_mat_vec_mul
+

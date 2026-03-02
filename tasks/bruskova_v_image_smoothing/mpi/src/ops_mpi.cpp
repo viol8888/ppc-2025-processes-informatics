@@ -21,3 +21,4 @@ class BruskovaVImageSmoothingMPI : public ppc::task::Task<InType, OutType> {
 };
 
 }  // namespace bruskova_v_image_smoothing
+

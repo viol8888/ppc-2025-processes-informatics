@@ -153,3 +153,4 @@ INSTANTIATE_TEST_SUITE_P(TrapezoidSeq, KuterginTrapezoidTests, kGtestValues, kTe
 }  // namespace
 
 }  // namespace kutergin_v_trapezoid_seq
+

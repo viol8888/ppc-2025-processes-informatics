@@ -95,3 +95,4 @@ bool CharFreqMPI::PostProcessingImpl() {
 }
 
 }  // namespace shekhirev_v_char_freq_mpi
+

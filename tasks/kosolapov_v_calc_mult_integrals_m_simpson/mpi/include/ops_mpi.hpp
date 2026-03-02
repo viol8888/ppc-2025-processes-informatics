@@ -32,3 +32,4 @@ class KosolapovVCalcMultIntegralsMSimpsonMPI : public BaseTask {
 };
 
 }  // namespace kosolapov_v_calc_mult_integrals_m_simpson
+

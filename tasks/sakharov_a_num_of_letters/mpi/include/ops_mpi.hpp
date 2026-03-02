@@ -20,3 +20,4 @@ class SakharovANumberOfLettersMPI : public BaseTask {
 };
 
 }  // namespace sakharov_a_num_of_letters
+

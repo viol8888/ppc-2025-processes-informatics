@@ -249,3 +249,4 @@ INSTANTIATE_TEST_SUITE_P(BubbleSortTests, NikitinABubleSortFuncTests, kGtestValu
 }  // namespace
 
 }  // namespace nikitin_a_buble_sort
+

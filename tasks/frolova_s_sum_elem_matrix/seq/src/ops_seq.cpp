@@ -45,3 +45,4 @@ bool FrolovaSSumElemMatrixSEQ::PostProcessingImpl() {
 }
 
 }  // namespace frolova_s_sum_elem_matrix
+

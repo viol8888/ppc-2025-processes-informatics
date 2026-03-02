@@ -20,3 +20,4 @@ class DolovVMonteCarloIntegrationMPI : public BaseTask {
 };
 
 }  // namespace dolov_v_monte_carlo_integration
+

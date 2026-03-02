@@ -87,3 +87,4 @@ const auto kPerfTestName = ZavyalovAQsortPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ZavyalovAQsortPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace zavyalov_a_qsort_simple_merge
+

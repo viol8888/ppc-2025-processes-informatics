@@ -21,3 +21,4 @@ class KondakovVReduceTaskMPI : public BaseTask {
 };
 
 }  // namespace kondakov_v_reduce
+

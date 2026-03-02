@@ -51,3 +51,4 @@ const auto kPerfTestName = SakharovARunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SakharovARunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace sakharov_a_num_of_letters
+

@@ -102,3 +102,4 @@ INSTANTIATE_TEST_SUITE_P(GaussJordanTests, KhruevARunFuncTestsProcesses, kGtestV
 
 }  // namespace
 }  // namespace khruev_a_gauss_jordan
+

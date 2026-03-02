@@ -78,3 +78,4 @@ const auto kPerfTestName = LukinIRunPerfTestsProcesses2::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunTests, LukinIRunPerfTestsProcesses2, kGtestValues, kPerfTestName);
 
 }  // namespace lukin_i_cannon_algorithm
+

@@ -91,3 +91,4 @@ bool ConjugateGradientSeq::PostProcessingImpl() {
 }
 
 }  // namespace shekhirev_v_cg_method_seq
+

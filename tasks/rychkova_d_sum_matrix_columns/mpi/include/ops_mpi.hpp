@@ -21,3 +21,4 @@ class RychkovaDSumMatrixColumnsMPI : public BaseTask {
 };
 
 }  // namespace rychkova_d_sum_matrix_columns
+

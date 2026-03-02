@@ -32,3 +32,4 @@ class RomanovaVJacobiMethodSEQ : public BaseTask {
 };
 
 }  // namespace romanova_v_jacobi_method
+

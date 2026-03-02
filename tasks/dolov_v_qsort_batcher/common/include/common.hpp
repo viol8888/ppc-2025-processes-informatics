@@ -13,3 +13,4 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace dolov_v_qsort_batcher
+

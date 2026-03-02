@@ -23,3 +23,4 @@ using TestType = std::tuple<int, int, MPI_Datatype, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace nikolaev_d_gather
+

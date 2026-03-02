@@ -60,3 +60,4 @@ const auto kPerfTestName = ChaschinVRunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ChaschinVRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace chaschin_v_max_for_each_row
+

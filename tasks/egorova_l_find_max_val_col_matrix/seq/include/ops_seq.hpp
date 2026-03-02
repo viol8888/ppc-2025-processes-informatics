@@ -20,3 +20,4 @@ class EgorovaLFindMaxValColMatrixSEQ : public BaseTask {
 };
 
 }  // namespace egorova_l_find_max_val_col_matrix
+

@@ -56,3 +56,4 @@ TEST_P(VotincevDQsortBatcherRunPerfTestsProcesses, RunPerfModes) {
 INSTANTIATE_TEST_SUITE_P(RunPerf, VotincevDQsortBatcherRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace votincev_d_qsort_batcher
+

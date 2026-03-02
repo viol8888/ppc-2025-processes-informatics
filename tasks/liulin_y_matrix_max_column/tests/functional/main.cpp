@@ -102,3 +102,4 @@ TEST(TournamentTestMPI, EmptyColumn) {
 
 }  // namespace
 }  // namespace liulin_y_matrix_max_column
+

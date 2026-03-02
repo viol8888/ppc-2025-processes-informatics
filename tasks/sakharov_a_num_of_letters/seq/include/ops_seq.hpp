@@ -20,3 +20,4 @@ class SakharovANumberOfLettersSEQ : public BaseTask {
 };
 
 }  // namespace sakharov_a_num_of_letters
+

@@ -82,3 +82,4 @@ const auto kPerfTestName = ShvetsovaKGaussVertStripRunPerfTestProcesses::CustomP
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ShvetsovaKGaussVertStripRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace shvetsova_k_gausse_vert_strip
+

@@ -151,3 +151,4 @@ double KosolapovVCalcMultIntegralsMSimpsonMPI::GetSimpsonWeight(int index, int s
 }
 
 }  // namespace kosolapov_v_calc_mult_integrals_m_simpson
+

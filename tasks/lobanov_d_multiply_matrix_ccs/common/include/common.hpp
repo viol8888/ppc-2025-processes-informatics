@@ -79,3 +79,4 @@ inline std::ostream &operator<<(std::ostream &os, const CompressedColumnMatrix &
   return os;
 }
 }  // namespace lobanov_d_multiply_matrix_ccs
+

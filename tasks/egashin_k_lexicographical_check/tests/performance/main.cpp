@@ -53,3 +53,4 @@ const auto kPerfParams =
 INSTANTIATE_TEST_SUITE_P(EgashinKLexCheckPerf, EgashinKLexCheckPerfTest, ppc::util::TupleToGTestValues(kPerfParams));
 
 }  // namespace egashin_k_lexicographical_check
+

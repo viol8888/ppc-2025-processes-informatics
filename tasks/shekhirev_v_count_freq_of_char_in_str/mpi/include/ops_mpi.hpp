@@ -20,3 +20,4 @@ class CharFreqMPI : public shekhirev_v_char_freq_seq::BaseTask {
 };
 
 }  // namespace shekhirev_v_char_freq_mpi
+

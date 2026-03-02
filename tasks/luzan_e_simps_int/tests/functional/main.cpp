@@ -127,3 +127,4 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, LuzanESimpsIntFuncTests, kGtestValues, 
 }  // namespace
 
 }  // namespace luzan_e_simps_int
+

@@ -150,3 +150,4 @@ INSTANTIATE_TEST_SUITE_P(RunModeTestsMedium, GaivoronskiyMRunPerfTestsMedium, kG
 INSTANTIATE_TEST_SUITE_P(RunModeTestsLarge, GaivoronskiyMRunPerfTestsLarge, kGtestValuesLarge, kPerfTestNameLarge);
 
 }  // namespace gauss_jordan
+

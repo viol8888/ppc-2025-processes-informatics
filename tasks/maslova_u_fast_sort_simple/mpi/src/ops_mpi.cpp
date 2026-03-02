@@ -104,3 +104,4 @@ bool MaslovaUFastSortSimpleMPI::PostProcessingImpl() {
 }
 
 }  // namespace maslova_u_fast_sort_simple
+

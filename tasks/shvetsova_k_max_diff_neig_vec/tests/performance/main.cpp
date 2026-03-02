@@ -54,3 +54,4 @@ TEST_P(ShvetsovaKMaxDiffNeigVecRunPerfTestProcesses, RunPerfModes) {
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ShvetsovaKMaxDiffNeigVecRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace shvetsova_k_max_diff_neig_vec
+

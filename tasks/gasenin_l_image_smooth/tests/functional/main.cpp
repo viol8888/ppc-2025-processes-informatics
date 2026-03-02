@@ -129,3 +129,4 @@ INSTANTIATE_TEST_SUITE_P(ImageSmoothTests, GaseninLRunFuncTestsProcesses, kGtest
 }  // namespace
 
 }  // namespace gasenin_l_image_smooth
+

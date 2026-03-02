@@ -350,3 +350,4 @@ bool SmyshlaevAGaussFiltMPI::PostProcessingImpl() {
 }
 
 }  // namespace smyshlaev_a_gauss_filt
+

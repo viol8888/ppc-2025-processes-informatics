@@ -107,3 +107,4 @@ bool RomanovaVMinByMatrixRowsMPI::PostProcessingImpl() {
 }
 
 }  // namespace romanova_v_min_by_matrix_rows_processes
+

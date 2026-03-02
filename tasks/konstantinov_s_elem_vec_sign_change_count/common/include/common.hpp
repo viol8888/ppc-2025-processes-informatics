@@ -16,3 +16,4 @@ using TestType = int;  // std::tuple<std::tuple<std::vector<int>, int>, std::str
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace konstantinov_s_elem_vec_sign_change_count
+

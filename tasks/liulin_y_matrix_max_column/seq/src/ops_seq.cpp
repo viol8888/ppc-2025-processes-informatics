@@ -91,3 +91,4 @@ bool LiulinYMatrixMaxColumnSEQ::PostProcessingImpl() {
 }
 
 }  // namespace liulin_y_matrix_max_column
+

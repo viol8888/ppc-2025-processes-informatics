@@ -16,3 +16,4 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace egorova_l_find_max_val_col_matrix
+

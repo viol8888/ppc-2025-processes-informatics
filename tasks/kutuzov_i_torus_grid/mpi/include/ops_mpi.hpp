@@ -24,3 +24,4 @@ class KutuzovIThorusGridMPI : public BaseTask {
 };
 
 }  // namespace kutuzov_i_torus_grid
+

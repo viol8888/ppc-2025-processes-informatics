@@ -20,3 +20,4 @@ class VolkovACountWordLineMPI : public BaseTask {
 };
 
 }  // namespace volkov_a_count_word_line
+

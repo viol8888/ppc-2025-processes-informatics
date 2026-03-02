@@ -20,3 +20,4 @@ class GusevaAMatrixSumsSEQ : public BaseTask {
 };
 
 }  // namespace guseva_a_matrix_sums
+

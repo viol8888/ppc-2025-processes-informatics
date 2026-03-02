@@ -14,3 +14,4 @@ using TestType = std::tuple<int, size_t, size_t, std::vector<double>, double>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace fatehov_k_reshetka_tor
+

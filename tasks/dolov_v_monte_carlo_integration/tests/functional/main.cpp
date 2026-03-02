@@ -124,3 +124,4 @@ INSTANTIATE_TEST_SUITE_P(MonteCarloHyperSphereTests, MonteCarloHyperSphereTests,
 
 }  // namespace
 }  // namespace dolov_v_monte_carlo_integration
+

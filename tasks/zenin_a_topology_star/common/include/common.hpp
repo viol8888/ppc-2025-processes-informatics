@@ -14,3 +14,4 @@ using TestType = std::tuple<size_t, size_t>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace zenin_a_topology_star
+
