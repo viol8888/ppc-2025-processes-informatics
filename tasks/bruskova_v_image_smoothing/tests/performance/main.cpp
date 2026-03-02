@@ -33,4 +33,3 @@ const auto kAllPerfTasks = ppc::util::MakeAllPerfTasks<InType, BruskovaVImageSmo
 const auto kGtestValues = ppc::util::TupleToGTestValues(kAllPerfTasks);
 INSTANTIATE_TEST_SUITE_P(PerfTests, ImageSmoothingPerfTests, kGtestValues, ImageSmoothingPerfTests::CustomPerfTestName);
 }  // namespace bruskova_v_image_smoothing
-

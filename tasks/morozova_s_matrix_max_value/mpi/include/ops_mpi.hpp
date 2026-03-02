@@ -20,4 +20,3 @@ class MorozovaSMatrixMaxValueMPI : public BaseTask {
 };
 
 }  // namespace morozova_s_matrix_max_value
-

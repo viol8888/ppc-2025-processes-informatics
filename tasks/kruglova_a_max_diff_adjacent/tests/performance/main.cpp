@@ -59,4 +59,3 @@ const auto kPerfTestName = KruglovaAMaxDiffAdjacentPerfTests::CustomPerfTestName
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KruglovaAMaxDiffAdjacentPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace kruglova_a_max_diff_adjacent
-

@@ -152,4 +152,3 @@ void NikitinABubleSortMPI::ExchangeLeft(std::vector<double> &local, const std::v
 }
 
 }  // namespace nikitin_a_buble_sort
-

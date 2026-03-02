@@ -90,4 +90,3 @@ bool VectorScalarProductMpi::PostProcessingImpl() {
 }
 
 }  // namespace vector_scalar_product
-

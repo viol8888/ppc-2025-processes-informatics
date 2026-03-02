@@ -69,4 +69,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, GonozovLRunGlobalSearchFuncTests, kGtes
 }  // namespace
 
 }  // namespace gonozov_l_global_search
-

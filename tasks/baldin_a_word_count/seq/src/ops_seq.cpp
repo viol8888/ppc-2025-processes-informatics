@@ -54,4 +54,3 @@ bool BaldinAWordCountSEQ::PostProcessingImpl() {
 }
 
 }  // namespace baldin_a_word_count
-

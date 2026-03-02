@@ -37,4 +37,3 @@ bool ZeninATopologyStarSEQ::PostProcessingImpl() {
 }
 
 }  // namespace zenin_a_topology_star
-

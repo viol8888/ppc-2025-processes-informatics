@@ -154,4 +154,3 @@ bool KuterginAClosestPairMPI::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_a_closest_pair
-

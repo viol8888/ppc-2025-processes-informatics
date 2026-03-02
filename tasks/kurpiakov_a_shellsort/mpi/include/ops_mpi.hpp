@@ -27,4 +27,3 @@ class KurpiakovAShellsortMPI : public BaseTask {
 };
 
 }  // namespace kurpiakov_a_shellsort
-

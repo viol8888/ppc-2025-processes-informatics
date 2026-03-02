@@ -78,4 +78,3 @@ INSTANTIATE_TEST_SUITE_P(YurkinTests, YurkinCountingNumberFuncTests, kValues, kN
 
 }  // namespace
 }  // namespace yurkin_counting_number
-

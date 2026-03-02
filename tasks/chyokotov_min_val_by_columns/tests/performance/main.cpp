@@ -70,4 +70,3 @@ const auto kPerfTestName = ChyokotovMinValPerfTest::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ChyokotovMinValPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace chyokotov_min_val_by_columns
-

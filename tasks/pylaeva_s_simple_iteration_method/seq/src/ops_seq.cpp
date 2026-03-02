@@ -90,4 +90,3 @@ bool PylaevaSSimpleIterationMethodSEQ::PostProcessingImpl() {
 }
 
 }  // namespace pylaeva_s_simple_iteration_method
-

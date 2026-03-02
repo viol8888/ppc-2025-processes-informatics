@@ -75,4 +75,3 @@ const auto kPerfTestName = KutuzovTorusPerf::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunMode, KutuzovTorusPerf, kGtestValues, kPerfTestName);
 
 }  // namespace kutuzov_i_torus_grid
-

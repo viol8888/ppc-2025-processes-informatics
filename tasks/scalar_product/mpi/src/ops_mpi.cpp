@@ -75,4 +75,3 @@ bool ScalarProductMPI::PostProcessingImpl() {
 }
 
 }  // namespace scalar_product
-

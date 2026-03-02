@@ -46,4 +46,3 @@ const auto kPerfTestName = KondakovVGlobalSearchRunPerfTests::CustomPerfTestName
 INSTANTIATE_TEST_SUITE_P(KondakovVGlobalSearchTests, KondakovVGlobalSearchRunPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace kondakov_v_global_search
-

@@ -103,4 +103,3 @@ INSTANTIATE_TEST_SUITE_P(SimpleIterationsTests, KrykovESimpleIterationsFuncTests
 }  // namespace
 
 }  // namespace krykov_e_simple_iterations
-

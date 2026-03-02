@@ -32,4 +32,3 @@ class ZeninAGaussFilterMPI : public BaseTask {
 };
 
 }  // namespace zenin_a_gauss_filter
-

@@ -90,4 +90,3 @@ TEST(NikitinaVAllReduceMisc, RunWithEmptyVector) {
 }
 
 }  // namespace nikitina_v_trans_all_one_distrib
-

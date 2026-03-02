@@ -14,4 +14,3 @@ using TestType = std::tuple<std::string, std::string, int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace smyshlaev_a_str_order_check
-

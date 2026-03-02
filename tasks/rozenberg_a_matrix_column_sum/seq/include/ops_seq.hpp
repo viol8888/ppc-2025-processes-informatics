@@ -20,4 +20,3 @@ class RozenbergAMatrixColumnSumSEQ : public BaseTask {
 };
 
 }  // namespace rozenberg_a_matrix_column_sum
-

@@ -115,4 +115,3 @@ inline std::vector<int> BatcherOddEvenMerge(const std::vector<int> &a, const std
 }
 
 }  // namespace shkrebko_m_shell_sort_batcher_merge
-

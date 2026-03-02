@@ -115,4 +115,3 @@ INSTANTIATE_TEST_SUITE_P(MatrixTests, SakharovACannonFuncTests, kGtestValues, kP
 }  // namespace
 
 }  // namespace sakharov_a_cannon_algorithm
-

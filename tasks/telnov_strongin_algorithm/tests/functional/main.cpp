@@ -60,4 +60,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, TelnovStronginAlgorithmFuncTests, kGtes
 }  // namespace
 
 }  // namespace telnov_strongin_algorithm
-

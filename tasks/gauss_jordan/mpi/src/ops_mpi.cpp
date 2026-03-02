@@ -445,4 +445,3 @@ bool GaussJordanMPI::PostProcessingImpl() {
   return true;
 }
 }  // namespace gauss_jordan
-

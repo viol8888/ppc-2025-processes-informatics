@@ -30,4 +30,3 @@ using OutType = Solution;
 using TestType = std::tuple<Params, std::string>;
 
 }  // namespace kondakov_v_global_search
-

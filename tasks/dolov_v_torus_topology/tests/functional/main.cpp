@@ -122,4 +122,3 @@ INSTANTIATE_TEST_SUITE_P(TorusFunctional, DolovVTorusTopologyFuncTests, kGtestVa
                          DolovVTorusTopologyFuncTests::PrintFuncTestName<DolovVTorusTopologyFuncTests>);
 }  // namespace
 }  // namespace dolov_v_torus_topology
-

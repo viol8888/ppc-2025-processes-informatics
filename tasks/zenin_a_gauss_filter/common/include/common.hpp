@@ -29,4 +29,3 @@ using TestType = std::tuple<std::string, int, int, int>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace zenin_a_gauss_filter
-

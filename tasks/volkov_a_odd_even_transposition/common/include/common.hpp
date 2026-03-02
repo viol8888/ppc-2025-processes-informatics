@@ -11,4 +11,3 @@ using OutType = std::vector<int>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace volkov_a_odd_even_transposition
-

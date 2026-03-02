@@ -167,4 +167,3 @@ INSTANTIATE_TEST_SUITE_P(Multistep2dOptimizationTests, LevonychevIMultistep2dOpt
 }  // namespace
 
 }  // namespace levonychev_i_multistep_2d_optimization
-

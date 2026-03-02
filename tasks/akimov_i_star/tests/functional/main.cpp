@@ -126,4 +126,3 @@ INSTANTIATE_TEST_SUITE_P(StarFuncTests, AkimovIStarFromFileFuncTests, kGtestValu
 }  // namespace
 
 }  // namespace akimov_i_star
-

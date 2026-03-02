@@ -37,4 +37,3 @@ bool KurpiakovAElemVecSumSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kurpiakov_a_elem_vec_sum
-

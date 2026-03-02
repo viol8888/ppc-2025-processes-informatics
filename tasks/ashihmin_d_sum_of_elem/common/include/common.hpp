@@ -15,4 +15,3 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace ashihmin_d_sum_of_elem
-

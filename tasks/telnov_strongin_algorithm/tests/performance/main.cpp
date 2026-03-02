@@ -47,4 +47,3 @@ const auto kPerfTestName = TelnovStronginAlgorithmPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, TelnovStronginAlgorithmPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace telnov_strongin_algorithm
-

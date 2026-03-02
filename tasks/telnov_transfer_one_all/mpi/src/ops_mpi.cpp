@@ -88,4 +88,3 @@ template class TelnovTransferOneAllMPI<float>;
 template class TelnovTransferOneAllMPI<double>;
 
 }  // namespace telnov_transfer_one_all
-

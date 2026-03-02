@@ -97,4 +97,3 @@ TEST_P(MatrixBandMultiplicationPerfTests, Runs) {
 }  // namespace
 
 }  // namespace matrix_band_multiplication
-

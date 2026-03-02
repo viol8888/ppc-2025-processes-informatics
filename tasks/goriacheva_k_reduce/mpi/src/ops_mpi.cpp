@@ -90,4 +90,3 @@ bool GoriachevaKReduceMPI::PostProcessingImpl() {
 }
 
 }  // namespace goriacheva_k_reduce
-

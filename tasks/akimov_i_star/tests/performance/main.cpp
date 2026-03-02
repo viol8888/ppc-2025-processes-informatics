@@ -52,4 +52,3 @@ const auto kPerfTestName = AkimovIStarPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, AkimovIStarPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace akimov_i_star
-

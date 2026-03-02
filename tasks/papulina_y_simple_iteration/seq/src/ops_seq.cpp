@@ -159,4 +159,3 @@ void PapulinaYSimpleIterationSEQ::ComputeNewX(const std::vector<double> &b_matri
   }
 }
 }  // namespace papulina_y_simple_iteration
-

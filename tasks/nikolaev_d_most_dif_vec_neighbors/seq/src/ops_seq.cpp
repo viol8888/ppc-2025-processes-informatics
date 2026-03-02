@@ -50,4 +50,3 @@ bool NikolaevDMostDifVecNeighborsSEQ::PostProcessingImpl() {
 }
 
 }  // namespace nikolaev_d_most_dif_vec_neighbors
-

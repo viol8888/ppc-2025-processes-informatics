@@ -117,4 +117,3 @@ bool YurkinCountingNumberMPI::PostProcessingImpl() {
 }
 
 }  // namespace yurkin_counting_number
-

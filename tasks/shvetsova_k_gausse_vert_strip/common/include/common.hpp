@@ -15,4 +15,3 @@ using TestType = std::tuple<InType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace shvetsova_k_gausse_vert_strip
-

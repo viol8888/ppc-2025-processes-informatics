@@ -58,4 +58,3 @@ bool GusevDSentenceCountSEQ::PostProcessingImpl() {
 }
 
 }  // namespace gusev_d_sentence_count
-

@@ -16,4 +16,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace romanova_v_jacobi_method
-

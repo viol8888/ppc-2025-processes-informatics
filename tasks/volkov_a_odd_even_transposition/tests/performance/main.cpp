@@ -70,4 +70,3 @@ INSTANTIATE_TEST_SUITE_P(VolkovOddEvenPerf, OddEvenSortPerfTest, ppc::util::Tupl
                          OddEvenSortPerfTest::CustomPerfTestName);
 
 }  // namespace volkov_a_odd_even_transposition
-

@@ -35,4 +35,3 @@ bool AshihminDElemVecsSumSEQ::PostProcessingImpl() {
 }
 
 }  // namespace ashihmin_d_sum_of_elem
-

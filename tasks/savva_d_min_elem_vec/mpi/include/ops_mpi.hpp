@@ -20,4 +20,3 @@ class SavvaDMinElemVecMPI : public BaseTask {
 };
 
 }  // namespace savva_d_min_elem_vec
-

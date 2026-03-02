@@ -96,4 +96,3 @@ bool ZeninAGaussFilterSEQ::PostProcessingImpl() {
 }
 
 }  // namespace zenin_a_gauss_filter
-

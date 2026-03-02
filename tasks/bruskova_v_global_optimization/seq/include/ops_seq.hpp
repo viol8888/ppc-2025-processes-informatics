@@ -23,4 +23,3 @@ class BruskovaVGlobalOptimizationSEQ : public BaseTask {
 };
 
 }  // namespace bruskova_v_global_optimization
-

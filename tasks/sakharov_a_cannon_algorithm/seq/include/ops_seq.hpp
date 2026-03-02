@@ -20,4 +20,3 @@ class SakharovACannonAlgorithmSEQ : public BaseTask {
 };
 
 }  // namespace sakharov_a_cannon_algorithm
-

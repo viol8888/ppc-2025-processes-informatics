@@ -79,4 +79,3 @@ const auto kPerfTestName = FatehovKRunPerfTestsReshetkaTor::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunPerfTest, FatehovKRunPerfTestsReshetkaTor, kGtestValues, kPerfTestName);
 
 }  // namespace fatehov_k_reshetka_tor
-

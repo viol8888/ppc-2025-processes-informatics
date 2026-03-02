@@ -50,4 +50,3 @@ INSTANTIATE_TEST_SUITE_P(RunModeTests, KhruevAGlobalOptPerfTests, kGtestValues, 
 }  // namespace
 
 }  // namespace khruev_a_global_opt
-

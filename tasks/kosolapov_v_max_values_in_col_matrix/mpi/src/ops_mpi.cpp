@@ -123,4 +123,3 @@ std::vector<int> KosolapovVMaxValuesInColMatrixMPI::CalculateLocalMax(const std:
   return local_maxs;
 }
 }  // namespace kosolapov_v_max_values_in_col_matrix
-

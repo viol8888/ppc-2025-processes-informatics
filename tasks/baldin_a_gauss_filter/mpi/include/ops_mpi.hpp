@@ -20,4 +20,3 @@ class BaldinAGaussFilterMPI : public BaseTask {
 };
 
 }  // namespace baldin_a_gauss_filter
-

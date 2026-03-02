@@ -53,4 +53,3 @@ const auto kPerfTestName = AkimovIWordsStringCountPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, AkimovIWordsStringCountPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace akimov_i_words_string_count
-

@@ -65,4 +65,3 @@ INSTANTIATE_TEST_SUITE_P(MinValuePerf, MinValuePerfTests, kGtestValues, kPerfTes
 }  // namespace
 
 }  // namespace makovskiy_i_min_value_in_matrix_rows
-

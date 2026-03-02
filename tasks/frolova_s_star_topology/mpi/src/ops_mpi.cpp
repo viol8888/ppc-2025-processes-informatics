@@ -146,4 +146,3 @@ bool FrolovaSStarTopologyMPI::PostProcessingImpl() {
 }
 
 }  // namespace frolova_s_star_topology
-

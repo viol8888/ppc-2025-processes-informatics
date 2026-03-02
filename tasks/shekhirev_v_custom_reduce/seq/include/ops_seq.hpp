@@ -20,4 +20,3 @@ class CustomReduceSequential : public shekhirev_v_custom_reduce::BaseTask {
 };
 
 }  // namespace shekhirev_v_custom_reduce_seq
-

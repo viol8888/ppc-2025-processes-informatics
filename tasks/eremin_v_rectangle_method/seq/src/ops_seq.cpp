@@ -47,4 +47,3 @@ bool EreminVRectangleMethodSEQ::PostProcessingImpl() {
 }
 
 }  // namespace eremin_v_rectangle_method
-

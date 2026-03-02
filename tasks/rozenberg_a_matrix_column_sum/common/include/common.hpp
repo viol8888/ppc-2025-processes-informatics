@@ -13,4 +13,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace rozenberg_a_matrix_column_sum
-

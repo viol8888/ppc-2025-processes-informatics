@@ -134,4 +134,3 @@ const bool kRegisteredPerfTests = []() {
 }  // namespace
 
 }  // namespace sizov_d_global_search
-

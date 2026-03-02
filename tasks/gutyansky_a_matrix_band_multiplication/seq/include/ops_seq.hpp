@@ -20,4 +20,3 @@ class GutyanskyAMatrixBandMultiplicationSEQ : public BaseTask {
 };
 
 }  // namespace gutyansky_a_matrix_band_multiplication
-

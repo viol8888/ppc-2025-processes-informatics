@@ -54,4 +54,3 @@ const auto kPerfTestName = EreminVRunPerfTestsHypercube::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTestsHypercube, EreminVRunPerfTestsHypercube, kGtestValues, kPerfTestName);
 
 }  // namespace eremin_v_hypercube
-

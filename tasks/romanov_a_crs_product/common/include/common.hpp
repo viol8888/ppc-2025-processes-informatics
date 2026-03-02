@@ -328,4 +328,3 @@ using TestType = std::tuple<CRS, CRS, CRS>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace romanov_a_crs_product
-

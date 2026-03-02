@@ -14,4 +14,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace gutyansky_a_matrix_band_multiplication
-

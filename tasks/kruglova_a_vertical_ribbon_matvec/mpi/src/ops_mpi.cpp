@@ -147,4 +147,3 @@ bool KruglovaAVerticalRibbMatMPI::PostProcessingImpl() {
 }
 
 }  // namespace kruglova_a_vertical_ribbon_matvec
-

@@ -56,4 +56,3 @@ TEST_P(VotincevDAlternatigValuesRunPerfTestsProcesses, RunPerfModes) {
 INSTANTIATE_TEST_SUITE_P(RunPerf, VotincevDAlternatigValuesRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace votincev_d_alternating_values
-

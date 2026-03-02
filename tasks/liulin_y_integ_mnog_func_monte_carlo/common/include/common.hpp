@@ -36,4 +36,3 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace liulin_y_integ_mnog_func_monte_carlo
-

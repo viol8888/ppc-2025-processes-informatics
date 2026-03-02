@@ -27,4 +27,3 @@ class MaxElementMatrSEQ : public BaseTask {
 };
 
 }  // namespace nikitina_v_max_elem_matr
-

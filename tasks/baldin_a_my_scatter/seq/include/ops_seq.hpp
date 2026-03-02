@@ -20,4 +20,3 @@ class BaldinAMyScatterSEQ : public BaseTask {
 };
 
 }  // namespace baldin_a_my_scatter
-

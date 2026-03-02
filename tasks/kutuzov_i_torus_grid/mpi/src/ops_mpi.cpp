@@ -163,4 +163,3 @@ int KutuzovIThorusGridMPI::GetNextStep(int current_x, int current_y, int dest_x,
 }
 
 }  // namespace kutuzov_i_torus_grid
-

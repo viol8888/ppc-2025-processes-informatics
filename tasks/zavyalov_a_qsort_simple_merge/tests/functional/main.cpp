@@ -103,4 +103,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, ZavyalovAQsortFuncTests, kGtestValues, 
 }  // namespace
 
 }  // namespace zavyalov_a_qsort_simple_merge
-

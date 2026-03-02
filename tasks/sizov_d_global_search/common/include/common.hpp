@@ -42,4 +42,3 @@ using TestType = TestCase;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace sizov_d_global_search
-

@@ -88,4 +88,3 @@ INSTANTIATE_TEST_SUITE_P(MatrixMultTests, VotincevDQsortBatcherRunFuncTestsProce
 }  // namespace
 
 }  // namespace votincev_d_qsort_batcher
-

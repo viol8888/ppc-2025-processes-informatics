@@ -52,4 +52,3 @@ const auto kPerfTestName = KutuzovIElemVecAveragePerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KutuzovIElemVecAveragePerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace kutuzov_i_elem_vec_average
-

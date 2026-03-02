@@ -61,4 +61,3 @@ const auto kPerfTestName = PotashnikMCharFreqPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PotashnikMCharFreqPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace potashnik_m_char_freq
-

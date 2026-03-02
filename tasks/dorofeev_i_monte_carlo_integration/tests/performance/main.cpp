@@ -59,4 +59,3 @@ INSTANTIATE_TEST_SUITE_P(MonteCarloPerf, MonteCarloPerfTests, kGTestValues, kTes
 
 }  // namespace
 }  // namespace dorofeev_i_monte_carlo_integration_processes
-

@@ -111,4 +111,3 @@ bool LifanovKTrapezoidMethodMPI::PostProcessingImpl() {
 }
 
 }  // namespace lifanov_k_trapezoid_method
-

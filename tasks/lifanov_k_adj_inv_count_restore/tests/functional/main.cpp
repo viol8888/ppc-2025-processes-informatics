@@ -97,4 +97,3 @@ INSTANTIATE_TEST_SUITE_P(FunctionalTests, LifanovKRunFuncTests, ::testing::Value
 
 }  // namespace
 }  // namespace lifanov_k_adj_inv_count_restore
-

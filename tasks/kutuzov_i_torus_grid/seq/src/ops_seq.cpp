@@ -42,4 +42,3 @@ bool KutuzovIThorusGridSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kutuzov_i_torus_grid
-

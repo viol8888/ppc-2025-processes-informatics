@@ -37,4 +37,3 @@ bool LifanovKAllreduceSEQ::PostProcessingImpl() {
 }
 
 }  // namespace lifanov_k_allreduce
-

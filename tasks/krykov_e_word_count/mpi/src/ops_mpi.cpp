@@ -160,4 +160,3 @@ bool KrykovEWordCountMPI::PostProcessingImpl() {
 }
 
 }  // namespace krykov_e_word_count
-

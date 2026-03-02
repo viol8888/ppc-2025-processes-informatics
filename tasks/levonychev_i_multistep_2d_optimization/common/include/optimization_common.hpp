@@ -84,4 +84,3 @@ inline void SearchInRegion(std::vector<Point> &grid_points, const std::function<
 }
 
 }  // namespace levonychev_i_multistep_2d_optimization
-

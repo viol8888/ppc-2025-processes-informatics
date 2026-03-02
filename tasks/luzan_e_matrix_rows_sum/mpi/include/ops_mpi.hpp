@@ -20,4 +20,3 @@ class LuzanEMatrixRowsSumMPI : public BaseTask {
 };
 
 }  // namespace luzan_e_matrix_rows_sum
-

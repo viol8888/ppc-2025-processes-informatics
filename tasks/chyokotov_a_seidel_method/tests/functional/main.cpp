@@ -103,4 +103,3 @@ INSTANTIATE_TEST_SUITE_P(GaussSeidelMethodTests, ChyokotovASeidelMethodFuncTest,
 }  // namespace
 
 }  // namespace chyokotov_a_seidel_method
-

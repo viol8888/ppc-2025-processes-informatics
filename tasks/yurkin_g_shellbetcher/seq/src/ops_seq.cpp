@@ -112,4 +112,3 @@ bool YurkinGShellBetcherSEQ::PostProcessingImpl() {
 }
 
 }  // namespace yurkin_g_shellbetcher
-

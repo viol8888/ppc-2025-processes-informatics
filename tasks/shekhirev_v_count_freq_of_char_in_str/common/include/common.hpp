@@ -34,4 +34,3 @@ using BaseTask = ppc::task::Task<InType, OutType>;
 using TestType = std::tuple<InputData, OutType, std::string>;
 
 }  // namespace shekhirev_v_char_freq_seq
-

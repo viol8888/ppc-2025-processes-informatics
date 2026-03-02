@@ -67,4 +67,3 @@ INSTANTIATE_TEST_SUITE_P(MyAllReduceTests, LifanovKAllReduceFuncTests, kGtestVal
 }  // namespace
 
 }  // namespace lifanov_k_allreduce
-

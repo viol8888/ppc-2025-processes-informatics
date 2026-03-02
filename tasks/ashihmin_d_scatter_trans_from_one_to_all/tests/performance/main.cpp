@@ -55,4 +55,3 @@ const auto kPerfTestName = AshihminDRunPerfTestsProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, AshihminDRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace ashihmin_d_scatter_trans_from_one_to_all
-

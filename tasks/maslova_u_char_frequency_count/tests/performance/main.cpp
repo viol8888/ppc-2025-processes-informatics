@@ -58,4 +58,3 @@ const auto kPerfTestName = MaslovaUPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, MaslovaUPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace maslova_u_char_frequency_count
-

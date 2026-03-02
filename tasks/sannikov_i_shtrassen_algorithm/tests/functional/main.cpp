@@ -170,4 +170,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, SannikovIShtrassenAlgorithmFuncTests, k
 }  // namespace
 
 }  // namespace sannikov_i_shtrassen_algorithm
-

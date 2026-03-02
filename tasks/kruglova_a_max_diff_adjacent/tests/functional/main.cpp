@@ -80,4 +80,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, KruglovaAMaxDiffAdjacentTests, kGtestVa
 }  // namespace
 
 }  // namespace kruglova_a_max_diff_adjacent
-

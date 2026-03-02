@@ -20,4 +20,3 @@ class GonozovLGlobalSearchMPI : public BaseTask {
 };
 
 }  // namespace gonozov_l_global_search
-

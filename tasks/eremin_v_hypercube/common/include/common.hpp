@@ -13,4 +13,3 @@ using TestType = std::tuple<int, double, double, int, std::function<double(doubl
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace eremin_v_hypercube
-

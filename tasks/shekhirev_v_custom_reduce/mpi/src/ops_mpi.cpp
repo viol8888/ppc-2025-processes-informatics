@@ -71,4 +71,3 @@ bool CustomReduceMPI::PostProcessingImpl() {
 }
 
 }  // namespace shekhirev_v_custom_reduce_mpi
-

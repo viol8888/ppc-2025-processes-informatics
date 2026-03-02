@@ -79,4 +79,3 @@ const auto kPerfTestName = ZeninATopologyStarPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(ZeninAPerfTestTopologyStar, ZeninATopologyStarPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace zenin_a_topology_star
-

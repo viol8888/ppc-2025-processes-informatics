@@ -29,4 +29,3 @@ class GusevaAJarvisSEQ : public BaseTask {
 };
 
 }  // namespace guseva_a_jarvis
-

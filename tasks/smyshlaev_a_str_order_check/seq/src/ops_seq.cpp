@@ -57,4 +57,3 @@ bool SmyshlaevAStrOrderCheckSEQ::PostProcessingImpl() {
 }
 
 }  // namespace smyshlaev_a_str_order_check
-

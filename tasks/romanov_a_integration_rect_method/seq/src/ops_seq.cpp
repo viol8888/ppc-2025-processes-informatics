@@ -52,4 +52,3 @@ bool RomanovAIntegrationRectMethodSEQ::PostProcessingImpl() {
 }
 
 }  // namespace romanov_a_integration_rect_method
-

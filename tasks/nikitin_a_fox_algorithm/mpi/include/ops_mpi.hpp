@@ -41,4 +41,3 @@ class NikitinAFoxAlgorithmMPI : public BaseTask {
 };
 
 }  // namespace nikitin_a_fox_algorithm
-

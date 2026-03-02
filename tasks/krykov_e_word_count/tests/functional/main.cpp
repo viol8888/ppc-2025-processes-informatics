@@ -104,4 +104,3 @@ INSTANTIATE_TEST_SUITE_P(WordCountTests, KrykovEWordCountFuncTests, kGtestValues
 }  // namespace
 
 }  // namespace krykov_e_word_count
-

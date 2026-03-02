@@ -17,4 +17,3 @@ struct GlobalData {
 };
 
 }  // namespace telnov_counting_the_frequency
-

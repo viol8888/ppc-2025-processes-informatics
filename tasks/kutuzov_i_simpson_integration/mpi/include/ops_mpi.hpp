@@ -22,4 +22,3 @@ class KutuzovISimpsonIntegrationMPI : public BaseTask {
 };
 
 }  // namespace kutuzov_i_simpson_integration
-

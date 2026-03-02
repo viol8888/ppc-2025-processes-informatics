@@ -71,4 +71,3 @@ INSTANTIATE_TEST_SUITE_P(ElemVecTests, LukinIRunFuncTestsProcesses, kGtestValues
 }  // namespace
 
 }  // namespace lukin_i_elem_vec_sum
-

@@ -14,4 +14,3 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace titaev_m_avg_el_vector
-

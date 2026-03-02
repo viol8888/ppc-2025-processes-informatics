@@ -116,4 +116,3 @@ INSTANTIATE_TEST_SUITE_P(GlobalOptimizationTests, KrykovEMultistepSADFuncTests, 
 }  // namespace
 
 }  // namespace krykov_e_multistep_sad
-

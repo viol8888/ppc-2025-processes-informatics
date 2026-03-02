@@ -20,4 +20,3 @@ class KrykovEWordCountSEQ : public BaseTask {
 };
 
 }  // namespace krykov_e_word_count
-

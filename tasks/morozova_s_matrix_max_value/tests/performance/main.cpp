@@ -46,4 +46,3 @@ const auto kPerfTestName = MorozovaSRunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, MorozovaSRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace morozova_s_matrix_max_value
-

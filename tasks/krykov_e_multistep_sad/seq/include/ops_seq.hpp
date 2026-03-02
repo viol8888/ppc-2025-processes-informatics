@@ -20,4 +20,3 @@ class KrykovEMultistepSADSEQ : public BaseTask {
 };
 
 }  // namespace krykov_e_multistep_sad
-

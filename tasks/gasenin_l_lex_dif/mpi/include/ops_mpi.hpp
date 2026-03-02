@@ -20,4 +20,3 @@ class GaseninLLexDifMPI : public BaseTask {
 };
 
 }  // namespace gasenin_l_lex_dif
-

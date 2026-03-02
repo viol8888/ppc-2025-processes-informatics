@@ -37,4 +37,3 @@ class ShvetsovaKGaussVertStripMPI : public BaseTask {
 };
 
 }  // namespace shvetsova_k_gausse_vert_strip
-

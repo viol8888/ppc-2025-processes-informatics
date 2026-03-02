@@ -26,4 +26,3 @@ template <typename T>
 using BaseTask = ppc::task::Task<std::vector<T>, std::vector<T>>;
 
 }  // namespace chaschin_v_broadcast
-

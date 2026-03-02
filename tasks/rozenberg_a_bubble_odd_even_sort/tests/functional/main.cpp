@@ -98,4 +98,3 @@ INSTANTIATE_TEST_SUITE_P(BubbleOddEvenSortTests, RozenbergABubbleOddEvenSortFunc
 }  // namespace
 
 }  // namespace rozenberg_a_bubble_odd_even_sort
-

@@ -124,4 +124,3 @@ INSTANTIATE_TEST_SUITE_P(InvalidMatrixTests, RychkovaInvalidMatrixTest, ::testin
 }  // namespace
 
 }  // namespace rychkova_d_sum_matrix_columns
-

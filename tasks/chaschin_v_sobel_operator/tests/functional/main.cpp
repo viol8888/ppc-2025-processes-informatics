@@ -133,4 +133,3 @@ INSTANTIATE_TEST_SUITE_P(MatrixRowMaxTests, ChaschinVRunFuncTestsProcessesSO, kG
 }  // namespace
 
 }  // namespace chaschin_v_sobel_operator
-

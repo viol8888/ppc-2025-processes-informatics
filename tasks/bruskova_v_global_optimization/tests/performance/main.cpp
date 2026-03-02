@@ -29,4 +29,3 @@ TEST(BruskovaVGlobalOptimizationPerfTests, RunManualMPI) {
   }
 }
 }  // namespace bruskova_v_global_optimization
-

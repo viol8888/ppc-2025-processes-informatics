@@ -60,4 +60,3 @@ const auto kPerfTestName = ShkrebkoMCountCharFreqPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ShkrebkoMCountCharFreqPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace shkrebko_m_count_char_freq
-

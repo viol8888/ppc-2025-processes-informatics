@@ -22,4 +22,3 @@ class LukinICannonAlgorithmSEQ : public BaseTask {
 };
 
 }  // namespace lukin_i_cannon_algorithm
-

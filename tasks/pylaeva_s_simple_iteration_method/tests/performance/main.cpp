@@ -68,4 +68,3 @@ const auto kPerfTestName = PylaevaSSimpleIterationMethodPerfTests::CustomPerfTes
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PylaevaSSimpleIterationMethodPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace pylaeva_s_simple_iteration_method
-

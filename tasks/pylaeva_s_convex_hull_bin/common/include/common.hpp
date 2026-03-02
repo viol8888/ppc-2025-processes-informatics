@@ -37,4 +37,3 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace pylaeva_s_convex_hull_bin
-

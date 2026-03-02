@@ -34,4 +34,3 @@ class KurpiakovAVretTapeMulMPI : public ppc::task::Task<InType, OutType> {
 };
 
 }  // namespace kurpiakov_a_vert_tape_mat_vec_mul
-

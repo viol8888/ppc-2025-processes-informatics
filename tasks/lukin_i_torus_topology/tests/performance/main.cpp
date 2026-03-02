@@ -76,4 +76,3 @@ const auto kPerfTestName = LukinIRunPerfTestProceses3::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunTests, LukinIRunPerfTestProceses3, kGtestValues, kPerfTestName);
 
 }  // namespace lukin_i_torus_topology
-

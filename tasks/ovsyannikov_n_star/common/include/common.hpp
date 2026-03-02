@@ -13,4 +13,3 @@ using TestType = std::tuple<InType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace ovsyannikov_n_star
-

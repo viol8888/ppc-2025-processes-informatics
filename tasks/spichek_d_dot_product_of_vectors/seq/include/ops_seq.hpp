@@ -20,4 +20,3 @@ class SpichekDDotProductOfVectorsSEQ : public BaseTask {
 };
 
 }  // namespace spichek_d_dot_product_of_vectors
-

@@ -75,4 +75,3 @@ INSTANTIATE_TEST_SUITE_P(TestMatrixMax, FatehovKRunFuncTestsMatrixMaxElem, kGtes
 }  // namespace
 
 }  // namespace fatehov_k_matrix_max_elem
-

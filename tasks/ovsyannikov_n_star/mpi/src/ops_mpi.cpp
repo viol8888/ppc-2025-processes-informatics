@@ -115,4 +115,3 @@ bool OvsyannikovNStarMPI::PostProcessingImpl() {
 }
 
 }  // namespace ovsyannikov_n_star
-

@@ -20,4 +20,3 @@ class LuzanEMatrixHorisRibMultShemeSEQ : public BaseTask {
 };
 
 }  // namespace luzan_e_matrix_horis_rib_mult_sheme
-

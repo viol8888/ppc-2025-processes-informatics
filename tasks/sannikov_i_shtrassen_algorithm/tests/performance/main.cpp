@@ -95,4 +95,3 @@ const auto kPerfTestName = SannikovIShtrassenAlgorithmPerfTests::CustomPerfTestN
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SannikovIShtrassenAlgorithmPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace sannikov_i_shtrassen_algorithm
-

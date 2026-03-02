@@ -32,4 +32,3 @@ class AkimovIStarMPI : public BaseTask {
   int received_count_ = 0;
 };
 }  // namespace akimov_i_star
-

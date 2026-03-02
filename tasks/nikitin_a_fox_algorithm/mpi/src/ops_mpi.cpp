@@ -293,4 +293,3 @@ bool NikitinAFoxAlgorithmMPI::PostProcessingImpl() {
 }
 
 }  // namespace nikitin_a_fox_algorithm
-

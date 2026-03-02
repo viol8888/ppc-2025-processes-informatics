@@ -54,4 +54,3 @@ bool FatehovKReshetkaTorSEQ::PostProcessingImpl() {
 }
 
 }  // namespace fatehov_k_reshetka_tor
-

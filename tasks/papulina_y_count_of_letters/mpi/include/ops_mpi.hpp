@@ -23,4 +23,3 @@ class PapulinaYCountOfLettersMPI : public BaseTask {
 };
 
 }  // namespace papulina_y_count_of_letters
-

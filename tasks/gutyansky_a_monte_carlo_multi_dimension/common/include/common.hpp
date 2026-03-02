@@ -13,4 +13,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace gutyansky_a_monte_carlo_multi_dimension
-

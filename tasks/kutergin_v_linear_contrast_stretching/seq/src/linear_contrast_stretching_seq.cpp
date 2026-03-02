@@ -55,4 +55,3 @@ bool LinearContrastStretchingSequential::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_v_linear_contrast_stretching
-

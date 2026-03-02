@@ -20,4 +20,3 @@ inline int GetPixel(const std::vector<int> &image, int x, int y, int width, int 
 }
 
 }  // namespace makovskiy_i_gauss_filter_vert
-

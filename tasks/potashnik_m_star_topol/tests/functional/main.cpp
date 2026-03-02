@@ -77,4 +77,3 @@ INSTANTIATE_TEST_SUITE_P(StarTopolTests, PotashnikMStarTopolFuncTests, kGtestVal
 }  // namespace
 
 }  // namespace potashnik_m_star_topol
-

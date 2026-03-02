@@ -20,4 +20,3 @@ using TestType = std::tuple<InputData, double, std::string>;  // Тип для �
                                                               // результат, имя_теста}
 
 }  // namespace kutergin_v_trapezoid_seq
-

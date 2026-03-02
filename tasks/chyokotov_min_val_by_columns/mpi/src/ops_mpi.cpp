@@ -159,4 +159,3 @@ bool ChyokotovMinValByColumnsMPI::PostProcessingImpl() {
 }
 
 }  // namespace chyokotov_min_val_by_columns
-

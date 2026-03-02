@@ -56,4 +56,3 @@ TEST_P(VectorScalarProductPerfTests, Runs) {
 }  // namespace
 
 }  // namespace vector_scalar_product
-

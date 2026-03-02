@@ -107,4 +107,3 @@ void EreminVHypercubeMPI::BroadcastBoundsOverHypercube(int cube_rank, int ndims,
 }
 
 }  // namespace eremin_v_hypercube
-

@@ -13,4 +13,3 @@ using TestType = std::tuple<int, double, double, double, int, std::function<doub
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace eremin_v_strongin_algorithm
-

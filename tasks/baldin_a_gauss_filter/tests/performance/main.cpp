@@ -102,4 +102,3 @@ const auto kPerfTestName = BaldinAGaussFilterPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, BaldinAGaussFilterPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace baldin_a_gauss_filter
-

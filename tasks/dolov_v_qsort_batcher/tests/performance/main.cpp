@@ -51,4 +51,3 @@ INSTANTIATE_TEST_SUITE_P(RunModeTests, DolovVQsortBatcherPerfTests, kGtestValues
 
 }  // namespace
 }  // namespace dolov_v_qsort_batcher
-

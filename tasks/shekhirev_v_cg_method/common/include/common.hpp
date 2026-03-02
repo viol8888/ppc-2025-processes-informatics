@@ -29,4 +29,3 @@ using TestType = std::tuple<InputData, std::vector<double>, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace shekhirev_v_cg_method
-

@@ -13,4 +13,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kosolapov_v_max_values_in_col_matrix
-

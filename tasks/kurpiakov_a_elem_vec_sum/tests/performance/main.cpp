@@ -55,4 +55,3 @@ INSTANTIATE_TEST_SUITE_P(KurpiakovAVecPerf, KurpiakovAElemVecSumPerfTests, kGtes
 }  // namespace
 
 }  // namespace kurpiakov_a_elem_vec_sum
-

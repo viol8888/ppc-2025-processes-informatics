@@ -92,4 +92,3 @@ const auto kPerfTestName = NikolaevDGatherPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, NikolaevDGatherPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace nikolaev_d_gather
-

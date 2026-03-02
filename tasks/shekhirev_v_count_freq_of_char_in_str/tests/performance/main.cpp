@@ -64,4 +64,3 @@ INSTANTIATE_TEST_SUITE_P(CharFreqPerf, ShekhirevVCharFreqPerfTests, ppc::util::T
 }  // namespace
 
 }  // namespace shekhirev_v_char_freq_seq
-

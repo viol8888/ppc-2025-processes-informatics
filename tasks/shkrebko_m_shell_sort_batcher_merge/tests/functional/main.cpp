@@ -74,4 +74,3 @@ INSTANTIATE_TEST_SUITE_P(ShellSortBatcherMergeTests, ShkrebkoMRunFuncTestsShellS
 }  // namespace
 
 }  // namespace shkrebko_m_shell_sort_batcher_merge
-

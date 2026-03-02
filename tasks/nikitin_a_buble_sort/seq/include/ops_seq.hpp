@@ -20,4 +20,3 @@ class NikitinABubleSortSEQ : public BaseTask {
 };
 
 }  // namespace nikitin_a_buble_sort
-

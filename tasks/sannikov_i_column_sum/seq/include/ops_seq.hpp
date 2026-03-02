@@ -20,4 +20,3 @@ class SannikovIColumnSumSEQ : public BaseTask {
 };
 
 }  // namespace sannikov_i_column_sum
-

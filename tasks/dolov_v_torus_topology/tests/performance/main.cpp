@@ -74,4 +74,3 @@ INSTANTIATE_TEST_SUITE_P(TorusPerformance, DolovVTorusTopologyPerfTests, kGtestV
                          DolovVTorusTopologyPerfTests::CustomPerfTestName);
 
 }  // namespace dolov_v_torus_topology
-

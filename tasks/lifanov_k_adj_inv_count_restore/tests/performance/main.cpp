@@ -64,4 +64,3 @@ INSTANTIATE_TEST_SUITE_P(RunModeTests, LifanovKRunPerfTests, kPerfParams, PerfNa
 
 }  // namespace
 }  // namespace lifanov_k_adj_inv_count_restore
-

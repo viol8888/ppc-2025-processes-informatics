@@ -79,4 +79,3 @@ INSTANTIATE_TEST_SUITE_P(fastSortTests, MaslovaUFastSortFuncTests, ppc::util::Ex
                          MaslovaUFastSortFuncTests::PrintFuncTestName<MaslovaUFastSortFuncTests>);
 
 }  // namespace maslova_u_fast_sort_simple
-

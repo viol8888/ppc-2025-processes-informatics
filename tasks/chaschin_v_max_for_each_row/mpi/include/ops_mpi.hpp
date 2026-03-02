@@ -37,4 +37,3 @@ class ChaschinVMaxForEachRow : public BaseTask {
 };
 
 }  // namespace chaschin_v_max_for_each_row
-

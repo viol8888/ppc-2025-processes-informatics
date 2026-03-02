@@ -70,4 +70,3 @@ bool DolovVMonteCarloIntegrationSEQ::PostProcessingImpl() {
 }
 
 }  // namespace dolov_v_monte_carlo_integration
-

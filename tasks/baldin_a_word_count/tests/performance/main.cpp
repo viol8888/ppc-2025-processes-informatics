@@ -82,4 +82,3 @@ const auto kPerfTestName = BaldinAWordCountPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, BaldinAWordCountPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace baldin_a_word_count
-

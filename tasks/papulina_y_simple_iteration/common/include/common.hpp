@@ -15,4 +15,3 @@ using TestType = std::string;  // название теста, (матрица A
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace papulina_y_simple_iteration
-

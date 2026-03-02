@@ -88,4 +88,3 @@ bool TestTaskMPI::PostProcessingImpl() {
 }
 
 }  // namespace nikitina_v_quick_sort_merge
-

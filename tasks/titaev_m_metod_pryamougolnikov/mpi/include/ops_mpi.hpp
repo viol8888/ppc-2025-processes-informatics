@@ -24,4 +24,3 @@ class TitaevMMetodPryamougolnikovMPI : public BaseTask {
 };
 
 }  // namespace titaev_m_metod_pryamougolnikov
-

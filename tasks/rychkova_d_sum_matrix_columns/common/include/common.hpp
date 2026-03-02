@@ -14,4 +14,3 @@ using TestType = std::tuple<std::vector<std::vector<int>>, std::vector<int>, std
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace rychkova_d_sum_matrix_columns
-

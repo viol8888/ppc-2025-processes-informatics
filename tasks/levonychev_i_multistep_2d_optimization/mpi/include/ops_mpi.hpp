@@ -35,4 +35,3 @@ class LevonychevIMultistep2dOptimizationMPI : public BaseTask {
 };
 
 }  // namespace levonychev_i_multistep_2d_optimization
-

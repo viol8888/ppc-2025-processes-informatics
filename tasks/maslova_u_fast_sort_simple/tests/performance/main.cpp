@@ -79,4 +79,3 @@ const auto kPerfTestName = MaslovaUFastSortPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(fastSortPerf, MaslovaUFastSortPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace maslova_u_fast_sort_simple
-

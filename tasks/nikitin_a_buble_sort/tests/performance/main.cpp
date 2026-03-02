@@ -172,4 +172,3 @@ INSTANTIATE_TEST_SUITE_P(RunPerfDescending, NikitinABubleSortDescendingPerfTests
 }  // namespace
 
 }  // namespace nikitin_a_buble_sort
-

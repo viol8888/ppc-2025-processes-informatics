@@ -29,4 +29,3 @@ using TestType = std::tuple<std::string, int, int, int>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace papulina_y_gauss_filter_block
-

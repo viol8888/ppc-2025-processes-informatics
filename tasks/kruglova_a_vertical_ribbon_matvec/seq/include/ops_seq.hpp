@@ -20,4 +20,3 @@ class KruglovaAVerticalRibbMatSEQ : public BaseTask {
 };
 
 }  // namespace kruglova_a_vertical_ribbon_matvec
-

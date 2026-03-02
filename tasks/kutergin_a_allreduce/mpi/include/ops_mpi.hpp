@@ -25,4 +25,3 @@ class AllreduceMPI : public BaseTask {
 };
 
 }  // namespace kutergin_a_allreduce
-

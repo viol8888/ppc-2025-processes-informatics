@@ -36,4 +36,3 @@ class LeonovaARadixMergeSortSEQ : public BaseTask {
 };
 
 }  // namespace leonova_a_radix_merge_sort
-

@@ -290,4 +290,3 @@ bool ZeninAGaussFilterMPI::PostProcessingImpl() {
 }
 
 }  // namespace zenin_a_gauss_filter
-

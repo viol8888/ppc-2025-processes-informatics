@@ -20,4 +20,3 @@ class LevonychevIMultistep2dOptimizationSEQ : public BaseTask {
 };
 
 }  // namespace levonychev_i_multistep_2d_optimization
-

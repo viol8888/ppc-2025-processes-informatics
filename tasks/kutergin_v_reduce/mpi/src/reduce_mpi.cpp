@@ -122,4 +122,3 @@ bool ReduceMPI::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_v_reduce
-

@@ -14,4 +14,3 @@ using TestType = std::tuple<InType, OutType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace lifanov_k_adj_inv_count_restore
-

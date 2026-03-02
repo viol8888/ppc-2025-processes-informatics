@@ -199,4 +199,3 @@ bool FrolovaSMultIntTrapezMPI::PostProcessingImpl() {
 }
 
 }  // namespace frolova_s_mult_int_trapez
-

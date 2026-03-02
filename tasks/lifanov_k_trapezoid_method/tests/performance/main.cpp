@@ -41,4 +41,3 @@ INSTANTIATE_TEST_SUITE_P(LifanovKTrapezoidMethodPerfTests, LifanovKTrapezoidMeth
                          kPerfTestName);
 
 }  // namespace lifanov_k_trapezoid_method
-

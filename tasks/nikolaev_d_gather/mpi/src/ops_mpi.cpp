@@ -225,4 +225,3 @@ bool NikolaevDGatherMPI::PostProcessingImpl() {
 }
 
 }  // namespace nikolaev_d_gather
-

@@ -46,4 +46,3 @@ bool GusevDStarSEQ::PostProcessingImpl() {
 }
 
 }  // namespace gusev_d_star
-

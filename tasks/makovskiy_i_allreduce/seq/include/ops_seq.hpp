@@ -21,4 +21,3 @@ class TestTaskSEQ : public BaseTask {
 };
 
 }  // namespace makovskiy_i_allreduce
-

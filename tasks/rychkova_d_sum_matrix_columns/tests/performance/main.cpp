@@ -63,4 +63,3 @@ const auto kPerfTestName = RychkovaRunPerfTestMatrixColumns::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RychkovaRunPerfTestMatrixColumns, kGtestValues, kPerfTestName);
 
 }  // namespace rychkova_d_sum_matrix_columns
-

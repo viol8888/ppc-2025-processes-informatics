@@ -38,4 +38,3 @@ const auto kPerfTestName = GusevDStarPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, GusevDStarPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace gusev_d_star
-

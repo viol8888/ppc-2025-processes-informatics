@@ -96,4 +96,3 @@ INSTANTIATE_TEST_SUITE_P(TestReshetkaTor, FatehovKRunFuncTestsReshetkaTor, kGtes
 }  // namespace
 
 }  // namespace fatehov_k_reshetka_tor
-

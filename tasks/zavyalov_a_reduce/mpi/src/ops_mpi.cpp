@@ -185,4 +185,3 @@ bool ZavyalovAReduceMPI::PostProcessingImpl() {
 }
 
 }  // namespace zavyalov_a_reduce
-

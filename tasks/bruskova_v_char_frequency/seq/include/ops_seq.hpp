@@ -31,4 +31,3 @@ class BruskovaVCharFrequencySEQ : public BaseTask {
 };
 
 }  // namespace bruskova_v_char_frequency
-

@@ -20,4 +20,3 @@ class MinValueSEQ : public BaseTask {
 };
 
 }  // namespace makovskiy_i_min_value_in_matrix_rows
-

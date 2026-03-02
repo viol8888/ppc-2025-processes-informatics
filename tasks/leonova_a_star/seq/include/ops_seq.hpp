@@ -27,4 +27,3 @@ class LeonovaAStarSEQ : public BaseTask {
 };
 
 }  // namespace leonova_a_star
-

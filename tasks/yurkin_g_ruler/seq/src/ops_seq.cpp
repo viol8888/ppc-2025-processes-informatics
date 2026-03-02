@@ -29,4 +29,3 @@ bool YurkinGRulerSEQ::PostProcessingImpl() {
 }
 
 }  // namespace yurkin_g_ruler
-

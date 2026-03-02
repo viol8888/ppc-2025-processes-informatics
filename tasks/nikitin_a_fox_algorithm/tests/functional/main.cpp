@@ -524,4 +524,3 @@ INSTANTIATE_TEST_SUITE_P(FoxAlgorithmTests, NikitinAFoxAlgorithmFuncTests, kGtes
 }  // namespace
 
 }  // namespace nikitin_a_fox_algorithm
-

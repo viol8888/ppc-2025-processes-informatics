@@ -48,4 +48,3 @@ class SmyshlaevAGaussFiltMPI : public BaseTask {
 };
 
 }  // namespace smyshlaev_a_gauss_filt
-

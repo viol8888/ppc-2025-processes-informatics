@@ -20,4 +20,3 @@ class GaseninLImageSmoothSEQ : public BaseTask {
 };
 
 }  // namespace gasenin_l_image_smooth
-

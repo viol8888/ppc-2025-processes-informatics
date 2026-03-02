@@ -432,4 +432,3 @@ void LeonovaARadixMergeSortMPI::RadixMergeSort(std::vector<double> &arr, size_t 
 }
 
 }  // namespace leonova_a_radix_merge_sort
-

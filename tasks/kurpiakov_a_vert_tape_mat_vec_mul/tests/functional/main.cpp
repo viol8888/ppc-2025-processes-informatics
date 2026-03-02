@@ -85,4 +85,3 @@ INSTANTIATE_TEST_SUITE_P(MatVecMulTests, KurpiakovARunFuncTestsProcesses2, kGtes
 }  // namespace
 
 }  // namespace kurpiakov_a_vert_tape_mat_vec_mul
-

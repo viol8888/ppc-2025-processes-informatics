@@ -34,4 +34,3 @@ class VotincevDMatrixMultMPI : public BaseTask {
 };
 
 }  // namespace votincev_d_matrix_mult
-

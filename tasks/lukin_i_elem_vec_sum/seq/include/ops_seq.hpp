@@ -21,4 +21,3 @@ class LukinIElemVecSumSEQ : public BaseTask {
   int vec_size_ = 0;
 };
 }  // namespace lukin_i_elem_vec_sum
-

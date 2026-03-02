@@ -181,4 +181,3 @@ bool KondakovVGlobalSearchSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kondakov_v_global_search
-

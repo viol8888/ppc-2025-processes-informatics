@@ -36,4 +36,3 @@ bool GoriachevaKReduceSEQ::PostProcessingImpl() {
 }
 
 }  // namespace goriacheva_k_reduce
-

@@ -128,4 +128,3 @@ bool LuzanEMatrixRowsSumMPI::PostProcessingImpl() {
 }
 
 }  // namespace luzan_e_matrix_rows_sum
-

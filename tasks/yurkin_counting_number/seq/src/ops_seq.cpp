@@ -42,4 +42,3 @@ bool YurkinCountingNumberSEQ::PostProcessingImpl() {
 }
 
 }  // namespace yurkin_counting_number
-

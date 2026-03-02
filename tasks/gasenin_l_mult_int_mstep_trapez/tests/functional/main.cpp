@@ -126,4 +126,3 @@ INSTANTIATE_TEST_SUITE_P(IntegrationTests, GaseninLMultIntMstepTrapezRunFuncTest
 }  // namespace
 
 }  // namespace gasenin_l_mult_int_mstep_trapez
-

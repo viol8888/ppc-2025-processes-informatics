@@ -38,4 +38,3 @@ class DolovVQsortBatcherMPI : public BaseTask {
 };
 
 }  // namespace dolov_v_qsort_batcher
-

@@ -20,4 +20,3 @@ class SannikovIShtrassenAlgorithmSEQ : public BaseTask {
 };
 
 }  // namespace sannikov_i_shtrassen_algorithm
-

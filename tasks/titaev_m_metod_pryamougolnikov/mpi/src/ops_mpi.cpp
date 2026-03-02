@@ -132,4 +132,3 @@ bool TitaevMMetodPryamougolnikovMPI::PostProcessingImpl() {
 }
 
 }  // namespace titaev_m_metod_pryamougolnikov
-

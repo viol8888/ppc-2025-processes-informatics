@@ -68,4 +68,3 @@ const auto kPerfTestName = AkimovIRunPerfTestRadixBatcherSort::CustomPerfTestNam
 INSTANTIATE_TEST_SUITE_P(RunModeTests, AkimovIRunPerfTestRadixBatcherSort, kGtestValues, kPerfTestName);
 
 }  // namespace akimov_i_radix_sort_double_batcher_merge
-

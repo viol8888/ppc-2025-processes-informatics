@@ -71,4 +71,3 @@ INSTANTIATE_TEST_SUITE_P(RastriginTests, KruglovaA2DMultRunFunkTest, kGtestValue
 }  // namespace
 
 }  // namespace kruglova_a_2d_multistep_par_opt
-

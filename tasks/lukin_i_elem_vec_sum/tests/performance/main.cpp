@@ -46,4 +46,3 @@ const auto kPerfTestName = LukinIRunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunTests, LukinIRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace lukin_i_elem_vec_sum
-

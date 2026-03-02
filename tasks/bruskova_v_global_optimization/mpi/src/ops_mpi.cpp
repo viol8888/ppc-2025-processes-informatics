@@ -91,4 +91,3 @@ bool BruskovaVGlobalOptimizationMPI::PostProcessingImpl() {
   return true;
 }
 }  // namespace bruskova_v_global_optimization
-

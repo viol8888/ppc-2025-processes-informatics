@@ -210,4 +210,3 @@ bool DolovVQsortBatcherMPI::PostProcessingImpl() {
 }
 
 }  // namespace dolov_v_qsort_batcher
-

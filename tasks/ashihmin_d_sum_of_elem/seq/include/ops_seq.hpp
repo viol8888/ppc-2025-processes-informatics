@@ -20,4 +20,3 @@ class AshihminDElemVecsSumSEQ : public BaseTask {
 };
 
 }  // namespace ashihmin_d_sum_of_elem
-

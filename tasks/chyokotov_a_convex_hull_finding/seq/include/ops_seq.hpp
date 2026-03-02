@@ -29,4 +29,3 @@ class ChyokotovConvexHullFindingSEQ : public BaseTask {
 };
 
 }  // namespace chyokotov_a_convex_hull_finding
-

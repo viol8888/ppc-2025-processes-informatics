@@ -15,4 +15,3 @@ using TestType = std::tuple<std::tuple<InType, int>, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kutergin_a_closest_pair
-

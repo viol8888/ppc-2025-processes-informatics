@@ -23,4 +23,3 @@ class SpichekDJacobiMPI : public BaseTask {
 };
 
 }  // namespace spichek_d_jacobi
-

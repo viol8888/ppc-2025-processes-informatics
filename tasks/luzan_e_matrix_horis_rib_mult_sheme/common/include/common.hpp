@@ -16,4 +16,3 @@ using TestType = std::tuple<int, int>;  // height, width (also len for vec)
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace luzan_e_matrix_horis_rib_mult_sheme
-

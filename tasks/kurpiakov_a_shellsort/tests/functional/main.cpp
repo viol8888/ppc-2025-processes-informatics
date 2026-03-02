@@ -107,4 +107,3 @@ INSTANTIATE_TEST_SUITE_P(ShellSortTests, KurpiakovARunFuncTestsProcesses, kGtest
 }  // namespace
 
 }  // namespace kurpiakov_a_shellsort
-

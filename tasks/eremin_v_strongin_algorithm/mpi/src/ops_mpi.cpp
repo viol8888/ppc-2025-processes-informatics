@@ -166,4 +166,3 @@ bool EreminVStronginAlgorithmMPI::PostProcessingImpl() {
 }
 
 }  // namespace eremin_v_strongin_algorithm
-

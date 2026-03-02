@@ -22,4 +22,3 @@ class KruglovaAMaxDiffAdjacentMPI : public BaseTask {
 };
 
 }  // namespace kruglova_a_max_diff_adjacent
-

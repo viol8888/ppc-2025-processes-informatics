@@ -113,4 +113,3 @@ bool GoriachevaKViolationOrderElemVecMPI::PostProcessingImpl() {
 }
 
 }  // namespace goriacheva_k_violation_order_elem_vec
-

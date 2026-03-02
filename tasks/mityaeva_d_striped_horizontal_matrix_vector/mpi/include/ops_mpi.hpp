@@ -27,4 +27,3 @@ void GatherResults(int rank, int size, int rows, int rows_per_process, int remai
                    const std::vector<double> &local_result, std::vector<double> &output);
 
 }  // namespace mityaeva_d_striped_horizontal_matrix_vector
-

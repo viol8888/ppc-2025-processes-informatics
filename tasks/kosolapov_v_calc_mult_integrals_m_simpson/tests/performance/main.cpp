@@ -44,4 +44,3 @@ INSTANTIATE_TEST_SUITE_P(RunSimpsonModeTests, KosolapovVCalcMultIntegralsMSimpso
                          kPerfTestName);
 
 }  // namespace kosolapov_v_calc_mult_integrals_m_simpson
-

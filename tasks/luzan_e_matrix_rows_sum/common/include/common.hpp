@@ -13,4 +13,3 @@ using TestType = std::tuple<int, int>;                  // height & width
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace luzan_e_matrix_rows_sum
-

@@ -59,4 +59,3 @@ INSTANTIATE_TEST_SUITE_P(GaussFilterPerfMPI, GaussFilterPerfTests, kMpiGtestValu
 
 }  // namespace
 }  // namespace makovskiy_i_gauss_filter_vert
-

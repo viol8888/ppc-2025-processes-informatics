@@ -134,4 +134,3 @@ INSTANTIATE_TEST_SUITE_P(GaussFilterTests, BaldinAGaussFilterFuncTests, kGtestVa
 }  // namespace
 
 }  // namespace baldin_a_gauss_filter
-

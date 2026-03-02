@@ -183,4 +183,3 @@ INSTANTIATE_TEST_SUITE_P(MatrixTests, EgorovaLRunFuncTestsProcesses, kGtestValue
 }  // namespace
 
 }  // namespace egorova_l_find_max_val_col_matrix
-

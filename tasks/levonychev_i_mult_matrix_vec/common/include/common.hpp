@@ -13,4 +13,3 @@ using TestType = std::tuple<int, int>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace levonychev_i_mult_matrix_vec
-

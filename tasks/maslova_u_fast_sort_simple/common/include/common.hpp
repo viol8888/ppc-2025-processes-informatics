@@ -72,4 +72,3 @@ inline void QuickSort(int *data, int left, int right) {
 }
 
 }  // namespace maslova_u_fast_sort_simple
-

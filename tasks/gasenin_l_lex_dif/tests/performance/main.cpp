@@ -72,4 +72,3 @@ const auto kPerfTestName = GaseninLRunPerfTestsLexDif::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(LexDifPerfTests, GaseninLRunPerfTestsLexDif, kGtestValues, kPerfTestName);
 
 }  // namespace gasenin_l_lex_dif
-

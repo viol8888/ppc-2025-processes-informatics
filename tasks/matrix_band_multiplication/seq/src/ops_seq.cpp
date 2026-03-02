@@ -76,4 +76,3 @@ bool MatrixBandMultiplicationSeq::PostProcessingImpl() {
 }
 
 }  // namespace matrix_band_multiplication
-

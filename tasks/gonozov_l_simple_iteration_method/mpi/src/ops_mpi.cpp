@@ -191,4 +191,3 @@ bool GonozovLSimpleIterationMethodMPI::PostProcessingImpl() {
 }
 
 }  // namespace gonozov_l_simple_iteration_method
-

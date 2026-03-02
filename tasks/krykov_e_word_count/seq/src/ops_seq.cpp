@@ -57,4 +57,3 @@ bool KrykovEWordCountSEQ::PostProcessingImpl() {
 }
 
 }  // namespace krykov_e_word_count
-

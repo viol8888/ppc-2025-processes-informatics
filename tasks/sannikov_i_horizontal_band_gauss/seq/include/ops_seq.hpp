@@ -20,4 +20,3 @@ class SannikovIHorizontalBandGaussSEQ : public BaseTask {
 };
 
 }  // namespace sannikov_i_horizontal_band_gauss
-

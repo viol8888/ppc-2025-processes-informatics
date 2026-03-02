@@ -90,4 +90,3 @@ bool GusevaAMatrixSumsMPI::PostProcessingImpl() {
 }
 
 }  // namespace guseva_a_matrix_sums
-

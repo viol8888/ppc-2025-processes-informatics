@@ -20,4 +20,3 @@ class RomanovAIntegrationRectMethodMPI : public BaseTask {
 };
 
 }  // namespace romanov_a_integration_rect_method
-

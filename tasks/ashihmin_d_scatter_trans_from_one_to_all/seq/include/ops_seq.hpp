@@ -27,4 +27,3 @@ class AshihminDScatterTransFromOneToAllSEQ : public BaseTask<T> {
 };
 
 }  // namespace ashihmin_d_scatter_trans_from_one_to_all
-

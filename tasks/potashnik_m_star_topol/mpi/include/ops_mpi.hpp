@@ -20,4 +20,3 @@ class PotashnikMStarTopolMPI : public BaseTask {
 };
 
 }  // namespace potashnik_m_star_topol
-

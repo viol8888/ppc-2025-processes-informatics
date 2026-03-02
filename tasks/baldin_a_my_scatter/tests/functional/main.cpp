@@ -194,4 +194,3 @@ INSTANTIATE_TEST_SUITE_P(MyScatterTests, BaldinAMyScatterFuncTests, kGtestValues
 }  // namespace
 
 }  // namespace baldin_a_my_scatter
-

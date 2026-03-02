@@ -20,4 +20,3 @@ class KrykovESimpleIterationsMPI : public BaseTask {
 };
 
 }  // namespace krykov_e_simple_iterations
-

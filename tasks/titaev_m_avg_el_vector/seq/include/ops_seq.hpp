@@ -23,4 +23,3 @@ class TitaevMElemVecsAvgSEQ : public BaseTask {
 };
 
 }  // namespace titaev_m_avg_el_vector
-

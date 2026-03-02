@@ -20,4 +20,3 @@ class YurkinCountingNumberSEQ : public BaseTask {
 };
 
 }  // namespace yurkin_counting_number
-

@@ -46,4 +46,3 @@ bool FatehovKMatrixMaxElemSEQ::PostProcessingImpl() {
 }
 
 }  // namespace fatehov_k_matrix_max_elem
-

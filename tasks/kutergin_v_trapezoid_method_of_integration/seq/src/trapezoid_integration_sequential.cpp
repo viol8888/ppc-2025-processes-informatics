@@ -46,4 +46,3 @@ bool TrapezoidIntegrationSequential::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_v_trapezoid_seq
-

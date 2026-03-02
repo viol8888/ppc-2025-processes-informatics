@@ -20,4 +20,3 @@ using TestType = std::tuple<InType, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace spichek_d_jacobi
-

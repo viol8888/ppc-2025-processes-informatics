@@ -107,4 +107,3 @@ INSTANTIATE_TEST_SUITE_P(RunModeTests, YurkinGShellBetcherPerfTests, kGtestValue
                          YurkinGShellBetcherPerfTests::CustomPerfTestName);
 
 }  // namespace yurkin_g_shellbetcher
-

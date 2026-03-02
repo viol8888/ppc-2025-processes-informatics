@@ -20,4 +20,3 @@ class SentenceCountSEQ : public BaseTask {
 };
 
 }  // namespace agafonov_i_sentence_count
-

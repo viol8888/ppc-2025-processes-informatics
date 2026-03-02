@@ -20,4 +20,3 @@ class KutuzovIElemVecAverageSEQ : public BaseTask {
 };
 
 }  // namespace kutuzov_i_elem_vec_average
-

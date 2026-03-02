@@ -101,4 +101,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, RozenbergAMatrixColumnFuncTests, kGtest
 }  // namespace
 
 }  // namespace rozenberg_a_matrix_column_sum
-

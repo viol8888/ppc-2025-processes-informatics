@@ -39,4 +39,3 @@ class LukinIThorTopologyMPI : public BaseTask {
 };
 
 }  // namespace lukin_i_torus_topology
-

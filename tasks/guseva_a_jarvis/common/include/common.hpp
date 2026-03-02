@@ -128,4 +128,3 @@ inline std::vector<std::pair<int, int>> BuildConvexHull(const std::vector<std::p
 }
 
 }  // namespace guseva_a_jarvis
-

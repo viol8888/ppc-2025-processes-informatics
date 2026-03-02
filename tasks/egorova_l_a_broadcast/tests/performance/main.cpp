@@ -38,4 +38,3 @@ INSTANTIATE_TEST_SUITE_P(RunModeTests, EgorovaLRunPerfTestProcesses2, ppc::util:
                          EgorovaLRunPerfTestProcesses2::CustomPerfTestName);
 
 }  // namespace egorova_l_a_broadcast
-

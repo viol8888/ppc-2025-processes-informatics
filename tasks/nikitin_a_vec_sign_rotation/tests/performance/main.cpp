@@ -72,4 +72,3 @@ const auto kPerfTestName = NikitinAVecSignRotationPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, NikitinAVecSignRotationPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace nikitin_a_vec_sign_rotation
-

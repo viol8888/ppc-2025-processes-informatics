@@ -69,4 +69,3 @@ INSTANTIATE_TEST_SUITE_P(LifanovKTrapezoidMethodTests, LifanovKTrapezoidMethodFu
 }  // namespace
 
 }  // namespace lifanov_k_trapezoid_method
-

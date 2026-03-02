@@ -51,4 +51,3 @@ const auto kPerfTestName = GaseninLIntegralPerformanceTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(GaseninLPerformanceTestSuite, GaseninLIntegralPerformanceTests, kGtestValues, kPerfTestName);
 
 }  // namespace gasenin_l_mult_int_mstep_trapez
-

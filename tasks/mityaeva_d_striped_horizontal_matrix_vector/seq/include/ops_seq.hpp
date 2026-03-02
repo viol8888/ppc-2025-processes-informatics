@@ -23,4 +23,3 @@ class StripedHorizontalMatrixVectorSEQ : public BaseTask {
 };
 
 }  // namespace mityaeva_d_striped_horizontal_matrix_vector
-

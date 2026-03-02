@@ -84,4 +84,3 @@ bool SpichekDDotProductOfVectorsMPI::PostProcessingImpl() {
 }
 
 }  // namespace spichek_d_dot_product_of_vectors
-

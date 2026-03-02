@@ -79,4 +79,3 @@ INSTANTIATE_TEST_SUITE_P(GlobalOptTests, KhruevAGlobalOptFuncTests, kGtestValues
 }  // namespace
 
 }  // namespace khruev_a_global_opt
-

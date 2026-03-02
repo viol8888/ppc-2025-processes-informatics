@@ -84,4 +84,3 @@ INSTANTIATE_TEST_SUITE_P(GusevaPerf, GusevaAMatrixSumsRunPerfTestProcesses, kGte
 }  // namespace
 
 }  // namespace guseva_a_matrix_sums
-

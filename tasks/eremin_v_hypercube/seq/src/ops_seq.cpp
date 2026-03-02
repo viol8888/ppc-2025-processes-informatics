@@ -47,4 +47,3 @@ bool EreminVHypercubeSEQ::PostProcessingImpl() {
 }
 
 }  // namespace eremin_v_hypercube
-

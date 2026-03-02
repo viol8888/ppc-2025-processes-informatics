@@ -21,4 +21,3 @@ class NikolaevDGatherMPI : public BaseTask {
 };
 
 }  // namespace nikolaev_d_gather
-

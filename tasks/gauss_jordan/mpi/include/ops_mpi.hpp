@@ -20,4 +20,3 @@ class GaussJordanMPI : public BaseTask {
 };
 
 }  // namespace gauss_jordan
-

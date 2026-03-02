@@ -13,4 +13,3 @@ using TestType = std::tuple<InType, OutType>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace makovskiy_i_allreduce
-

@@ -112,4 +112,3 @@ bool SannikovIColumnSumMPI::PostProcessingImpl() {
 }
 
 }  // namespace sannikov_i_column_sum
-

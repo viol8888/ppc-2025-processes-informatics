@@ -113,4 +113,3 @@ INSTANTIATE_TEST_SUITE_P(CannonAlgorithmTest, LukinIRunFuncTestsProcesses2, kGte
 }  // namespace
 
 }  // namespace lukin_i_cannon_algorithm
-

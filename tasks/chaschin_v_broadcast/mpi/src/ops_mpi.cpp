@@ -74,4 +74,3 @@ template class chaschin_v_broadcast::ChaschinVBroadcastMPI<float>;
 template class chaschin_v_broadcast::ChaschinVBroadcastMPI<double>;
 
 }  // namespace chaschin_v_broadcast
-

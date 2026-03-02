@@ -96,4 +96,3 @@ const auto kTestName =
 INSTANTIATE_TEST_SUITE_P(GaussFiltTests, SmyshlaevAGaussFiltRunFuncTestsProcesses, kGtestValues, kTestName);
 
 }  // namespace smyshlaev_a_gauss_filt
-

@@ -64,4 +64,3 @@ const auto kPerfTestName = KurpiakovARunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KurpiakovARunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace kurpiakov_a_shellsort
-

@@ -91,4 +91,3 @@ bool StripedHorizontalMatrixVectorSEQ::PostProcessingImpl() {
 }
 
 }  // namespace mityaeva_d_striped_horizontal_matrix_vector
-

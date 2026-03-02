@@ -45,4 +45,3 @@ class KosolapovVGaussMethodTapeHorSchemeMPI : public BaseTask {
 };
 
 }  // namespace kosolapov_v_gauss_method_tape_hor_scheme
-

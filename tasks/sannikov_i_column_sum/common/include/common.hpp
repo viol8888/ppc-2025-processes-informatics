@@ -14,4 +14,3 @@ using TestType = std::tuple<std::vector<std::vector<int>>, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace sannikov_i_column_sum
-

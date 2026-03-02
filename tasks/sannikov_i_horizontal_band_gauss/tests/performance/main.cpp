@@ -102,4 +102,3 @@ const auto kPerfTestName = SannikIHorizontalBandGaussPerfTests::CustomPerfTestNa
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SannikIHorizontalBandGaussPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace sannikov_i_horizontal_band_gauss
-

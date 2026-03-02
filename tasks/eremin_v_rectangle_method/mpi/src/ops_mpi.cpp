@@ -68,4 +68,3 @@ bool EreminVRectangleMethodMPI::PostProcessingImpl() {
 }
 
 }  // namespace eremin_v_rectangle_method
-

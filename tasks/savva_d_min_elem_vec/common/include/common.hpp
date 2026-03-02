@@ -15,4 +15,3 @@ using TestType = std::tuple<std::vector<int>, std::string>;  // нужен ка�
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace savva_d_min_elem_vec
-

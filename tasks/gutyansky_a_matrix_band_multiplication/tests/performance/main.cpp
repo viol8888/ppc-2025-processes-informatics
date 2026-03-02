@@ -106,4 +106,3 @@ const auto kPerfTestName = GutyanskyAMatrixBandMultiplicationPerfTest::CustomPer
 INSTANTIATE_TEST_SUITE_P(RunModeTests, GutyanskyAMatrixBandMultiplicationPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace gutyansky_a_matrix_band_multiplication
-

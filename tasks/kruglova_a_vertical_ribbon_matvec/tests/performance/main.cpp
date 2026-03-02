@@ -59,4 +59,3 @@ const auto kPerfTestName = KruglovaAVerticalRibMatPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KruglovaAVerticalRibMatPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace kruglova_a_vertical_ribbon_matvec
-

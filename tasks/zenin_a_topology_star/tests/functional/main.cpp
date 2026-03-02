@@ -153,4 +153,3 @@ INSTANTIATE_TEST_SUITE_P(ZeninATopologyStar, ZeninATopologyStarFunctTests, kGtes
 }  // namespace
 
 }  // namespace zenin_a_topology_star
-

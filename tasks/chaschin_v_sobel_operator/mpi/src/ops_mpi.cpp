@@ -209,4 +209,3 @@ bool ChaschinVSobelOperatorMPI::PostProcessingImpl() {
 }
 
 }  // namespace chaschin_v_sobel_operator
-

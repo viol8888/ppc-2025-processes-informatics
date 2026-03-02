@@ -23,4 +23,3 @@ class KuterginAClosestPairSEQ : public BaseTask {
 };
 
 }  // namespace kutergin_a_closest_pair
-

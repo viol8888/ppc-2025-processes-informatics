@@ -144,4 +144,3 @@ INSTANTIATE_TEST_SUITE_P(FileTests, LiulinYIntegMnogFuncMonteCarloFuncTestsFromF
 
 }  // namespace
 }  // namespace liulin_y_integ_mnog_func_monte_carlo
-

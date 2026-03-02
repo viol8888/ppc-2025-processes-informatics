@@ -20,4 +20,3 @@ class RomanovAScatterSEQ : public BaseTask {
 };
 
 }  // namespace romanov_a_scatter
-

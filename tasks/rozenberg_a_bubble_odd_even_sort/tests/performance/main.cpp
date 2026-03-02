@@ -76,4 +76,3 @@ const auto kPerfTestName = RozenbergABubbleOddEvenSortPerfTests::CustomPerfTestN
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RozenbergABubbleOddEvenSortPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace rozenberg_a_bubble_odd_even_sort
-

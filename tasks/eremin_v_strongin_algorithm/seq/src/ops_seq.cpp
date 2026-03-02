@@ -127,4 +127,3 @@ bool EreminVStronginAlgorithmSEQ::PostProcessingImpl() {
 }
 
 }  // namespace eremin_v_strongin_algorithm
-

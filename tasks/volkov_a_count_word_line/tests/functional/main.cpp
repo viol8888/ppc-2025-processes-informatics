@@ -114,4 +114,3 @@ INSTANTIATE_TEST_SUITE_P(Volkov_seq_WordCount, VolkovACountWordLineFuncTests, kT
 
 }  // namespace
 }  // namespace volkov_a_count_word_line
-

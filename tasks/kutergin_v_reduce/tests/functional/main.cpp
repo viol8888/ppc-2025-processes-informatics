@@ -137,4 +137,3 @@ INSTANTIATE_TEST_SUITE_P(Reduce, ReduceTests, kGtestValues, kTestName);
 }  // namespace
 
 }  // namespace kutergin_v_reduce
-

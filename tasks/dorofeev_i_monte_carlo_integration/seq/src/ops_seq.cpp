@@ -67,4 +67,3 @@ bool DorofeevIMonteCarloIntegrationSEQ::PostProcessingImpl() {
 }
 
 }  // namespace dorofeev_i_monte_carlo_integration_processes
-

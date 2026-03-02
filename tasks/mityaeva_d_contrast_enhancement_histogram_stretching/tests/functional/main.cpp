@@ -122,4 +122,3 @@ INSTANTIATE_TEST_SUITE_P(ContrastEnhancementTests, ContrastEnhancementRunFuncTes
 }  // namespace
 
 }  // namespace mityaeva_d_contrast_enhancement_histogram_stretching
-

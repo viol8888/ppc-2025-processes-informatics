@@ -57,4 +57,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, AshihminDElemVecSumFuncTest, kGtestValu
 
 }  // namespace
 }  // namespace ashihmin_d_sum_of_elem
-

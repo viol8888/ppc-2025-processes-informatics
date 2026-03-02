@@ -24,4 +24,3 @@ class PapulinaYGaussFilterSEQ : public BaseTask {
 };
 
 }  // namespace papulina_y_gauss_filter_block
-

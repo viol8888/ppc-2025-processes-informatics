@@ -271,4 +271,3 @@ bool MatrixBandMultiplicationMpi::PostProcessingImpl() {
 }
 
 }  // namespace matrix_band_multiplication
-

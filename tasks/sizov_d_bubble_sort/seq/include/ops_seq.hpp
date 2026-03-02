@@ -25,4 +25,3 @@ class SizovDBubbleSortSEQ : public BaseTask {
 };
 
 }  // namespace sizov_d_bubble_sort
-

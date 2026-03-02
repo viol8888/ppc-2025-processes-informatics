@@ -23,4 +23,3 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace shkrebko_m_hypercube
-

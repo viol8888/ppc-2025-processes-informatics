@@ -20,4 +20,3 @@ class GusevDStarSEQ : public BaseTask {
 };
 
 }  // namespace gusev_d_star
-

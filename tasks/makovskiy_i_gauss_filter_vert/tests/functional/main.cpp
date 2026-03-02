@@ -90,4 +90,3 @@ TEST_P(GaussFilterFuncTests, RunFuncTests) {
     ASSERT_EQ(result, expected);
   }
 }
-

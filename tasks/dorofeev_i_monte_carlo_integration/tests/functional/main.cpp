@@ -174,4 +174,3 @@ INSTANTIATE_TEST_SUITE_P(ExtraIntegrationTests, MonteCarloExtraFuncTests, ppc::u
                          MonteCarloExtraFuncTests::PrintName);
 
 }  // namespace dorofeev_i_monte_carlo_integration_processes
-

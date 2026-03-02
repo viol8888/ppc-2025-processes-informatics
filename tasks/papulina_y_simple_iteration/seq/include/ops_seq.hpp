@@ -37,4 +37,3 @@ class PapulinaYSimpleIterationSEQ : public BaseTask {
 };
 
 }  // namespace papulina_y_simple_iteration
-

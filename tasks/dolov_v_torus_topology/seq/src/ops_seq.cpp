@@ -34,4 +34,3 @@ bool DolovVTorusTopologySEQ::PostProcessingImpl() {
 }
 
 }  // namespace dolov_v_torus_topology
-

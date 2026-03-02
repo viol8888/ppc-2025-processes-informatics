@@ -65,4 +65,3 @@ bool RomanovAScatterSEQ::PostProcessingImpl() {
 }
 
 }  // namespace romanov_a_scatter
-

@@ -20,4 +20,3 @@ class KiselevITestTaskMPI : public BaseTask {
 };
 
 }  // namespace kiselev_i_linear_histogram_stretch
-

@@ -103,4 +103,3 @@ bool PikhotskiyRScatterSEQ::PostProcessingImpl() {
 }
 
 }  // namespace pikhotskiy_r_scatter
-

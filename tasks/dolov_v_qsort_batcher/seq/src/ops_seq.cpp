@@ -79,4 +79,3 @@ void DolovVQsortBatcherSEQ::ApplyQuicksort(double *array, int low, int high) {
 }
 
 }  // namespace dolov_v_qsort_batcher
-

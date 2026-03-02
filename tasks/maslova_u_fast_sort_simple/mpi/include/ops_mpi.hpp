@@ -24,4 +24,3 @@ class MaslovaUFastSortSimpleMPI : public BaseTask {
 };
 
 }  // namespace maslova_u_fast_sort_simple
-

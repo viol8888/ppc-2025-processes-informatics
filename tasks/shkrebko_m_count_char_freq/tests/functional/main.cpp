@@ -75,4 +75,3 @@ INSTANTIATE_TEST_SUITE_P(ShkrebkoMCharFreq, ShkrebkoMCountCharFreqFuncTests, kGt
 }  // namespace
 
 }  // namespace shkrebko_m_count_char_freq
-

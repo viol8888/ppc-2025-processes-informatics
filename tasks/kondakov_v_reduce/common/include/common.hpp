@@ -55,4 +55,3 @@ inline OutType GetNeutralElement(ReduceOp op) {
 }
 
 }  // namespace kondakov_v_reduce
-

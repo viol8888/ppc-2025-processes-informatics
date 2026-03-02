@@ -33,4 +33,3 @@ class ChaschinVSobelOperatorMPI : public BaseTask {
 };
 
 }  // namespace chaschin_v_sobel_operator
-

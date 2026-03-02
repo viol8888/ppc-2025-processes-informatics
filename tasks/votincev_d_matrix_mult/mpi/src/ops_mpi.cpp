@@ -251,4 +251,3 @@ bool VotincevDMatrixMultMPI::PostProcessingImpl() {
 }
 
 }  // namespace votincev_d_matrix_mult
-

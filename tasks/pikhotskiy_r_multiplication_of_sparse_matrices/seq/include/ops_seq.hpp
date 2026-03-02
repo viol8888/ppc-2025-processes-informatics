@@ -23,4 +23,3 @@ class SparseMatrixMultiplicationSEQ : public BaseTask {
 };
 
 }  // namespace pikhotskiy_r_multiplication_of_sparse_matrices
-

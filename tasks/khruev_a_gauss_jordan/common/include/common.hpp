@@ -14,4 +14,3 @@ using TestType = std::tuple<std::string, std::vector<std::vector<double>>, std::
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace khruev_a_gauss_jordan
-

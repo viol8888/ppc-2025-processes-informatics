@@ -79,4 +79,3 @@ bool ShkrebkoMCountCharFreqMPI::PostProcessingImpl() {
 }
 
 }  // namespace shkrebko_m_count_char_freq
-

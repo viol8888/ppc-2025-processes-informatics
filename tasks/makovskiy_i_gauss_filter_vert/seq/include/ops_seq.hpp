@@ -22,4 +22,3 @@ class GaussFilterSEQ : public BaseTask {
 };
 
 }  // namespace makovskiy_i_gauss_filter_vert
-

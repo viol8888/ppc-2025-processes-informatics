@@ -48,4 +48,3 @@ const auto kPerfTestName = SmyshlaevAStrOrderCheckRunPerfTestsProcesses::CustomP
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SmyshlaevAStrOrderCheckRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace smyshlaev_a_str_order_check
-

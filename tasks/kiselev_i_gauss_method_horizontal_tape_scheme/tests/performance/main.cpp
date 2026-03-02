@@ -110,4 +110,3 @@ const auto kPerfTestName = KiselevIPerfTests2::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KiselevIPerfTests2, kGtestValues, kPerfTestName);
 
 }  // namespace kiselev_i_gauss_method_horizontal_tape_scheme
-

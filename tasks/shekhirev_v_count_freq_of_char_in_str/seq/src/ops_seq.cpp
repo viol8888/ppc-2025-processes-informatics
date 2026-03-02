@@ -38,4 +38,3 @@ bool CharFreqSequential::PostProcessingImpl() {
 }
 
 }  // namespace shekhirev_v_char_freq_seq
-

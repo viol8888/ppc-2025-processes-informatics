@@ -92,4 +92,3 @@ INSTANTIATE_TEST_SUITE_P(MatrixRowMaxTests, ChaschinVRunFuncTestsProcesses, kGte
 }  // namespace
 
 }  // namespace chaschin_v_max_for_each_row
-

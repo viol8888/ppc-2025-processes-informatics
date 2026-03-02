@@ -61,4 +61,3 @@ const auto kPerfTestName = PapulinaYPerfTestsGaussFilter::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(GaussFilterPerfTests, PapulinaYPerfTestsGaussFilter, kGtestValues, kPerfTestName);
 
 }  // namespace papulina_y_gauss_filter_block
-

@@ -13,4 +13,3 @@ using TestType = std::tuple<bool, int, int>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace levonychev_i_min_val_rows_matrix
-

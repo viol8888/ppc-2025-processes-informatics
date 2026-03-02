@@ -51,4 +51,3 @@ bool ChaschinVMaxForEachRowSEQ::PostProcessingImpl() {
 }
 
 }  // namespace chaschin_v_max_for_each_row
-

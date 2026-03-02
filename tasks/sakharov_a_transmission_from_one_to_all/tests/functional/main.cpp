@@ -68,4 +68,3 @@ INSTANTIATE_TEST_SUITE_P(BroadcastTests, SakharovATransmissionFuncTests, kGtestV
 }  // namespace
 
 }  // namespace sakharov_a_transmission_from_one_to_all
-

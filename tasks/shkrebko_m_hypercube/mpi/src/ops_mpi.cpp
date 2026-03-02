@@ -205,4 +205,3 @@ bool ShkrebkoMHypercubeMPI::PostProcessingImpl() {
 }
 
 }  // namespace shkrebko_m_hypercube
-

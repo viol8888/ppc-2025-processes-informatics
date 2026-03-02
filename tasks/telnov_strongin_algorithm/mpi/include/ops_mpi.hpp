@@ -20,4 +20,3 @@ class TelnovStronginAlgorithmMPI : public BaseTask {
 };
 
 }  // namespace telnov_strongin_algorithm
-

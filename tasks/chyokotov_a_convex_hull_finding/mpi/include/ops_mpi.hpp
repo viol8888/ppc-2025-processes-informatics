@@ -60,4 +60,3 @@ class ChyokotovConvexHullFindingMPI : public BaseTask {
 };
 
 }  // namespace chyokotov_a_convex_hull_finding
-

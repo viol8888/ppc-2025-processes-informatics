@@ -64,4 +64,3 @@ INSTANTIATE_TEST_SUITE_P(MonteCarlo3DPerf, DolovVMonteCarloIntegrationPerfTests,
 
 }  // namespace
 }  // namespace dolov_v_monte_carlo_integration
-

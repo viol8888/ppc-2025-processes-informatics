@@ -45,4 +45,3 @@ const auto kPerfTestName = KhruevAMinElemVecPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunPerf, KhruevAMinElemVecPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace khruev_a_min_elem_vec
-

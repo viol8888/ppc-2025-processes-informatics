@@ -10,4 +10,3 @@ int main(int argc, char **argv) {
   }
   return ppc::runners::SimpleInit(argc, argv);
 }
-

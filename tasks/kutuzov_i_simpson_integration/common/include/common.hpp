@@ -57,4 +57,3 @@ inline double CallFunction(int function_id, double x, double y) {
 }
 
 }  // namespace kutuzov_i_simpson_integration
-

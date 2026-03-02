@@ -20,4 +20,3 @@ class VotincevDMatrixMultSEQ : public BaseTask {
 };
 
 }  // namespace votincev_d_matrix_mult
-

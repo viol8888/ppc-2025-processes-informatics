@@ -72,4 +72,3 @@ bool ZavyalovAReduceSEQ::PostProcessingImpl() {
 }
 
 }  // namespace zavyalov_a_reduce
-

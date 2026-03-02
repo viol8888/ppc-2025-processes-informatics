@@ -49,4 +49,3 @@ bool ScalarProductSEQ::PostProcessingImpl() {
 }
 
 }  // namespace scalar_product
-

@@ -23,4 +23,3 @@ struct Matrix {
 };
 
 }  // namespace gutyansky_a_matrix_column_sum
-

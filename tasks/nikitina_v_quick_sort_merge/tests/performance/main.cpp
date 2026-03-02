@@ -63,4 +63,3 @@ INSTANTIATE_TEST_SUITE_P(QuickSortPerfTests, RunPerfTests, kGtestValues, kPerfTe
 // NOLINTEND(cert-err58-cpp,cppcoreguidelines-avoid-non-const-global-variables,modernize-type-traits,misc-use-anonymous-namespace)
 
 }  // namespace nikitina_v_quick_sort_merge
-

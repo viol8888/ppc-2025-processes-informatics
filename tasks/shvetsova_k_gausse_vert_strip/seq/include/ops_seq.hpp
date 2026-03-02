@@ -28,4 +28,3 @@ class ShvetsovaKGaussVertStripSEQ : public BaseTask {
 };
 
 }  // namespace shvetsova_k_gausse_vert_strip
-

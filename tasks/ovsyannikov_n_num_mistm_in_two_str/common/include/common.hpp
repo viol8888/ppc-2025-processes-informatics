@@ -13,4 +13,3 @@ using OutType = size_t;                              // Выходные дан�
 using BaseTask = ppc::task::Task<InType, OutType>;
 using TestType = std::tuple<InType, OutType, std::string>;
 }  // namespace ovsyannikov_n_num_mistm_in_two_str
-

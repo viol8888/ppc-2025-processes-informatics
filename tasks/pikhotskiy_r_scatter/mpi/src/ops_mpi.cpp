@@ -220,4 +220,3 @@ bool PikhotskiyRScatterMPI::PostProcessingImpl() {
 }
 
 }  // namespace pikhotskiy_r_scatter
-

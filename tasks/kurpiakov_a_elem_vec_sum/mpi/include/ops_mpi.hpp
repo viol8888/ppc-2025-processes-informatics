@@ -19,4 +19,3 @@ class KurpiakovAElemVecSumMPI : public BaseTask {
 };
 
 }  // namespace kurpiakov_a_elem_vec_sum
-

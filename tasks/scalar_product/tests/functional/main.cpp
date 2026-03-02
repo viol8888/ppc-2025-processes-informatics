@@ -186,4 +186,3 @@ INSTANTIATE_TEST_SUITE_P(ScalarProductTests, ScalarProductRunFuncTests, kGtestVa
 }  // namespace
 
 }  // namespace scalar_product
-

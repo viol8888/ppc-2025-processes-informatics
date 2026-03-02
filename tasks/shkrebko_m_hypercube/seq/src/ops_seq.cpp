@@ -54,4 +54,3 @@ bool ShkrebkoMHypercubeSEQ::PostProcessingImpl() {
 }
 
 }  // namespace shkrebko_m_hypercube
-

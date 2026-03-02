@@ -13,4 +13,3 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace yurkin_g_shellbetcher
-

@@ -32,4 +32,3 @@ class ContrastEnhancementMPI : public BaseTask {
 };
 
 }  // namespace mityaeva_d_contrast_enhancement_histogram_stretching
-

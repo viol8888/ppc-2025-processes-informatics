@@ -114,4 +114,3 @@ bool TelnovStronginAlgorithmMPI::PostProcessingImpl() {
 }
 
 }  // namespace telnov_strongin_algorithm
-

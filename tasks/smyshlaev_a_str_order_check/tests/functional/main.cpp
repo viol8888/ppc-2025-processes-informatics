@@ -76,4 +76,3 @@ INSTANTIATE_TEST_SUITE_P(StringOrderCheckTests, SmyshlaevAStrOrderCheckRunFuncTe
 }  // namespace
 
 }  // namespace smyshlaev_a_str_order_check
-

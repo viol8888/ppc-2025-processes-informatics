@@ -20,4 +20,3 @@ using TestType = std::tuple<int, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace titaev_m_metod_pryamougolnikov
-

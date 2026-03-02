@@ -80,4 +80,3 @@ INSTANTIATE_TEST_SUITE_P(BellFordTests, PotashnikMShortWaysBellfordFuncTests, kG
 }  // namespace
 
 }  // namespace potashnik_m_short_ways_bellford
-

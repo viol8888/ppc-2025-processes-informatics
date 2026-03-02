@@ -20,4 +20,3 @@ class ZeninATopologyStarMPI : public BaseTask {
 };
 
 }  // namespace zenin_a_topology_star
-

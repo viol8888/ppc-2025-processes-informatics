@@ -69,4 +69,3 @@ inline auto GetFunc(int num) {
 }
 
 }  // namespace luzan_e_simps_int
-

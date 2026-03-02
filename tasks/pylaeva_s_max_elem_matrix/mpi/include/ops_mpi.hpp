@@ -20,4 +20,3 @@ class PylaevaSMaxElemMatrixMPI : public BaseTask {
 };
 
 }  // namespace pylaeva_s_max_elem_matrix
-

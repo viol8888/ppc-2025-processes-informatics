@@ -49,4 +49,3 @@ const auto kPerfTestName = KiselevIMaxValueInStringsRunPerfTestProcesses::Custom
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KiselevIMaxValueInStringsRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace kiselev_i_max_value_in_strings
-

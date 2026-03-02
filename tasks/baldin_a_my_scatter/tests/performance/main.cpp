@@ -97,4 +97,3 @@ const auto kPerfTestName = BaldinAMyScatterPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, BaldinAMyScatterPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace baldin_a_my_scatter
-

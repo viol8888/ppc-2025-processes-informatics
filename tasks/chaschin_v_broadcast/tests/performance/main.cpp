@@ -40,4 +40,3 @@ const auto kPerfTestName = ChaschinVRunPerfTestProcessesBR::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ChaschinVRunPerfTestProcessesBR, kGtestValues, kPerfTestName);
 
 }  // namespace chaschin_v_broadcast
-

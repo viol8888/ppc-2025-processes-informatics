@@ -20,4 +20,3 @@ class ShkrebkoMCountCharFreqSEQ : public BaseTask {
 };
 
 }  // namespace shkrebko_m_count_char_freq
-

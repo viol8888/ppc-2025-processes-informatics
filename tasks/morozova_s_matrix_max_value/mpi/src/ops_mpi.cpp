@@ -80,4 +80,3 @@ bool MorozovaSMatrixMaxValueMPI::PostProcessingImpl() {
 }
 
 }  // namespace morozova_s_matrix_max_value
-

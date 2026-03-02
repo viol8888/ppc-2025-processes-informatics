@@ -45,4 +45,3 @@ inline double FuncConstOne(const std::vector<double> & /*unused*/) {
 }
 
 }  // namespace dolov_v_monte_carlo_integration
-

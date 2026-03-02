@@ -384,4 +384,3 @@ bool SizovDGlobalSearchMPI::PostProcessingImpl() {
 }
 
 }  // namespace sizov_d_global_search
-

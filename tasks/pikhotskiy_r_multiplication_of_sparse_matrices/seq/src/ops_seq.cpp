@@ -164,4 +164,3 @@ bool SparseMatrixMultiplicationSEQ::PostProcessingImpl() {
 }
 
 }  // namespace pikhotskiy_r_multiplication_of_sparse_matrices
-

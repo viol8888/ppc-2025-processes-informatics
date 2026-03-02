@@ -20,4 +20,3 @@ class TelnovCountingTheFrequencyMPI : public BaseTask {
 };
 
 }  // namespace telnov_counting_the_frequency
-

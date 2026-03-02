@@ -54,4 +54,3 @@ const auto kPerfTestName = GonozovLRunGlobalSearchPerfTest::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, GonozovLRunGlobalSearchPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace gonozov_l_global_search
-

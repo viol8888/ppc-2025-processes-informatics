@@ -24,4 +24,3 @@ class ChaschinVSobelOperatorSEQ : public BaseTask {
 std::vector<float> SobelSeq(const std::vector<std::vector<float>> &image);
 
 }  // namespace chaschin_v_sobel_operator
-

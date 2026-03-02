@@ -282,4 +282,3 @@ const auto kPerfTestName = PylaevaSConvexHullBinPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PylaevaSConvexHullBinPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace pylaeva_s_convex_hull_bin
-

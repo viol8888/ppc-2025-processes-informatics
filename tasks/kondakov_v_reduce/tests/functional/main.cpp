@@ -93,4 +93,3 @@ INSTANTIATE_TEST_SUITE_P(KondakovVReduceTests, KondakovVReduceRunFuncTests, kGte
 
 }  // namespace
 }  // namespace kondakov_v_reduce
-

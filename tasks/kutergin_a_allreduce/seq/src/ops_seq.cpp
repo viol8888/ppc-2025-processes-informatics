@@ -37,4 +37,3 @@ bool AllreduceSequential::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_a_allreduce
-

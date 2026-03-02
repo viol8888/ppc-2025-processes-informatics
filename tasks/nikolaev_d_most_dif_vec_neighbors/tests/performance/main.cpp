@@ -63,4 +63,3 @@ const auto kPerfTestName = NikolaevDMostDifVecNeighborsPerfTests::CustomPerfTest
 INSTANTIATE_TEST_SUITE_P(RunModeTests, NikolaevDMostDifVecNeighborsPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace nikolaev_d_most_dif_vec_neighbors
-

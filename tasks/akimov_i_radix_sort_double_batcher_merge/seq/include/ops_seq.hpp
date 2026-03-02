@@ -26,4 +26,3 @@ class AkimovIRadixBatcherSortSEQ : public BaseTask {
   static void LsdRadixSort(std::vector<double> &arr);
 };
 }  // namespace akimov_i_radix_sort_double_batcher_merge
-

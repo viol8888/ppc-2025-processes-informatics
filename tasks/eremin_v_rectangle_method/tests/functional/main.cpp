@@ -93,4 +93,3 @@ INSTANTIATE_TEST_SUITE_P(RectangleMethodTests, EreminVRunFuncTestsRectangleMetho
 }  // namespace
 
 }  // namespace eremin_v_rectangle_method
-

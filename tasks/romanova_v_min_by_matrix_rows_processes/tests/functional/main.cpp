@@ -92,4 +92,3 @@ INSTANTIATE_TEST_SUITE_P(FileTests, RomanovaVMinByMatrixRowsFuncTestsProcesses, 
 }  // namespace
 
 }  // namespace romanova_v_min_by_matrix_rows_processes
-

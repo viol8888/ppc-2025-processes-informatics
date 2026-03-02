@@ -240,4 +240,3 @@ bool KruglovaA2DMuitSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kruglova_a_2d_multistep_par_opt
-

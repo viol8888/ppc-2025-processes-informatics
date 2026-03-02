@@ -33,4 +33,3 @@ bool PotashnikMShortWaysBellfordSEQ::PostProcessingImpl() {
 }
 
 }  // namespace potashnik_m_short_ways_bellford
-

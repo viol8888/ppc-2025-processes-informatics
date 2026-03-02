@@ -235,4 +235,3 @@ INSTANTIATE_TEST_SUITE_P(MatrixMultiplicationFuncTests, LobanovDMultiplyMatrixFu
 }  // namespace
 
 }  // namespace lobanov_d_multiply_matrix_ccs
-

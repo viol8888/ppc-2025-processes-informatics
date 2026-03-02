@@ -89,4 +89,3 @@ bool RomanovaVJacobiMethodSEQ::IsDiagonallyDominant(const std::vector<std::vecto
 }
 
 }  // namespace romanova_v_jacobi_method
-

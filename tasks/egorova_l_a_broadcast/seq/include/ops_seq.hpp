@@ -20,4 +20,3 @@ class EgorovaLBroadcastSEQ : public BaseTask {
 };
 
 }  // namespace egorova_l_a_broadcast
-

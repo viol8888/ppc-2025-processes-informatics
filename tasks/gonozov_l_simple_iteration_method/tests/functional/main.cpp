@@ -84,4 +84,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, GonozovLRunIterationMethodFuncTests, kG
 }  // namespace
 
 }  // namespace gonozov_l_simple_iteration_method
-

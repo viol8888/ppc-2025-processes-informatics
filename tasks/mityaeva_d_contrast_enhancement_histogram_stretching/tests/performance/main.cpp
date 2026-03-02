@@ -82,4 +82,3 @@ const auto kPerfTestName = ContrastEnhancementRunPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ContrastEnhancementRunPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace mityaeva_d_contrast_enhancement_histogram_stretching
-

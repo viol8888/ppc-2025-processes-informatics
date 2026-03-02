@@ -84,4 +84,3 @@ bool PylaevaSMaxElemMatrixMPI::PostProcessingImpl() {
 }
 
 }  // namespace pylaeva_s_max_elem_matrix
-

@@ -24,4 +24,3 @@ class KruglovaA2DMuitMPI : public BaseTask {
 };
 
 }  // namespace kruglova_a_2d_multistep_par_opt
-

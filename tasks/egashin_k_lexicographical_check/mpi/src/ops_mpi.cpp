@@ -121,4 +121,3 @@ bool TestTaskMPI::RunImpl() {
 }
 
 }  // namespace egashin_k_lexicographical_check
-

@@ -14,4 +14,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace kutuzov_i_torus_grid
-

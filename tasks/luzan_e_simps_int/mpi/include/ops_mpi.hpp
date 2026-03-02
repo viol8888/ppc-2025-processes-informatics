@@ -20,4 +20,3 @@ class LuzanESimpsIntMPI : public BaseTask {
 };
 
 }  // namespace luzan_e_simps_int
-

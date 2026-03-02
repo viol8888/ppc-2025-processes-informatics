@@ -83,4 +83,3 @@ TEST_P(KuterginAClosestPairFuncTests, ClosestPairTest) {
 }  // namespace
 
 }  // namespace kutergin_a_closest_pair
-

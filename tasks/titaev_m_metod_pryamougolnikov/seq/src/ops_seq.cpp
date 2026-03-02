@@ -101,4 +101,3 @@ bool TitaevMMetodPryamougolnikovSEQ::PostProcessingImpl() {
 }
 
 }  // namespace titaev_m_metod_pryamougolnikov
-

@@ -44,4 +44,3 @@ INSTANTIATE_TEST_SUITE_P(PerformanceTests, SimpsonPerformanceTests, kGtestValues
                          SimpsonPerformanceTests::CustomPerfTestName);
 
 }  // namespace ashihmin_d_calculate_integrals_by_simpson
-

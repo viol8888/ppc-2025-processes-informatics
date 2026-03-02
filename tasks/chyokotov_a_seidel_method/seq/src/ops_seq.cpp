@@ -113,4 +113,3 @@ bool ChyokotovASeidelMethodSEQ::PostProcessingImpl() {
 }
 
 }  // namespace chyokotov_a_seidel_method
-

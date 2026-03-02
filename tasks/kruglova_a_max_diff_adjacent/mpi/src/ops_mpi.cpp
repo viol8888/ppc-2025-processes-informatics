@@ -100,4 +100,3 @@ bool KruglovaAMaxDiffAdjacentMPI::PostProcessingImpl() {
 }
 
 }  // namespace kruglova_a_max_diff_adjacent
-

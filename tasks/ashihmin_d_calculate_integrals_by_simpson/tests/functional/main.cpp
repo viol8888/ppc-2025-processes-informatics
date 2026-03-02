@@ -63,4 +63,3 @@ INSTANTIATE_TEST_SUITE_P(Correctness, AshihminDCalculateIntegralsBySimpsonFuncTe
 }  // namespace
 
 }  // namespace ashihmin_d_calculate_integrals_by_simpson
-

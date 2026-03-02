@@ -172,4 +172,3 @@ bool KiselevITestTaskMPI::PostProcessingImpl() {
 }
 
 }  // namespace kiselev_i_max_value_in_strings
-

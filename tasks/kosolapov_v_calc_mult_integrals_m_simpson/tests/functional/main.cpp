@@ -81,4 +81,3 @@ INSTANTIATE_TEST_SUITE_P(CalcMultIntegralsMSimpson, KosolapovVCalcMultIntegralsM
 }  // namespace
 
 }  // namespace kosolapov_v_calc_mult_integrals_m_simpson
-

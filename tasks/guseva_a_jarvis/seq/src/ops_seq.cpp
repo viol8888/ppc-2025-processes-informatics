@@ -49,4 +49,3 @@ bool GusevaAJarvisSEQ::PostProcessingImpl() {
 }
 
 }  // namespace guseva_a_jarvis
-

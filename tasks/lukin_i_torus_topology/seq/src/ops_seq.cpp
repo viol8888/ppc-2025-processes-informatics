@@ -41,4 +41,3 @@ bool LukinIThorTopologySEQ::PostProcessingImpl() {
 }
 
 }  // namespace lukin_i_torus_topology
-

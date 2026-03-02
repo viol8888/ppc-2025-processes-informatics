@@ -49,4 +49,3 @@ const auto kPerfTestName = SmyshlaevAGaussFiltRunPerfTestsProcesses::CustomPerfT
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SmyshlaevAGaussFiltRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace smyshlaev_a_gauss_filt
-

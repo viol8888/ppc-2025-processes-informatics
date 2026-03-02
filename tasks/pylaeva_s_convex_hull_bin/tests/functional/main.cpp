@@ -311,4 +311,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, PylaevaSConvexHullBinFuncTests, kGtestV
 }  // namespace
 
 }  // namespace pylaeva_s_convex_hull_bin
-

@@ -44,4 +44,3 @@ INSTANTIATE_TEST_SUITE_P(PerformanceTests, RectanglePerformanceTests, kGtestValu
                          RectanglePerformanceTests::CustomPerfTestName);
 
 }  // namespace titaev_m_metod_pryamougolnikov
-

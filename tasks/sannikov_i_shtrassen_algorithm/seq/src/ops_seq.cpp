@@ -449,4 +449,3 @@ bool SannikovIShtrassenAlgorithmSEQ::PostProcessingImpl() {
 }
 
 }  // namespace sannikov_i_shtrassen_algorithm
-

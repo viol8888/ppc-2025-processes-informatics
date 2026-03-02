@@ -185,4 +185,3 @@ INSTANTIATE_TEST_SUITE_P(SignRotationTests, NikitinAVecSignRotationFuncTests, kG
 }  // namespace
 
 }  // namespace nikitin_a_vec_sign_rotation
-

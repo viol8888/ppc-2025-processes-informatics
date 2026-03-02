@@ -26,4 +26,3 @@ class ChaschinVBroadcastSEQ : public BaseTask<T> {
 };
 
 }  // namespace chaschin_v_broadcast
-

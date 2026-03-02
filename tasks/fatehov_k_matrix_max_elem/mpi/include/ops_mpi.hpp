@@ -23,4 +23,3 @@ class FatehovKMatrixMaxElemMPI : public BaseTask {
 };
 
 }  // namespace fatehov_k_matrix_max_elem
-

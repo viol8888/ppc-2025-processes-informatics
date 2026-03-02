@@ -45,4 +45,3 @@ bool BruskovaVGlobalOptimizationSEQ::PostProcessingImpl() {
 }
 
 }  // namespace bruskova_v_global_optimization
-

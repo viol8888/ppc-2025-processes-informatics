@@ -73,4 +73,3 @@ const auto kPerfTestName = MaslovaURowMatrVecPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, MaslovaURowMatrVecPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace maslova_u_row_matr_vec_mult
-

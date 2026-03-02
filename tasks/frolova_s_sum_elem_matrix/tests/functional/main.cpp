@@ -87,4 +87,3 @@ INSTANTIATE_TEST_SUITE_P(CountSumInMatrixr, FrolovaSSumElemMatrixRunFuncTestsPro
 }  // namespace
 
 }  // namespace frolova_s_sum_elem_matrix
-

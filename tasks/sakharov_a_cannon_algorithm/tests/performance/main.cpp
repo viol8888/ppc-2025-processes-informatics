@@ -109,4 +109,3 @@ const auto kPerfTestName = SakharovACannonPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, SakharovACannonPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace sakharov_a_cannon_algorithm
-

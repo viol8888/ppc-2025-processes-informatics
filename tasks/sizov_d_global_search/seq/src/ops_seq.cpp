@@ -216,4 +216,3 @@ bool SizovDGlobalSearchSEQ::PostProcessingImpl() {
 }
 
 }  // namespace sizov_d_global_search
-

@@ -94,4 +94,3 @@ using TestType = int;              // Amount of vertices
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace potashnik_m_short_ways_bellford
-

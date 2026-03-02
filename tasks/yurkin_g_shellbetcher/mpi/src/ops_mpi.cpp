@@ -230,4 +230,3 @@ bool YurkinGShellBetcherMPI::PostProcessingImpl() {
 }
 
 }  // namespace yurkin_g_shellbetcher
-

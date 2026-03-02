@@ -20,4 +20,3 @@ class FrolovaSSumElemMatrixSEQ : public BaseTask {
 };
 
 }  // namespace frolova_s_sum_elem_matrix
-

@@ -71,4 +71,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, TelnovCountingTheFrequencyFuncTestsProc
 }  // namespace
 
 }  // namespace telnov_counting_the_frequency
-

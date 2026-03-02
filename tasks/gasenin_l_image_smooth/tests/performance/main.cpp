@@ -55,4 +55,3 @@ const auto kPerfTestName = GaseninLRunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, GaseninLRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace gasenin_l_image_smooth
-

@@ -25,4 +25,3 @@ class TelnovTransferOneAllSEQ : public BaseTask<T> {
 };
 
 }  // namespace telnov_transfer_one_all
-

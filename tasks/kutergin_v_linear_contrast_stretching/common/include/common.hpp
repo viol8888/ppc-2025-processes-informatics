@@ -20,4 +20,3 @@ using BaseTask = ppc::task::Task<InType, OutType>;
 using TestType = std::tuple<InType, OutType, std::string>;
 
 }  // namespace kutergin_v_linear_contrast_stretching
-

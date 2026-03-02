@@ -69,4 +69,3 @@ const auto kPerfTestName = KrykovEMultistepSADPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KrykovEMultistepSADPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace krykov_e_multistep_sad
-

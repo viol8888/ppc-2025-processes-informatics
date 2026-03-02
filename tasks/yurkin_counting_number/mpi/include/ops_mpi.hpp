@@ -20,4 +20,3 @@ class YurkinCountingNumberMPI : public BaseTask {
 };
 
 }  // namespace yurkin_counting_number
-

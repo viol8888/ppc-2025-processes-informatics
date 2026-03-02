@@ -23,4 +23,3 @@ class SpichekDJacobiSEQ : public BaseTask {
 };
 
 }  // namespace spichek_d_jacobi
-

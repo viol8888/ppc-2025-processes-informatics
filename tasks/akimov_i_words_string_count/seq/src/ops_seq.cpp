@@ -55,4 +55,3 @@ bool AkimovIWordsStringCountSEQ::PostProcessingImpl() {
 }
 
 }  // namespace akimov_i_words_string_count
-

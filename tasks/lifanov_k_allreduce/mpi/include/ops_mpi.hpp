@@ -24,4 +24,3 @@ class LifanovKAllReduceMPI : public BaseTask {
 };
 
 }  // namespace lifanov_k_allreduce
-

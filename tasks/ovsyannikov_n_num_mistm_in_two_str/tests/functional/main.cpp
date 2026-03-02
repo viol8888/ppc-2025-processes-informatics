@@ -63,4 +63,3 @@ const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
 const auto kPerfTestName = OvsyannikovNRunFuncTestsProcesses::PrintFuncTestName<OvsyannikovNRunFuncTestsProcesses>;
 INSTANTIATE_TEST_SUITE_P(NumMistmInTwoStr, OvsyannikovNRunFuncTestsProcesses, kGtestValues, kPerfTestName);
 }  // namespace ovsyannikov_n_num_mistm_in_two_str
-

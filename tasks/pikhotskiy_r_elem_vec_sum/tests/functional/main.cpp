@@ -91,4 +91,3 @@ INSTANTIATE_TEST_SUITE_P(VectorSumTests, VectorSumTestSuite, kGtestInstances, kT
 }  // namespace
 
 }  // namespace pikhotskiy_r_elem_vec_sum
-

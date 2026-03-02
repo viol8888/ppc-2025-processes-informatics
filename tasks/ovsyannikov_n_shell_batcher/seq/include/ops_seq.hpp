@@ -23,4 +23,3 @@ class OvsyannikovNShellBatcherSEQ : public BaseTask {
 };
 
 }  // namespace ovsyannikov_n_shell_batcher
-

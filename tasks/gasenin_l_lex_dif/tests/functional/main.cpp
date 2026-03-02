@@ -110,4 +110,3 @@ INSTANTIATE_TEST_SUITE_P(LexDifTests, GaseninLRunFuncTestsLexDif, kGtestValues, 
 }  // namespace
 
 }  // namespace gasenin_l_lex_dif
-

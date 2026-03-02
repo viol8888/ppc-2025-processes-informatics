@@ -36,4 +36,3 @@ bool VectorScalarProductSeq::PostProcessingImpl() {
 }
 
 }  // namespace vector_scalar_product
-

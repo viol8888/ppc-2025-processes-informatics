@@ -38,4 +38,3 @@ const auto kPerfTestName = ExampleRunPerfTestProcesses::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ExampleRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace nesterov_a_test_task_processes
-

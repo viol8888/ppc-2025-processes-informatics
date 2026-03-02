@@ -109,4 +109,3 @@ INSTANTIATE_TEST_SUITE_P(ReducePerf, ReducePerfTests, ppc::util::TupleToGTestVal
 }  // namespace
 
 }  // namespace kutergin_v_reduce
-

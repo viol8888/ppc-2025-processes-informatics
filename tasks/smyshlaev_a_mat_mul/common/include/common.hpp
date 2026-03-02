@@ -14,4 +14,3 @@ using TestType = std::tuple<int, std::vector<double>, int, std::vector<double>, 
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace smyshlaev_a_mat_mul
-

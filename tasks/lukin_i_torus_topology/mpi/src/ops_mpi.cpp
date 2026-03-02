@@ -179,4 +179,3 @@ void LukinIThorTopologyMPI::InitTopology(int &cols, int &rows, int proc_count) {
 }
 
 }  // namespace lukin_i_torus_topology
-

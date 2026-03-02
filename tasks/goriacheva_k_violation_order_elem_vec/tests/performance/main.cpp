@@ -66,4 +66,3 @@ INSTANTIATE_TEST_SUITE_P(GoriachevaKViolationOrderElemVecPerfomanceTests, Goriac
 
 }  // namespace
 }  // namespace goriacheva_k_violation_order_elem_vec
-

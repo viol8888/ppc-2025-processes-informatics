@@ -28,4 +28,3 @@ class KhruevAGaussJordanSEQ : public BaseTask {
 };
 
 }  // namespace khruev_a_gauss_jordan
-

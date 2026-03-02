@@ -58,4 +58,3 @@ INSTANTIATE_TEST_SUITE_P(RunPerf, SizovDRunPerfTestsBubbleSort, kGtestValues, kP
 }  // namespace
 
 }  // namespace sizov_d_bubble_sort
-

@@ -92,4 +92,3 @@ INSTANTIATE_TEST_SUITE_P(HypercubeTests, EreminVRunFuncTestsHypercube, kGtestVal
 }  // namespace
 
 }  // namespace eremin_v_hypercube
-

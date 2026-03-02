@@ -52,4 +52,3 @@ INSTANTIATE_TEST_SUITE_P(
         ppc::util::MakeAllPerfTasks<InType, SpichekDJacobiMPI, SpichekDJacobiSEQ>(PPC_SETTINGS_spichek_d_jacobi)));
 
 }  // namespace spichek_d_jacobi
-

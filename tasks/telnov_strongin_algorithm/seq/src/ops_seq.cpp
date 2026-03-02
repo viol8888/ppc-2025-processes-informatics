@@ -85,4 +85,3 @@ bool TelnovStronginAlgorithmSEQ::PostProcessingImpl() {
 }
 
 }  // namespace telnov_strongin_algorithm
-

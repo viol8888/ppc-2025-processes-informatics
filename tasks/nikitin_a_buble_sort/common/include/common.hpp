@@ -14,4 +14,3 @@ using TestType = std::tuple<double, std::string>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace nikitin_a_buble_sort
-

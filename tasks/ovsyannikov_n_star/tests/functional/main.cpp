@@ -53,4 +53,3 @@ const auto kPerfTestName = OvsyannikovNStarFuncTests::PrintFuncTestName<Ovsyanni
 INSTANTIATE_TEST_SUITE_P(StarTopologyTests, OvsyannikovNStarFuncTests, kGtestValues, kPerfTestName);
 
 }  // namespace ovsyannikov_n_star
-

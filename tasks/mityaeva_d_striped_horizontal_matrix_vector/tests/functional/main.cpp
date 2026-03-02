@@ -125,4 +125,3 @@ INSTANTIATE_TEST_SUITE_P(MatrixVectorMultiplicationTests, StripedHorizontalMatri
 }  // namespace
 
 }  // namespace mityaeva_d_striped_horizontal_matrix_vector
-

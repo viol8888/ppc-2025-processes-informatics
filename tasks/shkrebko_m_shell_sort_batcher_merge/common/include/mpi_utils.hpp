@@ -28,4 +28,3 @@ inline void SendVector(int dst, int tag_base, const std::vector<int> &v, MPI_Com
 }
 
 }  // namespace shkrebko_m_shell_sort_batcher_merge
-

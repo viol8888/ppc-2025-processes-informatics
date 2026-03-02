@@ -137,4 +137,3 @@ inline std::vector<int> BatcherOddEvenMerge(const std::vector<int> &a, const std
 }
 
 }  // namespace ovsyannikov_n_shell_batcher
-

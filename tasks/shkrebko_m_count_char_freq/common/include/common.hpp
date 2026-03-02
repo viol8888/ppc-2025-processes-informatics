@@ -13,4 +13,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace shkrebko_m_count_char_freq
-

@@ -19,4 +19,3 @@ using TestType = std::tuple<std::function<double(double)>, double, double, doubl
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace gonozov_l_global_search
-

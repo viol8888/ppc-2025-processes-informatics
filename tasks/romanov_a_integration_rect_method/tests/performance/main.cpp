@@ -48,4 +48,3 @@ const auto kPerfTestName = RomanovAIntegrationRectMethodPerfTests::CustomPerfTes
 INSTANTIATE_TEST_SUITE_P(RunModeTests, RomanovAIntegrationRectMethodPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace romanov_a_integration_rect_method
-

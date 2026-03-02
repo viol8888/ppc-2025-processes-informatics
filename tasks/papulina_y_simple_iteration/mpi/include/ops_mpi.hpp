@@ -40,4 +40,3 @@ class PapulinaYSimpleIterationMPI : public BaseTask {
 };
 
 }  // namespace papulina_y_simple_iteration
-

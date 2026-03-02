@@ -60,4 +60,3 @@ TEST_P(FrolovaSSumElemMatrixRunPerfTestsProcesses, RunPerfModes) {
 INSTANTIATE_TEST_SUITE_P(RunPerf, FrolovaSSumElemMatrixRunPerfTestsProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace frolova_s_sum_elem_matrix
-

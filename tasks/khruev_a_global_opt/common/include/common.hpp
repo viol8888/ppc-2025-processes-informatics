@@ -135,4 +135,3 @@ struct Trial {
 };
 
 }  // namespace khruev_a_global_opt
-

@@ -64,4 +64,3 @@ const auto kPerfTestName = KurpiakovAVertTapeMatVecMulPerfTests::CustomPerfTestN
 INSTANTIATE_TEST_SUITE_P(RunModeTests, KurpiakovAVertTapeMatVecMulPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace kurpiakov_a_vert_tape_mat_vec_mul
-

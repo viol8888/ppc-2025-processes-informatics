@@ -42,4 +42,3 @@ const auto kPerfTestName = ExampleRunPerfTestThreads::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, ExampleRunPerfTestThreads, kGtestValues, kPerfTestName);
 
 }  // namespace nesterov_a_test_task_threads
-

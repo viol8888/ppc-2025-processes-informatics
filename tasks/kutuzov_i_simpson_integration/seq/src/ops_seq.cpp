@@ -80,4 +80,3 @@ double KutuzovISimpsonIntegrationSEQ::GetWeight(int i, int n) {
 }
 
 }  // namespace kutuzov_i_simpson_integration
-

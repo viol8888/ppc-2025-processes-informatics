@@ -92,4 +92,3 @@ INSTANTIATE_TEST_SUITE_P(CountSwapsFromGeneratorr, VotincevDAlternatigValuesRunF
 }  // namespace
 
 }  // namespace votincev_d_alternating_values
-

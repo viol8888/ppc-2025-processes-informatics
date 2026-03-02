@@ -16,4 +16,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace guseva_a_matrix_sums
-

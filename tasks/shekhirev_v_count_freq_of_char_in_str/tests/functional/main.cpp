@@ -111,4 +111,3 @@ INSTANTIATE_TEST_SUITE_P(CharFreqTests, ShekhirevVCharFreqFuncTests, kGtestValue
 }  // namespace
 
 }  // namespace shekhirev_v_char_freq_seq
-

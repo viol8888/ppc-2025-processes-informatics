@@ -24,4 +24,3 @@ class TestTaskMPI : public BaseTask {
 };
 
 }  // namespace makovskiy_i_allreduce
-

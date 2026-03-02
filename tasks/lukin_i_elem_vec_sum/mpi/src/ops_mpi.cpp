@@ -96,4 +96,3 @@ bool LukinIElemVecSumMPI::PostProcessingImpl() {
 }
 
 }  // namespace lukin_i_elem_vec_sum
-

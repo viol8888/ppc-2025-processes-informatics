@@ -132,4 +132,3 @@ const auto kPerfTestName = LiulinYIntegMnogFuncMonteCarloPerfTests::CustomPerfTe
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LiulinYIntegMnogFuncMonteCarloPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace liulin_y_integ_mnog_func_monte_carlo
-

@@ -80,4 +80,3 @@ bool SmyshlaevAGaussFiltSEQ::PostProcessingImpl() {
 }
 
 }  // namespace smyshlaev_a_gauss_filt
-

@@ -119,4 +119,3 @@ bool SakharovATransmissionFromOneToAllMPI::PostProcessingImpl() {
 }
 
 }  // namespace sakharov_a_transmission_from_one_to_all
-

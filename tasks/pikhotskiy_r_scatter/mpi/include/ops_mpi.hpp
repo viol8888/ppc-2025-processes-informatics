@@ -34,4 +34,3 @@ class PikhotskiyRScatterMPI : public BaseTask {
 };
 
 }  // namespace pikhotskiy_r_scatter
-

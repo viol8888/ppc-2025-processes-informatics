@@ -141,4 +141,3 @@ INSTANTIATE_TEST_SUITE_P(ZeninAGaussFilter, ZeninAGaussFilterFunctTests, kGtestV
 }  // namespace
 
 }  // namespace zenin_a_gauss_filter
-

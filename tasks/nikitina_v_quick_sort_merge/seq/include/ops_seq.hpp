@@ -20,4 +20,3 @@ class TestTaskSEQ : public BaseTask {
 };
 
 }  // namespace nikitina_v_quick_sort_merge
-

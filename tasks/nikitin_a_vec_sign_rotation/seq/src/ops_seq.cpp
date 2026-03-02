@@ -52,4 +52,3 @@ bool NikitinAVecSignRotationSEQ::IsSignChange(double first_value, double second_
 }
 
 }  // namespace nikitin_a_vec_sign_rotation
-

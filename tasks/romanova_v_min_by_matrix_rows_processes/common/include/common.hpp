@@ -13,4 +13,3 @@ using TestType = std::string;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace romanova_v_min_by_matrix_rows_processes
-

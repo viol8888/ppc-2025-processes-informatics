@@ -139,4 +139,3 @@ INSTANTIATE_TEST_SUITE_P(GaussVertTest, ShvetsovaKGaussVertStripRunFuncTestsProc
 }  // namespace
 
 }  // namespace shvetsova_k_gausse_vert_strip
-

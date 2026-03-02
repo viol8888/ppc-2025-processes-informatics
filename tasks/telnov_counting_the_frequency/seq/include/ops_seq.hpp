@@ -20,4 +20,3 @@ class TelnovCountingTheFrequencySEQ : public BaseTask {
 };
 
 }  // namespace telnov_counting_the_frequency
-

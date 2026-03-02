@@ -83,4 +83,3 @@ INSTANTIATE_TEST_SUITE_P(MaxDiffTest, ShvetsovaKMaxDiffNeigVecRunFuncTestsProces
 }  // namespace
 
 }  // namespace shvetsova_k_max_diff_neig_vec
-

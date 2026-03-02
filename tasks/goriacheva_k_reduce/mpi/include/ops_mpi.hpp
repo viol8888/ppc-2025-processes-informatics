@@ -24,4 +24,3 @@ class GoriachevaKReduceMPI : public BaseTask {
 };
 
 }  // namespace goriacheva_k_reduce
-

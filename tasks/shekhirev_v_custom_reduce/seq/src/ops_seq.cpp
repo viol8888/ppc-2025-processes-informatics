@@ -34,4 +34,3 @@ bool CustomReduceSequential::PostProcessingImpl() {
 }
 
 }  // namespace shekhirev_v_custom_reduce_seq
-

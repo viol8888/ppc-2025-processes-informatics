@@ -205,4 +205,3 @@ bool BaldinAGaussFilterMPI::PostProcessingImpl() {
 }
 
 }  // namespace baldin_a_gauss_filter
-

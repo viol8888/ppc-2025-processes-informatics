@@ -51,4 +51,3 @@ bool KuterginAClosestPairSEQ::PostProcessingImpl() {
 }
 
 }  // namespace kutergin_a_closest_pair
-

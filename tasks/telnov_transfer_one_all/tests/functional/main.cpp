@@ -62,4 +62,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, TelnovTransferOneAllFuncTests, kGtestVa
 }  // namespace
 
 }  // namespace telnov_transfer_one_all
-

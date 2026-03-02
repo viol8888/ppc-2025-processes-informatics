@@ -55,4 +55,3 @@ inline void BellmanFordAlgoSeq(const Graph &g, int source, std::vector<int> &dis
 }
 
 }  // namespace potashnik_m_short_ways_bellford
-

@@ -24,4 +24,3 @@ class EgorovaLBroadcastMPI : public BaseTask {
 };
 
 }  // namespace egorova_l_a_broadcast
-

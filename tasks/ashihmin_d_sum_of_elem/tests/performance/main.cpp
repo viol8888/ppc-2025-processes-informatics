@@ -47,4 +47,3 @@ const auto kPerfTestName = AshihminDElemVecSumPerfTest::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, AshihminDElemVecSumPerfTest, kGtestValues, kPerfTestName);
 
 }  // namespace ashihmin_d_sum_of_elem
-

@@ -20,4 +20,3 @@ class FrolovaSStarTopologySEQ : public BaseTask {
 };
 
 }  // namespace frolova_s_star_topology
-

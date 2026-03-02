@@ -24,4 +24,3 @@ class AkimovIWordsStringCountSEQ : public BaseTask {
 };
 
 }  // namespace akimov_i_words_string_count
-

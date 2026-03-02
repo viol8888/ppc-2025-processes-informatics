@@ -118,4 +118,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, PapulinaYRunFuncTestsProcesses, kGtestV
 }  // namespace
 
 }  // namespace papulina_y_count_of_letters
-

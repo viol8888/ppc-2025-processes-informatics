@@ -21,4 +21,3 @@ class ReduceSequential : public BaseTask {
 };
 
 }  // namespace kutergin_v_reduce
-

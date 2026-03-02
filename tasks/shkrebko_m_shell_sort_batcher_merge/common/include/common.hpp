@@ -13,4 +13,3 @@ using TestType = std::size_t;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace shkrebko_m_shell_sort_batcher_merge
-

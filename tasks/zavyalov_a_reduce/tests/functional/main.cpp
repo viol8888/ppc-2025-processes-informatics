@@ -256,4 +256,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, ZavyalovAReduceFuncTests, kGtestValues,
 }  // namespace
 
 }  // namespace zavyalov_a_reduce
-

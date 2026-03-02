@@ -163,4 +163,3 @@ bool AshihminDCalculateIntegralsBySimpsonMPI::PostProcessingImpl() {
 }
 
 }  // namespace ashihmin_d_calculate_integrals_by_simpson
-

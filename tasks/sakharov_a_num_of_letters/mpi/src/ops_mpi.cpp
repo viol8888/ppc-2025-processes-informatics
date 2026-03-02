@@ -87,4 +87,3 @@ bool SakharovANumberOfLettersMPI::PostProcessingImpl() {
 }
 
 }  // namespace sakharov_a_num_of_letters
-

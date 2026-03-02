@@ -21,4 +21,3 @@ using TestType = std::tuple<MPI_Op, MPI_Datatype, size_t,
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace zavyalov_a_reduce
-

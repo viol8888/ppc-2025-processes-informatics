@@ -58,4 +58,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, YurkinGRulerFuncTests, kGtestValues, kP
 }  // namespace
 
 }  // namespace yurkin_g_ruler
-

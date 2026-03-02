@@ -365,4 +365,3 @@ std::vector<Point> PylaevaSConvexHullBinMPI::GrahamScan(const std::vector<Point>
 }
 
 }  // namespace pylaeva_s_convex_hull_bin
-

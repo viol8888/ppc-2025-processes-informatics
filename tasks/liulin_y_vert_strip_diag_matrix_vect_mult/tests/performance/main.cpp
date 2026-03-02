@@ -138,4 +138,3 @@ const auto kPerfTestName = LiulinYVertStripDiagMatrixVectMultPerfTests::CustomPe
 INSTANTIATE_TEST_SUITE_P(RunModeTests, LiulinYVertStripDiagMatrixVectMultPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace liulin_y_vert_strip_diag_matrix_vect_mult
-

@@ -14,4 +14,3 @@ using TestType = std::tuple<InType, std::string, OutType>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace pikhotskiy_r_elem_vec_sum
-

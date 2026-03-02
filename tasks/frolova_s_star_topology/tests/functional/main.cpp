@@ -59,4 +59,3 @@ INSTANTIATE_TEST_SUITE_P(StarTopologyTests, FrolovaSRunFuncTestsProcesses, kGtes
 }  // namespace
 
 }  // namespace frolova_s_star_topology
-

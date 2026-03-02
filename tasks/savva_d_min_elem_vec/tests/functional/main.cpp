@@ -75,4 +75,3 @@ INSTANTIATE_TEST_SUITE_P(PicMatrixTests, SavvaDMinElemVecFuncTests, kGtestValues
 }  // namespace
 
 }  // namespace savva_d_min_elem_vec
-

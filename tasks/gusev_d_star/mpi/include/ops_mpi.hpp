@@ -23,4 +23,3 @@ class GusevDStarMPI : public BaseTask {
 };
 
 }  // namespace gusev_d_star
-

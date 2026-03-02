@@ -103,4 +103,3 @@ INSTANTIATE_TEST_SUITE_P(GusevaAMatrix, GusevaARunFuncTestsProcesses, kGtestValu
 }  // namespace
 
 }  // namespace guseva_a_matrix_sums
-

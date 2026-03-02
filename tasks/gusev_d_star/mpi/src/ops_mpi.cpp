@@ -114,4 +114,3 @@ void GusevDStarMPI::RunAsWorker(int input) {
 }
 
 }  // namespace gusev_d_star
-

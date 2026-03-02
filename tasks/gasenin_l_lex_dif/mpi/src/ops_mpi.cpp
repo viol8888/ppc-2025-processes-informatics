@@ -147,4 +147,3 @@ bool GaseninLLexDifMPI::PostProcessingImpl() {
 }
 
 }  // namespace gasenin_l_lex_dif
-

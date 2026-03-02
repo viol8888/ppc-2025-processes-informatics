@@ -16,4 +16,3 @@ using OutType = double;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace vector_scalar_product
-

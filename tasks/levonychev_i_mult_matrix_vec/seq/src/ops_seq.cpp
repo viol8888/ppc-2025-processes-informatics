@@ -50,4 +50,3 @@ bool LevonychevIMultMatrixVecSEQ::PostProcessingImpl() {
 }
 
 }  // namespace levonychev_i_mult_matrix_vec
-

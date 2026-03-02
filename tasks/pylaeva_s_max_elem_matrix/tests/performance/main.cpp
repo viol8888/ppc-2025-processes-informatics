@@ -52,4 +52,3 @@ const auto kPerfTestName = PylaevaSMaxElemMatrixPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, PylaevaSMaxElemMatrixPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace pylaeva_s_max_elem_matrix
-

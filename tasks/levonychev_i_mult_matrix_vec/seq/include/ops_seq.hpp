@@ -20,4 +20,3 @@ class LevonychevIMultMatrixVecSEQ : public BaseTask {
 };
 
 }  // namespace levonychev_i_mult_matrix_vec
-

@@ -48,4 +48,3 @@ const auto kPerfTestName = KosolapovVMaxValuesInColMatrixRunPerfTestProcesses::C
 INSTANTIATE_TEST_SUITE_P(RunPerfTests, KosolapovVMaxValuesInColMatrixRunPerfTestProcesses, kGtestValues, kPerfTestName);
 
 }  // namespace kosolapov_v_max_values_in_col_matrix
-

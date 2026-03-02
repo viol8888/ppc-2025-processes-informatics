@@ -179,4 +179,3 @@ bool LobanovDMultiplyMatrixSEQ::PostProcessingImpl() {
 }
 
 }  // namespace lobanov_d_multiply_matrix_ccs
-

@@ -22,4 +22,3 @@ inline std::pair<int, int> GetCyclicSrcDst(int world_size, int iter) {
 }
 
 }  // namespace potashnik_m_star_topol
-

@@ -14,4 +14,3 @@ using TestType = std::tuple<size_t, size_t>;
 using BaseTask = ppc::task::Task<InType, OutType>;
 
 }  // namespace zenin_a_sum_values_by_columns_matrix
-

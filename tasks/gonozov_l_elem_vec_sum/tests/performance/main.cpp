@@ -45,4 +45,3 @@ const auto kPerfTestName = GonozovLElemVecSumPerfTests::CustomPerfTestName;
 INSTANTIATE_TEST_SUITE_P(RunModeTests, GonozovLElemVecSumPerfTests, kGtestValues, kPerfTestName);
 
 }  // namespace gonozov_l_elem_vec_sum
-

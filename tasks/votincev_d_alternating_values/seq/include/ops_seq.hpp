@@ -24,4 +24,3 @@ class VotincevDAlternatingValuesSEQ : public BaseTask {
 };
 
 }  // namespace votincev_d_alternating_values
-
