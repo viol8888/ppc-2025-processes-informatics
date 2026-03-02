@@ -8,28 +8,26 @@
 #include "util/include/perf_test_util.hpp"
 
 namespace bruskova_v_image_smoothing {
-class ImageSmoothingPerfTests : public ppc::util::BaseRunPerfTests<InType, OutType> {
- protected:
-  void SetUp() override {
-    input_data_ = std::vector<int>(1000, 128);
-  }
+class ImageSmoothingPerfTests
+    : public ppc::util::BaseRunPerfTests<InType, OutType> {
+protected:
+  void SetUp() override { input_data_ = std::vector<int>(1000, 128); }
   bool CheckTestOutputData(OutType &output_data) final {
     return output_data.size() == input_data_.size();
   }
-  InType GetTestInputData() final {
-    return input_data_;
-  }
+  InType GetTestInputData() final { return input_data_; }
 
- private:
+private:
   InType input_data_;
 };
 
-TEST_P(ImageSmoothingPerfTests, RunPerf) {
-  ExecuteTest(GetParam());
-}
+TEST_P(ImageSmoothingPerfTests, RunPerf) { ExecuteTest(GetParam()); }
 
-const auto kAllPerfTasks = ppc::util::MakeAllPerfTasks<InType, BruskovaVImageSmoothingMPI, BruskovaVImageSmoothingSEQ>(
-    PPC_SETTINGS_bruskova_v_image_smoothing);
+const auto kAllPerfTasks =
+    ppc::util::MakeAllPerfTasks<InType, BruskovaVImageSmoothingMPI,
+                                BruskovaVImageSmoothingSEQ>(
+        PPC_SETTINGS_bruskova_v_image_smoothing);
 const auto kGtestValues = ppc::util::TupleToGTestValues(kAllPerfTasks);
-INSTANTIATE_TEST_SUITE_P(PerfTests, ImageSmoothingPerfTests, kGtestValues, ImageSmoothingPerfTests::CustomPerfTestName);
-}  // namespace bruskova_v_image_smoothing
+INSTANTIATE_TEST_SUITE_P(PerfTests, ImageSmoothingPerfTests, kGtestValues,
+                         ImageSmoothingPerfTests::CustomPerfTestName);
+} // namespace bruskova_v_image_smoothing

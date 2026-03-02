@@ -5,8 +5,9 @@
 #include "task/include/task.hpp"
 
 namespace bruskova_v_global_optimization {
-class BruskovaVGlobalOptimizationMPI : public ppc::task::BaseTask<InType, OutType> {
- public:
+class BruskovaVGlobalOptimizationMPI
+    : public ppc::task::BaseTask<InType, OutType> {
+public:
   explicit BruskovaVGlobalOptimizationMPI(const ppc::task::TaskData &data)
       : ppc::task::BaseTask<InType, OutType>(data) {}
 
@@ -19,8 +20,8 @@ class BruskovaVGlobalOptimizationMPI : public ppc::task::BaseTask<InType, OutTyp
     return ppc::task::TypeOfTask::TASK;
   }
 
- private:
+private:
   double x_min_ = 0.0, x_max_ = 0.0, y_min_ = 0.0, y_max_ = 0.0, step_ = 0.0;
   OutType result_;
 };
-}  // namespace bruskova_v_global_optimization
+} // namespace bruskova_v_global_optimization

@@ -5,7 +5,8 @@
 
 namespace bruskova_v_global_optimization {
 
-BruskovaVGlobalOptimizationSEQ::BruskovaVGlobalOptimizationSEQ(const InType &in) : BaseTask() {
+BruskovaVGlobalOptimizationSEQ::BruskovaVGlobalOptimizationSEQ(const InType &in)
+    : BaseTask() {
   this->GetInput() = in;
 }
 
@@ -44,4 +45,4 @@ bool BruskovaVGlobalOptimizationSEQ::PostProcessingImpl() {
   return true;
 }
 
-}  // namespace bruskova_v_global_optimization
+} // namespace bruskova_v_global_optimization

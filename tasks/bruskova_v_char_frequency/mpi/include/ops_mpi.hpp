@@ -13,7 +13,7 @@ using OutType = uint8_t;
 class BruskovaVCharFrequencyMPI : public BaseTask {
   using BaseTask = ppc::task::Task<InType, OutType>;
 
- public:
+public:
   static constexpr ppc::task::TypeOfTask GetStaticTypeOfTask() {
     return ppc::task::TypeOfTask::kMPI;
   }
@@ -24,10 +24,10 @@ class BruskovaVCharFrequencyMPI : public BaseTask {
   bool RunImpl() override;
   bool PostProcessingImpl() override;
 
- private:
+private:
   std::string input_str_;
   char target_char_;
   int result_count_ = 0;
 };
 
-}  // namespace bruskova_v_char_frequency
+} // namespace bruskova_v_char_frequency

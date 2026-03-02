@@ -15,18 +15,21 @@
 
 namespace bruskova_v_char_frequency {
 
-class BruskovaVCharFrequencyFuncTests : public ppc::util::BaseRunFuncTests<InType, OutType, TestType> {
- public:
+class BruskovaVCharFrequencyFuncTests
+    : public ppc::util::BaseRunFuncTests<InType, OutType, TestType> {
+public:
   BruskovaVCharFrequencyFuncTests() = default;
 
   // Обязательный метод для печати параметров
-  static std::string PrintTestParam(const testing::TestParamInfo<ParamType>& info) {
+  static std::string
+  PrintTestParam(const testing::TestParamInfo<ParamType> &info) {
     return "CharFreqTest";
   }
 
- protected:
+protected:
   void SetUp() override {
-    TestType params = std::get<static_cast<std::size_t>(ppc::util::GTestParamIndex::kTestParams)>(GetParam());
+    TestType params = std::get<static_cast<std::size_t>(
+        ppc::util::GTestParamIndex::kTestParams)>(GetParam());
     input_data_ = std::get<0>(params);
     expected_output_ = std::get<1>(params);
   }
@@ -40,11 +43,9 @@ class BruskovaVCharFrequencyFuncTests : public ppc::util::BaseRunFuncTests<InTyp
     return output_data == expected_output_;
   }
 
-  InType GetTestInputData() final {
-    return input_data_;
-  }
+  InType GetTestInputData() final { return input_data_; }
 
- private:
+private:
   InType input_data_;
   OutType expected_output_;
 };
@@ -61,13 +62,17 @@ const std::array<TestType, 5> kTestParam = {
     TestType{std::make_pair(std::string("z"), 'z'), 1}};
 
 // ИСПРАВЛЕНО: Оставлен только один шаблонный аргумент InType
-const auto kTestTasksList = std::tuple_cat(
-    ppc::util::AddFuncTask<BruskovaVCharFrequencyMPI, InType>(kTestParam, "bruskova_v_char_frequency_mpi"),
-    ppc::util::AddFuncTask<BruskovaVCharFrequencySEQ, InType>(kTestParam, "bruskova_v_char_frequency_seq"));
+const auto kTestTasksList =
+    std::tuple_cat(ppc::util::AddFuncTask<BruskovaVCharFrequencyMPI, InType>(
+                       kTestParam, "bruskova_v_char_frequency_mpi"),
+                   ppc::util::AddFuncTask<BruskovaVCharFrequencySEQ, InType>(
+                       kTestParam, "bruskova_v_char_frequency_seq"));
 
 const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
 
-INSTANTIATE_TEST_SUITE_P(CharFrequencyTests, BruskovaVCharFrequencyFuncTests, kGtestValues,
-                         BruskovaVCharFrequencyFuncTests::PrintFuncTestName<BruskovaVCharFrequencyFuncTests>);
+INSTANTIATE_TEST_SUITE_P(CharFrequencyTests, BruskovaVCharFrequencyFuncTests,
+                         kGtestValues,
+                         BruskovaVCharFrequencyFuncTests::PrintFuncTestName<
+                             BruskovaVCharFrequencyFuncTests>);
 
-}  // namespace bruskova_v_char_frequency
+} // namespace bruskova_v_char_frequency
