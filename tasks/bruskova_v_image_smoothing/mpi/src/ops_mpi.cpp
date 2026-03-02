@@ -9,14 +9,10 @@ class BruskovaVImageSmoothingMPI : public ppc::task::Task<InType, OutType> {
  public:
   explicit BruskovaVImageSmoothingMPI(const InType &in) : ppc::task::Task<InType, OutType>() {}
 
-  
-
   bool PreProcessingImpl() override;
   bool ValidationImpl() override;
   bool RunImpl() override;
   bool PostProcessingImpl() override;
-
-  
 
  private:
   std::vector<int> input_img_;
