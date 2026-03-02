@@ -10,10 +10,13 @@ namespace bruskova_v_char_frequency {
 using InType = uint8_t;
 using OutType = uint8_t;
 
-class BruskovaVCharFrequencyMPI : public ppc::task::Task<InType, OutType> {
+class BruskovaVCharFrequencyMPI : public BaseTask {
   using BaseTask = ppc::task::Task<InType, OutType>;
 
  public:
+  static constexpr ppc::task::TypeOfTask GetStaticTypeOfTask() {
+    return ppc::task::TypeOfTask::kMPI;
+  }
   explicit BruskovaVCharFrequencyMPI(const InType &in);
 
   bool PreProcessingImpl() override;

@@ -9,10 +9,13 @@ namespace bruskova_v_image_smoothing {
 using InType = uint8_t;
 using OutType = uint8_t;
 
-class BruskovaVImageSmoothingMPI : public ppc::task::Task<InType, OutType> {
+class BruskovaVImageSmoothingMPI : public BaseTask {
   using BaseTask = ppc::task::Task<InType, OutType>;
 
  public:
+  static constexpr ppc::task::TypeOfTask GetStaticTypeOfTask() {
+    return ppc::task::TypeOfTask::kMPI;
+  }
   explicit BruskovaVImageSmoothingMPI(const InType &in);
 
   bool PreProcessingImpl() override;

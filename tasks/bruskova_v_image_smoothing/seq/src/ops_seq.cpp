@@ -2,8 +2,9 @@
 
 namespace bruskova_v_image_smoothing {
 
-BruskovaVImageSmoothingSEQ::BruskovaVImageSmoothingSEQ(const InType &in) : BaseTask() {
-  this->GetInput() = in;
+BruskovaVImageSmoothingSEQ::BruskovaVImageSmoothingSEQ(const InType &in) {
+  SetTypeOfTask(GetStaticTypeOfTask());
+  GetInput() = in;
 }
 
 bool BruskovaVImageSmoothingSEQ::ValidationImpl() {

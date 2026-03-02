@@ -10,10 +10,13 @@ namespace bruskova_v_char_frequency {
 using InType = uint8_t;
 using OutType = uint8_t;
 
-class BruskovaVCharFrequencySEQ : public ppc::task::Task<InType, OutType> {
+class BruskovaVCharFrequencySEQ : public BaseTask {
   using BaseTask = ppc::task::Task<InType, OutType>;
 
  public:
+  static constexpr ppc::task::TypeOfTask GetStaticTypeOfTask() {
+    return ppc::task::TypeOfTask::kSEQ;
+  }
   explicit BruskovaVCharFrequencySEQ(const InType &in);
 
   bool PreProcessingImpl() override;
