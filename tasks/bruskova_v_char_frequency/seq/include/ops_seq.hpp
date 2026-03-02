@@ -7,12 +7,14 @@
 #include "task/include/task.hpp"
 
 namespace bruskova_v_char_frequency {
+using InType = uint8_t;
+using OutType = uint8_t;
 
 class BruskovaVCharFrequencySEQ : public ppc::task::Task<InType, OutType> {
   using BaseTask = ppc::task::Task<InType, OutType>;
 
  public:
-  explicit BruskovaVCharFrequencySEQ(const InType &in) : ppc::task::Task<InType, OutType>() {}
+  explicit BruskovaVCharFrequencySEQ(const InType &in);
 
   bool PreProcessingImpl() override;
   bool ValidationImpl() override;
