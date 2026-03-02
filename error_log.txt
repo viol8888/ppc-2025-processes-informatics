@@ -1,0 +1,215 @@
+[  0%] Creating directories for 'ppc_json'
+[  0%] No download step for 'ppc_json'
+[  0%] No update step for 'ppc_json'
+[  0%] No patch step for 'ppc_json'
+[  0%] Performing configure step for 'ppc_json'
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/g++-14 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using the multi-header code from /workspaces/ppc-2025-processes-informatics/3rdparty/json/include/
+-- Configuring done (6.0s)
+-- Generating done (0.2s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_C_COMPILER
+    CMAKE_C_COMPILER_LAUNCHER
+
+
+-- Build files have been written to: /workspaces/ppc-2025-processes-informatics/build/ppc_json/build
+[  0%] Performing build step for 'ppc_json'
+[  0%] Performing install step for 'ppc_json'
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/adl_serializer.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/byte_container_with_subtype.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/abi_macros.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/conversions
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/conversions/from_json.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/conversions/to_chars.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/conversions/to_json.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/exceptions.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/hash.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/input
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/input/binary_reader.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/input/input_adapters.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/input/json_sax.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/input/lexer.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/input/parser.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/input/position_t.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/iterators
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/iterators/internal_iterator.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/iterators/iteration_proxy.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/iterators/iterator_traits.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/iterators/iter_impl.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/iterators/json_reverse_iterator.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/iterators/primitive_iterator.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/json_custom_base_class.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/json_pointer.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/json_ref.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/macro_scope.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/macro_unscope.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/call_std
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/call_std/begin.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/call_std/end.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/cpp_future.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/detected.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/identity_tag.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/is_sax.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/std_fs.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/type_traits.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/meta/void_t.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/output
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/output/binary_writer.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/output/output_adapters.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/output/serializer.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/string_concat.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/string_escape.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/string_utils.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/detail/value_t.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/json.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/json_fwd.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/ordered_map.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/thirdparty
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/thirdparty/hedley
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/thirdparty/hedley/hedley.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/share/cmake/nlohmann_json/nlohmann_jsonConfig.cmake
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/share/cmake/nlohmann_json/nlohmann_jsonConfigVersion.cmake
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/share/cmake/nlohmann_json/nlohmann_jsonTargets.cmake
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_json/install/share/pkgconfig/nlohmann_json.pc
+[  0%] Completed 'ppc_json'
+[  0%] Built target ppc_json
+[  0%] Creating directories for 'ppc_libenvpp'
+[  0%] No download step for 'ppc_libenvpp'
+[  0%] No update step for 'ppc_libenvpp'
+[  0%] No patch step for 'ppc_libenvpp'
+[  0%] Performing configure step for 'ppc_libenvpp'
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/g++-14 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Fetching fmt from submodule
+-- {fmt} version: 11.0.2
+-- Build type: Release
+-- Configuring done (42.8s)
+-- Generating done (1.7s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_C_COMPILER
+
+
+-- Build files have been written to: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/build
+[  0%] Performing build step for 'ppc_libenvpp'
+[ 10%] Building CXX object _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o
+[ 20%] Building CXX object _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o
+[ 30%] Linking CXX static library libfmt.a
+[ 30%] Built target fmt
+[ 50%] Building CXX object CMakeFiles/libenvpp.dir/source/levenshtein.cpp.o
+[ 50%] Building CXX object CMakeFiles/libenvpp.dir/source/libenvpp_environment_unix.cpp.o
+[ 70%] Building CXX object CMakeFiles/libenvpp.dir/source/libenvpp_environment_windows.cpp.o
+[ 90%] Building CXX object CMakeFiles/libenvpp.dir/source/libenvpp_environment.cpp.o
+[ 90%] Building CXX object CMakeFiles/libenvpp.dir/source/libenvpp_errors.cpp.o
+[ 90%] Building CXX object CMakeFiles/libenvpp.dir/source/libenvpp_testing.cpp.o
+[100%] Linking CXX static library libenvpp.a
+[100%] Built target libenvpp
+[  1%] Performing install step for 'ppc_libenvpp'
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/lib/libfmt.a
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/args.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/base.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/chrono.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/color.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/compile.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/core.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/format.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/format-inl.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/os.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/ostream.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/printf.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/ranges.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/std.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/include/fmt/xchar.h
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/lib/cmake/fmt/fmt-config.cmake
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/lib/cmake/fmt/fmt-config-version.cmake
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/lib/cmake/fmt/fmt-targets.cmake
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/lib/cmake/fmt/fmt-targets-release.cmake
+-- Installing: /workspaces/ppc-2025-processes-informatics/build/ppc_libenvpp/install/lib/pkgconfig/fmt.pc
+[  1%] Completed 'ppc_libenvpp'
+[  1%] Built target ppc_libenvpp
+[  1%] Creating directories for 'ppc_onetbb'
+[  1%] No download step for 'ppc_onetbb'
+[  1%] No update step for 'ppc_onetbb'
+[  1%] No patch step for 'ppc_onetbb'
+[  1%] Performing configure step for 'ppc_onetbb'
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/g++-14 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Looking for getcontext
+-- Looking for getcontext - found
+-- IPO enabled
+-- GNU Assembler version: 2.42  (2042)
+-- The C compiler identification is GNU 14.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/gcc-14 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- HWLOC target HWLOC::hwloc_1_11 doesn't exist. The tbbbind target cannot be created
+-- HWLOC target HWLOC::hwloc_2 doesn't exist. The tbbbind_2_0 target cannot be created
+-- HWLOC target HWLOC::hwloc_2_5 doesn't exist. The tbbbind_2_5 target cannot be created
+-- Configuring done (28.4s)
+-- Generating done (5.3s)
+-- Build files have been written to: /workspaces/ppc-2025-processes-informatics/build/ppc_onetbb/build
+[  1%] Performing build step for 'ppc_onetbb'
+[  2%] Building CXX object src/tbbmalloc/CMakeFiles/tbbmalloc.dir/backend.cpp.o
+[  6%] Building CXX object src/tbbmalloc/CMakeFiles/tbbmalloc.dir/backref.cpp.o
+[  6%] Building CXX object src/tbbmalloc/CMakeFiles/tbbmalloc.dir/frontend.cpp.o
+[ 11%] Building CXX object src/tbbmalloc/CMakeFiles/tbbmalloc.dir/large_objects.cpp.o
+[ 11%] Building CXX object src/tbbmalloc/CMakeFiles/tbbmalloc.dir/tbbmalloc.cpp.o
+[ 13%] Building CXX object src/tbbmalloc/CMakeFiles/tbbmalloc.dir/__/tbb/itt_notify.cpp.o
+[ 18%] Building CXX object src/tbb/CMakeFiles/tbb.dir/allocator.cpp.o
+[ 18%] Building CXX object src/tbb/CMakeFiles/tbb.dir/address_waiter.cpp.o
+[ 20%] Building CXX object src/tbb/CMakeFiles/tbb.dir/arena.cpp.o
+[ 23%] Building CXX object src/tbb/CMakeFiles/tbb.dir/arena_slot.cpp.o
+[ 25%] Building CXX object src/tbb/CMakeFiles/tbb.dir/concurrent_bounded_queue.cpp.o
+[ 30%] Building CXX object src/tbb/CMakeFiles/tbb.dir/dynamic_link.cpp.o
+[ 30%] Building CXX object src/tbb/CMakeFiles/tbb.dir/exception.cpp.o
+[ 32%] Building CXX object src/tbb/CMakeFiles/tbb.dir/governor.cpp.o
+[ 39%] Building CXX object src/tbb/CMakeFiles/tbb.dir/global_control.cpp.o
+[ 41%] Building CXX object src/tbb/CMakeFiles/tbb.dir/itt_notify.cpp.o
+[ 41%] Building CXX object src/tbb/CMakeFiles/tbb.dir/main.cpp.o
+[ 44%] Building CXX object src/tbb/CMakeFiles/tbb.dir/market.cpp.o
+[ 46%] Building CXX object src/tbb/CMakeFiles/tbb.dir/tcm_adaptor.cpp.o
+[ 48%] Building CXX object src/tbb/CMakeFiles/tbb.dir/misc.cpp.o
+[ 48%] Building CXX object src/tbb/CMakeFiles/tbb.dir/misc_ex.cpp.o
+[ 53%] Building CXX object src/tbb/CMakeFiles/tbb.dir/observer_proxy.cpp.o
+[ 55%] Building CXX object src/tbb/CMakeFiles/tbb.dir/parallel_pipeline.cpp.o
+[ 55%] Building CXX object src/tbb/CMakeFiles/tbb.dir/private_server.cpp.o
+[ 62%] Building CXX object src/tbb/CMakeFiles/tbb.dir/profiling.cpp.o
+[ 60%] Building CXX object src/tbb/CMakeFiles/tbb.dir/rml_tbb.cpp.o
+[ 65%] Building CXX object src/tbb/CMakeFiles/tbb.dir/rtm_mutex.cpp.o
+[ 65%] Building CXX object src/tbb/CMakeFiles/tbb.dir/rtm_rw_mutex.cpp.o
+[ 69%] Building CXX object src/tbb/CMakeFiles/tbb.dir/semaphore.cpp.o
+[ 69%] Building CXX object src/tbb/CMakeFiles/tbb.dir/small_object_pool.cpp.o
+[ 76%] Building CXX object src/tbb/CMakeFiles/tbb.dir/task_dispatcher.cpp.o
+[ 76%] Building CXX object src/tbb/CMakeFiles/tbb.dir/task.cpp.o
+[ 76%] Building CXX object src/tbb/CMakeFiles/tbb.dir/task_group_context.cpp.o
+[ 79%] Building CXX object src/tbb/CMakeFiles/tbb.dir/thread_dispatcher.cpp.o
+[ 81%] Building CXX object src/tbb/CMakeFiles/tbb.dir/thread_request_serializer.cpp.o
+[ 83%] Building CXX object src/tbb/CMakeFiles/tbb.dir/threading_control.cpp.o
+[ 88%] Building CXX object src/tbb/CMakeFiles/tbb.dir/queuing_rw_mutex.cpp.o
+[ 88%] Building CXX object src/tbb/CMakeFiles/tbb.dir/version.cpp.o
