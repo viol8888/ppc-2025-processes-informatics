@@ -6,8 +6,6 @@
 #include "task/include/task.hpp"
 
 namespace bruskova_v_image_smoothing {
-using InType = uint8_t;
-using OutType = uint8_t;
 
 class BruskovaVImageSmoothingSEQ : public BaseTask {
   using BaseTask = ppc::task::Task<InType, OutType>;

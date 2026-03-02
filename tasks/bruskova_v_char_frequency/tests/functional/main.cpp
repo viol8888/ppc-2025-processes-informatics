@@ -19,6 +19,11 @@ class BruskovaVCharFrequencyFuncTests : public ppc::util::BaseRunFuncTests<InTyp
  public:
   BruskovaVCharFrequencyFuncTests() = default;
 
+  // Обязательный метод для печати параметров
+  static std::string PrintTestParam(const testing::TestParamInfo<ParamType>& info) {
+    return "CharFreqTest";
+  }
+
  protected:
   void SetUp() override {
     TestType params = std::get<static_cast<std::size_t>(ppc::util::GTestParamIndex::kTestParams)>(GetParam());
@@ -34,31 +39,35 @@ class BruskovaVCharFrequencyFuncTests : public ppc::util::BaseRunFuncTests<InTyp
     }
     return output_data == expected_output_;
   }
+
   InType GetTestInputData() final {
     return input_data_;
   }
 
  private:
   InType input_data_;
-  OutType expected_output_ = 0;
+  OutType expected_output_;
 };
 
 TEST_P(BruskovaVCharFrequencyFuncTests, TestCharFrequency) {
   ExecuteTest(GetParam());
 }
 
-const std::array<TestType, 5> kTestParam = {TestType{std::make_pair(std::string("abracadabra"), 'a'), 5},
-                                            TestType{std::make_pair(std::string("hello world"), 'o'), 2},
-                                            TestType{std::make_pair(std::string("aaaaa"), 'b'), 0},
-                                            TestType{std::make_pair(std::string(""), 'x'), 0},
-                                            TestType{std::make_pair(std::string("z"), 'z'), 1}};
+const std::array<TestType, 5> kTestParam = {
+    TestType{std::make_pair(std::string("abracadabra"), 'a'), 5},
+    TestType{std::make_pair(std::string("hello world"), 'o'), 2},
+    TestType{std::make_pair(std::string("aaaaa"), 'b'), 0},
+    TestType{std::make_pair(std::string(""), 'x'), 0},
+    TestType{std::make_pair(std::string("z"), 'z'), 1}};
 
-const auto kTestTasksList = std::tuple_cat(ppc::util::AddFuncTask<BruskovaVCharFrequencyMPI, InType, OutType, TestType>(
-                                               kTestParam, "bruskova_v_char_frequency_mpi"),
-                                           ppc::util::AddFuncTask<BruskovaVCharFrequencySEQ, InType, OutType, TestType>(
-                                               kTestParam, "bruskova_v_char_frequency_seq"));
+// ИСПРАВЛЕНО: Оставлен только один шаблонный аргумент InType
+const auto kTestTasksList = std::tuple_cat(
+    ppc::util::AddFuncTask<BruskovaVCharFrequencyMPI, InType>(kTestParam, "bruskova_v_char_frequency_mpi"),
+    ppc::util::AddFuncTask<BruskovaVCharFrequencySEQ, InType>(kTestParam, "bruskova_v_char_frequency_seq"));
+
 const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
 
-INSTANTIATE_TEST_SUITE_P(CharFrequencyTests, BruskovaVCharFrequencyFuncTests, kGtestValues);
+INSTANTIATE_TEST_SUITE_P(CharFrequencyTests, BruskovaVCharFrequencyFuncTests, kGtestValues,
+                         BruskovaVCharFrequencyFuncTests::PrintFuncTestName<BruskovaVCharFrequencyFuncTests>);
 
 }  // namespace bruskova_v_char_frequency
