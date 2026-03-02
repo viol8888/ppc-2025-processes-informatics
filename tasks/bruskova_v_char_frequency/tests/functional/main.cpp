@@ -54,9 +54,8 @@ const std::array<TestType, 5> kTestParam = {TestType{std::make_pair(std::string(
                                             TestType{std::make_pair(std::string("z"), 'z'), 1}};
 
 const auto kTestTasksList = std::tuple_cat(
-    ppc::util::AddFuncTask<BruskovaVCharFrequencyMPI, InType>(kTestParam, PPC_SETTINGS_bruskova_v_char_frequency),
-    ppc::util::AddFuncTask<BruskovaVCharFrequencySEQ, InType>(kTestParam, PPC_SETTINGS_bruskova_v_char_frequency));
-
+    ppc::util::AddFuncTask<BruskovaVCharFrequencyMPI, InType, OutType, TestType>(kTestParam, "bruskova_v_char_frequency_mpi"),
+    ppc::util::AddFuncTask<BruskovaVCharFrequencySEQ, InType, OutType, TestType>(kTestParam, "bruskova_v_char_frequency_seq"));
 const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
 
 INSTANTIATE_TEST_SUITE_P(CharFrequencyTests, BruskovaVCharFrequencyFuncTests, kGtestValues);

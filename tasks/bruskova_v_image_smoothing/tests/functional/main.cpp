@@ -39,7 +39,6 @@ const std::vector<TestType> kTestParam = {std::make_tuple(10), std::make_tuple(5
 const auto kTestTasksList = std::tuple_cat(
     ppc::util::AddFuncTask<BruskovaVImageSmoothingMPI, InType, OutType, TestType>(kTestParam, "bruskova_v_image_smoothing_mpi"),
     ppc::util::AddFuncTask<BruskovaVImageSmoothingSEQ, InType, OutType, TestType>(kTestParam, "bruskova_v_image_smoothing_seq"));
-
 const auto kGtestValues = ppc::util::ExpandToValues(kTestTasksList);
 
 INSTANTIATE_TEST_SUITE_P(FuncTests, BruskovaVImageSmoothingFuncTests, kGtestValues,
