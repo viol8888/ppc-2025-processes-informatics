@@ -1,8 +1,7 @@
 #include <gtest/gtest.h>
-
-#include <string>
 #include <tuple>
 #include <vector>
+#include <string>
 
 #include "bruskova_v_image_smoothing/common/include/common.hpp"
 #include "bruskova_v_image_smoothing/mpi/include/ops_mpi.hpp"
@@ -13,9 +12,8 @@ namespace bruskova_v_image_smoothing {
 
 class BruskovaVImageSmoothingFuncTests : public ppc::util::BaseRunFuncTests<InType, OutType, TestType> {
  public:
-  static std::string PrintTestParam(const testing::TestParamInfo<ParamType> &info) {
-    auto test_params = std::get<static_cast<std::size_t>(ppc::util::GTestParamIndex::kTestParams)>(info.param);
-    return std::to_string(std::get<0>(test_params));
+  static std::string PrintTestParam(const TestType& test_param) {
+    return std::to_string(std::get<0>(test_param));
   }
 
  protected:
@@ -23,7 +21,7 @@ class BruskovaVImageSmoothingFuncTests : public ppc::util::BaseRunFuncTests<InTy
     auto test_params = std::get<static_cast<std::size_t>(ppc::util::GTestParamIndex::kTestParams)>(GetParam());
     int size = std::get<0>(test_params);
     input_data_ = std::vector<int>(size, 128);
-    expected_output_ = std::vector<int>(size, 128);
+    expected_output_ = std::vector<int>(size, 128); 
   }
 
   bool CheckTestOutputData(OutType &output_data) final {
