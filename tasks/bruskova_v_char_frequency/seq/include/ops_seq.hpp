@@ -8,19 +8,18 @@
 
 namespace bruskova_v_char_frequency {
 
-class BruskovaVCharFrequencySEQ : public ppc::Task<InType, OutType> {
+class BruskovaVCharFrequencySEQ : public ppc::task::Task<InType, OutType> {
+  using BaseTask = ppc::task::Task<InType, OutType>;
  public:
-  explicit BruskovaVCharFrequencySEQ(const InType &in) : ppc::Task<InType, OutType>(in) {}
-  explicit BruskovaVCharFrequencySEQ(const ppc::TaskData &data) : ppc::Task<InType, OutType>(data) {}
+  explicit BruskovaVCharFrequencySEQ(const InType &in) : ppc::task::Task<InType, OutType>() {}
+  
 
   bool PreProcessingImpl() override;
   bool ValidationImpl() override;
   bool RunImpl() override;
   bool PostProcessingImpl() override;
 
-  ppc::TaskType GetTaskType() const override {
-    return ppc::TaskType::TASK;
-  }
+  
 
  private:
   std::string input_str_;

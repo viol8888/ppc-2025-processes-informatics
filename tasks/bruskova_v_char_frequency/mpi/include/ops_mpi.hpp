@@ -8,19 +8,18 @@
 
 namespace bruskova_v_char_frequency {
 
-class BruskovaVCharFrequencyMPI : public ppc::Task<InType, OutType> {
+class BruskovaVCharFrequencyMPI : public ppc::task::Task<InType, OutType> {
+  using BaseTask = ppc::task::Task<InType, OutType>;
  public:
-  explicit BruskovaVCharFrequencyMPI(const InType &in) : ppc::Task<InType, OutType>(in) {}
-  explicit BruskovaVCharFrequencyMPI(const ppc::TaskData &data) : ppc::Task<InType, OutType>(data) {}
+  explicit BruskovaVCharFrequencyMPI(const InType &in) : ppc::task::Task<InType, OutType>() {}
+  
 
   bool PreProcessingImpl() override;
   bool ValidationImpl() override;
   bool RunImpl() override;
   bool PostProcessingImpl() override;
 
-  ppc::TaskType GetTaskType() const override {
-    return ppc::TaskType::TASK;
-  }
+  
 
  private:
   std::string input_str_;

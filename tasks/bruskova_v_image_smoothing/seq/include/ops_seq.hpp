@@ -7,19 +7,18 @@
 
 namespace bruskova_v_image_smoothing {
 
-class BruskovaVImageSmoothingSEQ : public ppc::Task<InType, OutType> {
+class BruskovaVImageSmoothingSEQ : public ppc::task::Task<InType, OutType> {
+  using BaseTask = ppc::task::Task<InType, OutType>;
  public:
-  explicit BruskovaVImageSmoothingSEQ(const InType &in) : ppc::Task<InType, OutType>(in) {}
-  explicit BruskovaVImageSmoothingSEQ(const ppc::TaskData &data) : ppc::Task<InType, OutType>(data) {}
+  explicit BruskovaVImageSmoothingSEQ(const InType &in) : ppc::task::Task<InType, OutType>() {}
+  
 
   bool PreProcessingImpl() override;
   bool ValidationImpl() override;
   bool RunImpl() override;
   bool PostProcessingImpl() override;
 
-  ppc::TaskType GetTaskType() const override {
-    return ppc::TaskType::TASK;
-  }
+  
 
  private:
   std::vector<int> input_img_;
