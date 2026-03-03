@@ -3,22 +3,21 @@
 #include <vector>
 
 #include "bruskova_v_image_smoothing/common/include/common.hpp"
-#include "core/include/task.hpp"
+#include "task/include/task.hpp"
 
 namespace bruskova_v_image_smoothing {
 
-class BruskovaVImageSmoothingMPI : public ppc::core::Task<InType, OutType> {
+class BruskovaVImageSmoothingMPI : public ppc::task::Task<InType, OutType> {
  public:
-  explicit BruskovaVImageSmoothingMPI(const InType &in) : ppc::core::Task<InType, OutType>(in) {}
-  explicit BruskovaVImageSmoothingMPI(const ppc::core::TaskData &data) : ppc::core::Task<InType, OutType>(data) {}
+  explicit BruskovaVImageSmoothingMPI(const InType &in) : ppc::task::Task<InType, OutType>(in) {}
 
   bool PreProcessingImpl() override;
   bool ValidationImpl() override;
   bool RunImpl() override;
   bool PostProcessingImpl() override;
 
-  ppc::core::TaskType GetTaskType() const override {
-    return ppc::core::TaskType::TASK;
+  static constexpr ppc::task::TypeOfTask GetStaticTypeOfTask() {
+    return ppc::task::TypeOfTask::kMPI;
   }
 
  private:
