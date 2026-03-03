@@ -2,12 +2,14 @@
 #include <vector>
 
 #include "bruskova_v_global_optimization/common/include/common.hpp"
+#include "task/include/task.hpp"
 
 namespace bruskova_v_global_optimization {
 
-class BruskovaVGlobalOptimizationSEQ : public BaseTask {
+class BruskovaVGlobalOptimizationSEQ : public ppc::task::Task<InType, OutType> {
  public:
-  explicit BruskovaVGlobalOptimizationSEQ(const InType &in);
+  explicit BruskovaVGlobalOptimizationSEQ(const InType& in) : ppc::task::Task<InType, OutType>(in) {}
+
   bool PreProcessingImpl() override;
   bool ValidationImpl() override;
   bool RunImpl() override;
@@ -18,7 +20,7 @@ class BruskovaVGlobalOptimizationSEQ : public BaseTask {
   }
 
  private:
-  double x_min_, x_max_, y_min_, y_max_, step_;
+  double x_min_ = 0.0, x_max_ = 0.0, y_min_ = 0.0, y_max_ = 0.0, step_ = 0.0;
   std::vector<double> result_;
 };
 
