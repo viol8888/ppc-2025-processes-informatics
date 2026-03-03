@@ -17,7 +17,9 @@ class BruskovaVImageSmoothingMPI : public ppc::core::Task<InType, OutType> {
   bool RunImpl() override;
   bool PostProcessingImpl() override;
 
-  ppc::core::TaskType GetTaskType() const override { return ppc::core::TaskType::TASK; }
+  ppc::core::TaskType GetTaskType() const override {
+    return ppc::core::TaskType::TASK;
+  }
 
  private:
   std::vector<int> input_img_;
